@@ -1,4 +1,6 @@
 class Replay < ApplicationRecord
+  include Vault
+
   OPPONENT_TYPES = %w(human cpu).freeze
 
   belongs_to :user, optional: true
@@ -17,6 +19,14 @@ class Replay < ApplicationRecord
 
   def map_name
     Relic::Resources::Collection.resource_text(map_resource_id, :english)
+  end
+
+  def self.create_from_file(file, user)
+    ptr = Vault.parse_to_cstring(file.path)
+    replay_json = JSON.parse(ptr.read_string)
+    Vault.free_cstring(ptr)
+
+    Replay.create_from_json(replay_json, user, file)
   end
 
   def self.create_from_json(json, user, rec)
