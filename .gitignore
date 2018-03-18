@@ -16,3 +16,6 @@
 
 # Ignore Intellij config
 .idea
+
+# Ignore development env variables file
+.env
