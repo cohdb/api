@@ -24,6 +24,7 @@ gem 'steam-api' # Steam API
 group :development, :test do
   gem 'awesome_print' # pretty printing
   gem 'byebug', platform: :mri # debugging
+  gem 'dotenv-rails' # environment variable loading
   gem 'rspec-rails', '~> 3.7' # testing
 end
 
