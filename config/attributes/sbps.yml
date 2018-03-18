@@ -1,0 +1,2569 @@
+---
+'18525':
+  :pbgid: '18525'
+  :screen_name: '0'
+  :icon_name: Icons_vehicles_vehicle_aef_m4a3_sherman
+  :help_text: '0'
+  :extra_text: '0'
+'16817':
+  :pbgid: '16817'
+  :screen_name: '11078032'
+  :icon_name: Icons_units_unit_aef_riflemen
+  :help_text: '11078033'
+  :extra_text: '11078034'
+'14449':
+  :pbgid: '14449'
+  :screen_name: '0'
+  :icon_name: Icons_vehicles_vehicle_soviet_il2
+  :help_text: '0'
+  :extra_text: '0'
+'16816':
+  :pbgid: '16816'
+  :screen_name: '11051096'
+  :icon_name: Icons_vehicles_vehicle_aef_halftrack_m3
+  :help_text: '11051522'
+  :extra_text: '11051510'
+'16464':
+  :pbgid: '16464'
+  :screen_name: '0'
+  :icon_name: ''
+  :help_text: '0'
+  :extra_text: '0'
+'16571':
+  :pbgid: '16571'
+  :screen_name: '0'
+  :icon_name: ''
+  :help_text: '0'
+  :extra_text: '0'
+'16539':
+  :pbgid: '16539'
+  :screen_name: '0'
+  :icon_name: Icons_vehicles_vehicle_soviet_il2
+  :help_text: '0'
+  :extra_text: '0'
+'16545':
+  :pbgid: '16545'
+  :screen_name: '0'
+  :icon_name: Icons_vehicles_vehicle_soviet_il2
+  :help_text: '0'
+  :extra_text: '0'
+'19539':
+  :pbgid: '19539'
+  :screen_name: '0'
+  :icon_name: Icons_vehicles_vehicle_soviet_il2
+  :help_text: '0'
+  :extra_text: '0'
+'16544':
+  :pbgid: '16544'
+  :screen_name: '0'
+  :icon_name: Icons_vehicles_vehicle_soviet_il2
+  :help_text: '0'
+  :extra_text: '0'
+'19534':
+  :pbgid: '19534'
+  :screen_name: '0'
+  :icon_name: Icons_vehicles_vehicle_soviet_il2
+  :help_text: '0'
+  :extra_text: '0'
+'17864':
+  :pbgid: '17864'
+  :screen_name: '0'
+  :icon_name: Icons_vehicles_vehicle_aef_p47_thunderbolt
+  :help_text: '0'
+  :extra_text: '0'
+'17818':
+  :pbgid: '17818'
+  :screen_name: '0'
+  :icon_name: Icons_vehicles_vehicle_aef_p47_thunderbolt
+  :help_text: '0'
+  :extra_text: '0'
+'17817':
+  :pbgid: '17817'
+  :screen_name: '0'
+  :icon_name: Icons_vehicles_vehicle_aef_p47_thunderbolt
+  :help_text: '0'
+  :extra_text: '0'
+'16559':
+  :pbgid: '16559'
+  :screen_name: '0'
+  :icon_name: ''
+  :help_text: '0'
+  :extra_text: '0'
+'16352':
+  :pbgid: '16352'
+  :screen_name: '11077132'
+  :icon_name: Icons_units_unit_aef_officer_major
+  :help_text: '0'
+  :extra_text: '0'
+'85914':
+  :pbgid: '85914'
+  :screen_name: '0'
+  :icon_name: Icons_units_unit_aef_assault_engineers
+  :help_text: '0'
+  :extra_text: '0'
+'2619':
+  :pbgid: '2619'
+  :screen_name: '11051141'
+  :icon_name: Icons_units_unit_aef_assault_engineers
+  :help_text: '11051559'
+  :extra_text: '11051560'
+'2620':
+  :pbgid: '2620'
+  :screen_name: '11051142'
+  :icon_name: Icons_units_unit_aef_officer_captain
+  :help_text: '11051352'
+  :extra_text: '11051353'
+'2621':
+  :pbgid: '2621'
+  :screen_name: '11051143'
+  :icon_name: Icons_units_unit_aef_officer_lieutenant
+  :help_text: '11051350'
+  :extra_text: '11051351'
+'2627':
+  :pbgid: '2627'
+  :screen_name: '11051146'
+  :icon_name: Icons_units_unit_aef_officer_major
+  :help_text: '11051355'
+  :extra_text: '11051354'
+'17681':
+  :pbgid: '17681'
+  :screen_name: '11051147'
+  :icon_name: Icons_units_unit_aef_paratroopers
+  :help_text: '11051548'
+  :extra_text: '11051545'
+'2628':
+  :pbgid: '2628'
+  :screen_name: '11051147'
+  :icon_name: Icons_units_unit_aef_paratroopers
+  :help_text: '11051548'
+  :extra_text: '11051545'
+'15886':
+  :pbgid: '15886'
+  :screen_name: '11073191'
+  :icon_name: Icons_units_unit_aef_paratroopers
+  :help_text: '11073190'
+  :extra_text: '11073189'
+'2629':
+  :pbgid: '2629'
+  :screen_name: '11052706'
+  :icon_name: Icons_units_unit_aef_pathfinders
+  :help_text: '11052816'
+  :extra_text: '11071276'
+'16404':
+  :pbgid: '16404'
+  :screen_name: '11075407'
+  :icon_name: Icons_units_unit_aef_pathfinders
+  :help_text: '11075406'
+  :extra_text: '11075405'
+'98889':
+  :pbgid: '98889'
+  :screen_name: '11077780'
+  :icon_name: Icons_units_unit_aef_ranger
+  :help_text: '11077782'
+  :extra_text: '11077781'
+'18392':
+  :pbgid: '18392'
+  :screen_name: '11077780'
+  :icon_name: Icons_units_unit_aef_ranger
+  :help_text: '11077782'
+  :extra_text: '11077781'
+'2630':
+  :pbgid: '2630'
+  :screen_name: '11051148'
+  :icon_name: Icons_units_unit_aef_rear_echelon_troops
+  :help_text: '11051546'
+  :extra_text: '11051543'
+'2631':
+  :pbgid: '2631'
+  :screen_name: '11075429'
+  :icon_name: Icons_units_unit_aef_riflemen
+  :help_text: '11051547'
+  :extra_text: '11051544'
+'17676':
+  :pbgid: '17676'
+  :screen_name: '11051039'
+  :icon_name: Icons_commander_cmdr_aef_elite_riflemen_training
+  :help_text: '11051547'
+  :extra_text: '11075471'
+'16423':
+  :pbgid: '16423'
+  :screen_name: '11071364'
+  :icon_name: Icons_units_unit_aef_medic
+  :help_text: '11071365'
+  :extra_text: '11071369'
+'2632':
+  :pbgid: '2632'
+  :screen_name: '11053521'
+  :icon_name: Icons_units_unit_aef_vehicle_crew
+  :help_text: '11053522'
+  :extra_text: '11053523'
+'16634':
+  :pbgid: '16634'
+  :screen_name: '11072092'
+  :icon_name: Icons_units_unit_aef_vehicle_crew
+  :help_text: '11072093'
+  :extra_text: '11072094'
+'2633':
+  :pbgid: '2633'
+  :screen_name: '11053521'
+  :icon_name: Icons_units_unit_aef_vehicle_crew
+  :help_text: '11053522'
+  :extra_text: '11053523'
+'2623':
+  :pbgid: '2623'
+  :screen_name: '11051357'
+  :icon_name: Icons_units_unit_soviet_mg
+  :help_text: '11051364'
+  :extra_text: '11051367'
+'18341':
+  :pbgid: '18341'
+  :screen_name: '11051149'
+  :icon_name: Icons_vehicles_vehicle_aef_57mm_at_gun
+  :help_text: '11051526'
+  :extra_text: '11051514'
+'2637':
+  :pbgid: '2637'
+  :screen_name: '11051149'
+  :icon_name: Icons_vehicles_vehicle_aef_57mm_at_gun
+  :help_text: '11051526'
+  :extra_text: '11051514'
+'2638':
+  :pbgid: '2638'
+  :screen_name: '11051150'
+  :icon_name: Icons_vehicles_vehicle_aef_pack_howitzer
+  :help_text: '11051525'
+  :extra_text: '11051513'
+'2624':
+  :pbgid: '2624'
+  :screen_name: '11116620'
+  :icon_name: Icons_units_unit_aef_mortar_crew
+  :help_text: '11051554'
+  :extra_text: '11051549'
+'105149':
+  :pbgid: '105149'
+  :screen_name: '11051114'
+  :icon_name: Icons_units_unit_aef_mortar_crew
+  :help_text: '11051553'
+  :extra_text: '11051549'
+'2626':
+  :pbgid: '2626'
+  :screen_name: '11051114'
+  :icon_name: Icons_units_unit_aef_mortar_crew
+  :help_text: '11051553'
+  :extra_text: '11051549'
+'95105':
+  :pbgid: '95105'
+  :screen_name: '11051114'
+  :icon_name: Icons_units_unit_aef_mortar_crew
+  :help_text: '11051553'
+  :extra_text: '11051549'
+'2625':
+  :pbgid: '2625'
+  :screen_name: '11051145'
+  :icon_name: Icons_units_unit_aef_mg_crew
+  :help_text: '11051363'
+  :extra_text: '11051368'
+'2634':
+  :pbgid: '2634'
+  :screen_name: '11051098'
+  :icon_name: Icons_vehicles_vehicle_aef_wc51_50cal
+  :help_text: '11051527'
+  :extra_text: '11051515'
+'4330':
+  :pbgid: '4330'
+  :screen_name: '11054809'
+  :icon_name: Icons_vehicles_vehicle_aef_wc51_ambulance
+  :help_text: '11054810'
+  :extra_text: '11073111'
+'15603':
+  :pbgid: '15603'
+  :screen_name: '11074405'
+  :icon_name: Icons_vehicles_vehicle_aef_wc51_50cal
+  :help_text: '11074404'
+  :extra_text: '11074403'
+'2635':
+  :pbgid: '2635'
+  :screen_name: '11051098'
+  :icon_name: Icons_vehicles_vehicle_aef_wc51_50cal
+  :help_text: '11051527'
+  :extra_text: '11051515'
+'2636':
+  :pbgid: '2636'
+  :screen_name: '11051151'
+  :icon_name: Icons_vehicles_vehicle_aef_m10_tank_destroyer
+  :help_text: '11051524'
+  :extra_text: '11051512'
+'2639':
+  :pbgid: '2639'
+  :screen_name: '11051097'
+  :icon_name: Icons_vehicles_vehicle_aef_m20_utility_car
+  :help_text: '11051523'
+  :extra_text: '11051511'
+'89406':
+  :pbgid: '89406'
+  :screen_name: '11084323'
+  :icon_name: Icons_vehicles_vehicle_aef_m26_pershing
+  :help_text: '11084327'
+  :extra_text: '11084328'
+'2640':
+  :pbgid: '2640'
+  :screen_name: '11051152'
+  :icon_name: Icons_vehicles_vehicle_aef_m36_jackson
+  :help_text: '11051521'
+  :extra_text: '11051509'
+'2641':
+  :pbgid: '2641'
+  :screen_name: '11052802'
+  :icon_name: Icons_vehicles_vehicle_aef_halftrack_m15a1_aa
+  :help_text: '11052803'
+  :extra_text: '11053674'
+'2642':
+  :pbgid: '2642'
+  :screen_name: '11052800'
+  :icon_name: Icons_vehicles_vehicle_aef_halftrack_m21_mortar
+  :help_text: '11052801'
+  :extra_text: '11067339'
+'16877':
+  :pbgid: '16877'
+  :screen_name: '11072581'
+  :icon_name: Icons_vehicles_vehicle_aef_halftrack_m3
+  :help_text: '11072580'
+  :extra_text: '11072579'
+'2643':
+  :pbgid: '2643'
+  :screen_name: '11051096'
+  :icon_name: Icons_vehicles_vehicle_aef_halftrack_m3
+  :help_text: '11051522'
+  :extra_text: '11051510'
+'15015':
+  :pbgid: '15015'
+  :screen_name: '11068300'
+  :icon_name: Icons_vehicles_vehicle_aef_m4a3_sherman_bulldozer
+  :help_text: '11068301'
+  :extra_text: '11068302'
+'14808':
+  :pbgid: '14808'
+  :screen_name: '11062929'
+  :icon_name: Icons_vehicles_vehicle_aef_m4a3_sherman
+  :help_text: '11062927'
+  :extra_text: '11062928'
+'2644':
+  :pbgid: '2644'
+  :screen_name: '11051040'
+  :icon_name: Icons_vehicles_vehicle_aef_m4a3_sherman
+  :help_text: '11051520'
+  :extra_text: '11051508'
+'3477':
+  :pbgid: '3477'
+  :screen_name: '11053993'
+  :icon_name: Icons_vehicles_vehicle_aef_m4a3e8_sherman
+  :help_text: '11055694'
+  :extra_text: '11055695'
+'97019':
+  :pbgid: '97019'
+  :screen_name: '11007075'
+  :icon_name: Icons_vehicles_vehicle_soviet_m5_halftrack
+  :help_text: '11097762'
+  :extra_text: '11007360'
+'2645':
+  :pbgid: '2645'
+  :screen_name: '11051091'
+  :icon_name: Icons_vehicles_vehicle_aef_m5a1_stuart
+  :help_text: '11051519'
+  :extra_text: '11051507'
+'2646':
+  :pbgid: '2646'
+  :screen_name: '11051092'
+  :icon_name: Icons_vehicles_vehicle_aef_m7b1_priest
+  :help_text: '11051518'
+  :extra_text: '11051506'
+'2648':
+  :pbgid: '2648'
+  :screen_name: '11051093'
+  :icon_name: Icons_vehicles_vehicle_aef_m8_greyhound
+  :help_text: '11051517'
+  :extra_text: '11051505'
+'2647':
+  :pbgid: '2647'
+  :screen_name: '11051094'
+  :icon_name: Icons_vehicles_vehicle_aef_m8a1_hmc
+  :help_text: '11051516'
+  :extra_text: '11051504'
+'17678':
+  :pbgid: '17678'
+  :screen_name: '0'
+  :icon_name: ''
+  :help_text: '0'
+  :extra_text: '0'
+'4318':
+  :pbgid: '4318'
+  :screen_name: '0'
+  :icon_name: ''
+  :help_text: '0'
+  :extra_text: '0'
+'17483':
+  :pbgid: '17483'
+  :screen_name: '0'
+  :icon_name: ''
+  :help_text: '0'
+  :extra_text: '0'
+'17484':
+  :pbgid: '17484'
+  :screen_name: '0'
+  :icon_name: ''
+  :help_text: '0'
+  :extra_text: '0'
+'19282':
+  :pbgid: '19282'
+  :screen_name: '0'
+  :icon_name: ''
+  :help_text: '0'
+  :extra_text: '0'
+'16184':
+  :pbgid: '16184'
+  :screen_name: '0'
+  :icon_name: ''
+  :help_text: '0'
+  :extra_text: '0'
+'15141':
+  :pbgid: '15141'
+  :screen_name: '2091200'
+  :icon_name: Icons_vehicles_vehicle_aef_p47_thunderbolt
+  :help_text: '0'
+  :extra_text: '0'
+'16995':
+  :pbgid: '16995'
+  :screen_name: '2091200'
+  :icon_name: Icons_vehicles_vehicle_aef_p47_thunderbolt
+  :help_text: '0'
+  :extra_text: '0'
+'19449':
+  :pbgid: '19449'
+  :screen_name: '2091200'
+  :icon_name: Icons_vehicles_vehicle_aef_p47_thunderbolt
+  :help_text: '0'
+  :extra_text: '0'
+'15135':
+  :pbgid: '15135'
+  :screen_name: '2091200'
+  :icon_name: Icons_vehicles_vehicle_aef_p47_thunderbolt
+  :help_text: '0'
+  :extra_text: '0'
+'15138':
+  :pbgid: '15138'
+  :screen_name: '2091200'
+  :icon_name: Icons_vehicles_vehicle_aef_p47_thunderbolt
+  :help_text: '0'
+  :extra_text: '0'
+'92469':
+  :pbgid: '92469'
+  :screen_name: '11085973'
+  :icon_name: Icons_vehicles_vehicle_aef_calliope
+  :help_text: '11085976'
+  :extra_text: '11097696'
+'100962':
+  :pbgid: '100962'
+  :screen_name: '0'
+  :icon_name: Icons_buildings_building_british_17_pounder
+  :help_text: '0'
+  :extra_text: '0'
+'89230':
+  :pbgid: '89230'
+  :screen_name: '11083912'
+  :icon_name: Icons_units_unit_british_medic
+  :help_text: '11083913'
+  :extra_text: '11083914'
+'93511':
+  :pbgid: '93511'
+  :screen_name: '11095170'
+  :icon_name: Icons_units_unit_british_airlanding_officer
+  :help_text: '11095174'
+  :extra_text: '11095175'
+'93099':
+  :pbgid: '93099'
+  :screen_name: '11090780'
+  :icon_name: Icons_units_unit_british_forward_observation_officer
+  :help_text: '11095182'
+  :extra_text: '11090781'
+'17786':
+  :pbgid: '17786'
+  :screen_name: '11077200'
+  :icon_name: Icons_units_unit_british_commando
+  :help_text: '11083414'
+  :extra_text: '11083415'
+'93414':
+  :pbgid: '93414'
+  :screen_name: '11095272'
+  :icon_name: Icons_units_unit_british_commando
+  :help_text: '11095269'
+  :extra_text: '11095273'
+'100830':
+  :pbgid: '100830'
+  :screen_name: '11106607'
+  :icon_name: Icons_units_unit_british_commando
+  :help_text: '11083414'
+  :extra_text: '11083415'
+'92880':
+  :pbgid: '92880'
+  :screen_name: '11090169'
+  :icon_name: Icons_units_unit_british_demolitions_engineer
+  :help_text: '11090170'
+  :extra_text: '11090178'
+'17779':
+  :pbgid: '17779'
+  :screen_name: '11077201'
+  :icon_name: Icons_units_unit_british_engineer
+  :help_text: '11083366'
+  :extra_text: '11083365'
+'93437':
+  :pbgid: '93437'
+  :screen_name: '11090894'
+  :icon_name: Icons_units_unit_british_engineer_recovery
+  :help_text: '11090895'
+  :extra_text: '11083365'
+'17810':
+  :pbgid: '17810'
+  :screen_name: '11077202'
+  :icon_name: Icons_units_unit_british_sniper
+  :help_text: '11083377'
+  :extra_text: '11083378'
+'94996':
+  :pbgid: '94996'
+  :screen_name: '11095632'
+  :icon_name: Icons_units_unit_british_tommy_with_tommy
+  :help_text: '11083368'
+  :extra_text: '11083367'
+'17793':
+  :pbgid: '17793'
+  :screen_name: '11077203'
+  :icon_name: Icons_units_unit_british_tommy_with_tommy
+  :help_text: '11083368'
+  :extra_text: '11083367'
+'93235':
+  :pbgid: '93235'
+  :screen_name: '11091108'
+  :icon_name: Icons_units_unit_british_tommy_recon
+  :help_text: '11091107'
+  :extra_text: '11091106'
+'95730':
+  :pbgid: '95730'
+  :screen_name: '11096465'
+  :icon_name: Icons_units_unit_british_tommy_with_tommy
+  :help_text: '11083368'
+  :extra_text: '11096466'
+'89410':
+  :pbgid: '89410'
+  :screen_name: '11084133'
+  :icon_name: Icons_units_unit_british_vehicle_crew
+  :help_text: '11084132'
+  :extra_text: '11084131'
+'17889':
+  :pbgid: '17889'
+  :screen_name: '0'
+  :icon_name: Icons_units_unit_british_vehicle_crew
+  :help_text: '0'
+  :extra_text: '0'
+'100790':
+  :pbgid: '100790'
+  :screen_name: '11078174'
+  :icon_name: Icons_buildings_building_british_17_pounder
+  :help_text: '11084744'
+  :extra_text: '11084745'
+'19050':
+  :pbgid: '19050'
+  :screen_name: '11078174'
+  :icon_name: Icons_buildings_building_british_17_pounder
+  :help_text: '11084744'
+  :extra_text: '11084745'
+'18924':
+  :pbgid: '18924'
+  :screen_name: '11077879'
+  :icon_name: Icons_vehicles_vehicle_british_6_pounder_at_gun
+  :help_text: '11083410'
+  :extra_text: '11083411'
+'100791':
+  :pbgid: '100791'
+  :screen_name: '11083430'
+  :icon_name: Icons_buildings_building_british_bofors
+  :help_text: '11083431'
+  :extra_text: '11083432'
+'89027':
+  :pbgid: '89027'
+  :screen_name: '11083430'
+  :icon_name: Icons_buildings_building_british_bofors
+  :help_text: '11083431'
+  :extra_text: '11083432'
+'18929':
+  :pbgid: '18929'
+  :screen_name: '11077887'
+  :icon_name: Icons_units_unit_british_vickers_hmg
+  :help_text: '11083375'
+  :extra_text: '11083376'
+'100960':
+  :pbgid: '100960'
+  :screen_name: '0'
+  :icon_name: Icons_buildings_building_british_3_inch_mortar_emplacement
+  :help_text: '0'
+  :extra_text: '0'
+'19054':
+  :pbgid: '19054'
+  :screen_name: '11078179'
+  :icon_name: Icons_units_placeholder_unit_brit_howitzer_25_pounder_placeholder
+  :help_text: '11084739'
+  :extra_text: '11084740'
+'90459':
+  :pbgid: '90459'
+  :screen_name: '0'
+  :icon_name: Icons_units_placeholder_unit_brit_howitzer_25_pounder_placeholder
+  :help_text: '0'
+  :extra_text: '0'
+'89022':
+  :pbgid: '89022'
+  :screen_name: '11083653'
+  :icon_name: Icons_vehicles_vehicle_british_land_mattress
+  :help_text: '11084734'
+  :extra_text: '11083654'
+'100789':
+  :pbgid: '100789'
+  :screen_name: '11077880'
+  :icon_name: Icons_buildings_building_british_3_inch_mortar_emplacement
+  :help_text: '11083408'
+  :extra_text: '11095037'
+'18925':
+  :pbgid: '18925'
+  :screen_name: '11077880'
+  :icon_name: Icons_buildings_building_british_3_inch_mortar_emplacement
+  :help_text: '11083408'
+  :extra_text: '11095037'
+'89256':
+  :pbgid: '89256'
+  :screen_name: '11084086'
+  :icon_name: Icons_vehicles_vehicle_british_mkiii_armored_car
+  :help_text: '11084092'
+  :extra_text: '11084093'
+'18979':
+  :pbgid: '18979'
+  :screen_name: '11078053'
+  :icon_name: Icons_vehicles_vehicle_british_centaur_aa
+  :help_text: '11083373'
+  :extra_text: '11083374'
+'17782':
+  :pbgid: '17782'
+  :screen_name: '11077204'
+  :icon_name: Icons_vehicles_vehicle_british_churchill_avre
+  :help_text: '11083416'
+  :extra_text: '11083417'
+'17803':
+  :pbgid: '17803'
+  :screen_name: '11077205'
+  :icon_name: Icons_vehicles_vehicle_british_churchill_crocodile
+  :help_text: '11083402'
+  :extra_text: '11083403'
+'17783':
+  :pbgid: '17783'
+  :screen_name: '11077206'
+  :icon_name: Icons_vehicles_vehicle_british_churchill
+  :help_text: '11083412'
+  :extra_text: '11083413'
+'18798':
+  :pbgid: '18798'
+  :screen_name: '11077891'
+  :icon_name: Icons_vehicles_vehicle_british_comet
+  :help_text: '11083400'
+  :extra_text: '11083401'
+'18981':
+  :pbgid: '18981'
+  :screen_name: '11078316'
+  :icon_name: Icons_vehicles_vehicle_british_cromwell
+  :help_text: '11083406'
+  :extra_text: '11083407'
+'91549':
+  :pbgid: '91549'
+  :screen_name: '11094968'
+  :icon_name: Icons_vehicles_vehicle_british_airspeed_horsa_glider
+  :help_text: '11094969'
+  :extra_text: '11094970'
+'93455':
+  :pbgid: '93455'
+  :screen_name: '11094971'
+  :icon_name: Icons_vehicles_vehicle_british_airspeed_horsa_glider_hq
+  :help_text: '11094972'
+  :extra_text: '11094973'
+'94167':
+  :pbgid: '94167'
+  :screen_name: '11096511'
+  :icon_name: Icons_vehicles_vehicle_british_hawker_typhoon
+  :help_text: '0'
+  :extra_text: '0'
+'93128':
+  :pbgid: '93128'
+  :screen_name: '11096510'
+  :icon_name: Icons_vehicles_vehicle_british_hawker_typhoon
+  :help_text: '0'
+  :extra_text: '0'
+'93164':
+  :pbgid: '93164'
+  :screen_name: '11096509'
+  :icon_name: Icons_vehicles_vehicle_british_hawker_typhoon
+  :help_text: '0'
+  :extra_text: '0'
+'93163':
+  :pbgid: '93163'
+  :screen_name: '11096508'
+  :icon_name: Icons_vehicles_vehicle_british_hawker_typhoon
+  :help_text: '0'
+  :extra_text: '0'
+'93897':
+  :pbgid: '93897'
+  :screen_name: '11051096'
+  :icon_name: Icons_vehicles_vehicle_aef_halftrack_m3
+  :help_text: '11095169'
+  :extra_text: '11051510'
+'93410':
+  :pbgid: '93410'
+  :screen_name: '0'
+  :icon_name: ''
+  :help_text: '0'
+  :extra_text: '0'
+'93457':
+  :pbgid: '93457'
+  :screen_name: '0'
+  :icon_name: ''
+  :help_text: '0'
+  :extra_text: '0'
+'93484':
+  :pbgid: '93484'
+  :screen_name: '11096508'
+  :icon_name: Icons_vehicles_vehicle_german_stuka
+  :help_text: '0'
+  :extra_text: '0'
+'93485':
+  :pbgid: '93485'
+  :screen_name: '11096508'
+  :icon_name: ''
+  :help_text: '0'
+  :extra_text: '0'
+'89009':
+  :pbgid: '89009'
+  :screen_name: '11096508'
+  :icon_name: Icons_vehicles_vehicle_soviet_il2
+  :help_text: '0'
+  :extra_text: '0'
+'18797':
+  :pbgid: '18797'
+  :screen_name: '11077896'
+  :icon_name: Icons_vehicles_vehicle_british_sexton
+  :help_text: '11090087'
+  :extra_text: '11090088'
+'17776':
+  :pbgid: '17776'
+  :screen_name: '11077208'
+  :icon_name: Icons_vehicles_vehicle_british_sherman_firefly
+  :help_text: '11084738'
+  :extra_text: '11083669'
+'93724':
+  :pbgid: '93724'
+  :screen_name: '0'
+  :icon_name: Icons_vehicles_vehicle_british_bren_carrier
+  :help_text: '0'
+  :extra_text: '0'
+'18786':
+  :pbgid: '18786'
+  :screen_name: '11077897'
+  :icon_name: Icons_vehicles_vehicle_british_bren_carrier
+  :help_text: '11083369'
+  :extra_text: '11083370'
+'89017':
+  :pbgid: '89017'
+  :screen_name: '11083423'
+  :icon_name: Icons_vehicles_vehicle_aef_m7b1_priest
+  :help_text: '11083424'
+  :extra_text: '11083425'
+'93114':
+  :pbgid: '93114'
+  :screen_name: '11095127'
+  :icon_name: Icons_vehicles_vehicle_british_valentine
+  :help_text: '11095130'
+  :extra_text: '11095129'
+'89127':
+  :pbgid: '89127'
+  :screen_name: '11083668'
+  :icon_name: Icons_buildings_placeholder_placeholder_building_br_weapon_rack_bren_lmg
+  :help_text: '11082831'
+  :extra_text: '11083660'
+'89126':
+  :pbgid: '89126'
+  :screen_name: '11083667'
+  :icon_name: Icons_buildings_placeholder_placeholder_building_br_weapon_rack_piat_launcher
+  :help_text: '11082829'
+  :extra_text: '11083660'
+'0':
+  :pbgid: '0'
+  :screen_name: '11038498'
+  :icon_name: Icons_units_unit_german_m1910_hmg
+  :help_text: '0'
+  :extra_text: '0'
+'1':
+  :pbgid: '1'
+  :screen_name: '0'
+  :icon_name: ''
+  :help_text: '0'
+  :extra_text: '0'
+'2':
+  :pbgid: '2'
+  :screen_name: '11038499'
+  :icon_name: ''
+  :help_text: '0'
+  :extra_text: '0'
+'3':
+  :pbgid: '3'
+  :screen_name: '11038500'
+  :icon_name: ''
+  :help_text: '0'
+  :extra_text: '0'
+'4':
+  :pbgid: '4'
+  :screen_name: '11032174'
+  :icon_name: Icons_units_unit_german_grenadier
+  :help_text: '11035285'
+  :extra_text: '11038365'
+'5':
+  :pbgid: '5'
+  :screen_name: '0'
+  :icon_name: Icons_vehicles_vehicle_german_howitzer
+  :help_text: '0'
+  :extra_text: '0'
+'6':
+  :pbgid: '6'
+  :screen_name: '11038497'
+  :icon_name: Icons_units_unit_german_grenadier
+  :help_text: '0'
+  :extra_text: '0'
+'7':
+  :pbgid: '7'
+  :screen_name: '11038496'
+  :icon_name: Icons_units_unit_german_grenadier
+  :help_text: '0'
+  :extra_text: '0'
+'8':
+  :pbgid: '8'
+  :screen_name: '0'
+  :icon_name: Icons_units_unit_german_panzer_grenadier
+  :help_text: '0'
+  :extra_text: '0'
+'9':
+  :pbgid: '9'
+  :screen_name: '0'
+  :icon_name: Icons_vehicles_vehicle_german_panzer_iv
+  :help_text: '0'
+  :extra_text: '0'
+'10':
+  :pbgid: '10'
+  :screen_name: '2146000'
+  :icon_name: Icons_vehicles_vehicle_german_opel_blitz
+  :help_text: '0'
+  :extra_text: '0'
+'2210':
+  :pbgid: '2210'
+  :screen_name: '11051314'
+  :icon_name: Icons_units_unit_german_assault_grenadier
+  :help_text: '11051315'
+  :extra_text: '11051316'
+'11':
+  :pbgid: '11'
+  :screen_name: '11006996'
+  :icon_name: Icons_units_unit_german_grenadier
+  :help_text: '11007013'
+  :extra_text: '11009058'
+'3444':
+  :pbgid: '3444'
+  :screen_name: '11006996'
+  :icon_name: Icons_units_unit_german_grenadier
+  :help_text: '11007013'
+  :extra_text: '11009058'
+'12':
+  :pbgid: '12'
+  :screen_name: '11006996'
+  :icon_name: Icons_units_unit_german_grenadier
+  :help_text: '11007013'
+  :extra_text: '11009058'
+'13':
+  :pbgid: '13'
+  :screen_name: '11010396'
+  :icon_name: Icons_units_unit_german_grenadier
+  :help_text: '11010395'
+  :extra_text: '11010394'
+'14':
+  :pbgid: '14'
+  :screen_name: '11007136'
+  :icon_name: Icons_units_unit_german_m1910_hmg
+  :help_text: '11007137'
+  :extra_text: '11009059'
+'15':
+  :pbgid: '15'
+  :screen_name: '11007136'
+  :icon_name: Icons_units_unit_german_m1910_hmg
+  :help_text: '11007137'
+  :extra_text: '11009059'
+'16':
+  :pbgid: '16'
+  :screen_name: '11007542'
+  :icon_name: Icons_units_unit_german_granatwerfer_34_mortar
+  :help_text: '11007543'
+  :extra_text: '11007826'
+'17':
+  :pbgid: '17'
+  :screen_name: '11007542'
+  :icon_name: Icons_units_unit_german_granatwerfer_34_mortar
+  :help_text: '11007543'
+  :extra_text: '11007826'
+'18':
+  :pbgid: '18'
+  :screen_name: '11038492'
+  :icon_name: Icons_units_unit_german_officer
+  :help_text: '11038493'
+  :extra_text: '11038494'
+'19':
+  :pbgid: '19'
+  :screen_name: '11035436'
+  :icon_name: Icons_units_unit_german_officer
+  :help_text: '11035437'
+  :extra_text: '11038495'
+'14270':
+  :pbgid: '14270'
+  :screen_name: '11055300'
+  :icon_name: Icons_units_unit_german_officer
+  :help_text: '11055301'
+  :extra_text: '0'
+'3120':
+  :pbgid: '3120'
+  :screen_name: '11053774'
+  :icon_name: Icons_units_unit_german_officer
+  :help_text: '11053772'
+  :extra_text: '11053773'
+'20':
+  :pbgid: '20'
+  :screen_name: '11032058'
+  :icon_name: Icons_units_unit_german_officer
+  :help_text: '11043497'
+  :extra_text: '0'
+'21':
+  :pbgid: '21'
+  :screen_name: '11032058'
+  :icon_name: Icons_units_unit_german_officer
+  :help_text: '11043498'
+  :extra_text: '0'
+'22':
+  :pbgid: '22'
+  :screen_name: '11010409'
+  :icon_name: Icons_units_unit_german_ostruppen
+  :help_text: '11035159'
+  :extra_text: '11038489'
+'23':
+  :pbgid: '23'
+  :screen_name: '11010409'
+  :icon_name: Icons_units_unit_german_ostruppen
+  :help_text: '11052756'
+  :extra_text: '11038491'
+'16318':
+  :pbgid: '16318'
+  :screen_name: '11071085'
+  :icon_name: Icons_units_unit_german_ostruppen
+  :help_text: '11071083'
+  :extra_text: '11071084'
+'24':
+  :pbgid: '24'
+  :screen_name: '11007025'
+  :icon_name: Icons_units_unit_german_panzer_grenadier
+  :help_text: '11007026'
+  :extra_text: '11009060'
+'25':
+  :pbgid: '25'
+  :screen_name: '11007025'
+  :icon_name: Icons_units_unit_german_panzer_grenadier
+  :help_text: '11007026'
+  :extra_text: '11009060'
+'2211':
+  :pbgid: '2211'
+  :screen_name: '11052733'
+  :icon_name: Icons_units_unit_german_urban_assault_panzer_grenadier
+  :help_text: '11052731'
+  :extra_text: '11052732'
+'2212':
+  :pbgid: '2212'
+  :screen_name: '11006988'
+  :icon_name: Icons_units_unit_german_pioneer
+  :help_text: '11007011'
+  :extra_text: '11009061'
+'26':
+  :pbgid: '26'
+  :screen_name: '0'
+  :icon_name: ''
+  :help_text: '0'
+  :extra_text: '0'
+'27':
+  :pbgid: '27'
+  :screen_name: '11006988'
+  :icon_name: Icons_units_unit_german_pioneer
+  :help_text: '11007011'
+  :extra_text: '11009061'
+'28':
+  :pbgid: '28'
+  :screen_name: '11006988'
+  :icon_name: Icons_units_unit_german_pioneer
+  :help_text: '11007011'
+  :extra_text: '11009061'
+'2270':
+  :pbgid: '2270'
+  :screen_name: '11006988'
+  :icon_name: Icons_units_unit_german_pioneer
+  :help_text: '11007011'
+  :extra_text: '11009061'
+'29':
+  :pbgid: '29'
+  :screen_name: '11006997'
+  :icon_name: Icons_units_unit_german_sniper
+  :help_text: '11007014'
+  :extra_text: '11009062'
+'30':
+  :pbgid: '30'
+  :screen_name: '11006997'
+  :icon_name: Icons_units_unit_german_sniper
+  :help_text: '11007014'
+  :extra_text: '11009062'
+'2213':
+  :pbgid: '2213'
+  :screen_name: '11052710'
+  :icon_name: Icons_units_unit_german_stormtroopers
+  :help_text: '11052711'
+  :extra_text: '11052712'
+'31':
+  :pbgid: '31'
+  :screen_name: '11007004'
+  :icon_name: Icons_vehicles_vehicle_german_pak_40_75mm_at_gun
+  :help_text: '11007016'
+  :extra_text: '11009046'
+'32':
+  :pbgid: '32'
+  :screen_name: '11007004'
+  :icon_name: Icons_vehicles_vehicle_german_pak_40_75mm_at_gun
+  :help_text: '11007016'
+  :extra_text: '11009046'
+'33':
+  :pbgid: '33'
+  :screen_name: '11007007'
+  :icon_name: Icons_vehicles_vehicle_german_pak_43_at_gun
+  :help_text: '11007024'
+  :extra_text: '11009047'
+'34':
+  :pbgid: '34'
+  :screen_name: '11007007'
+  :icon_name: Icons_vehicles_vehicle_german_pak_43_at_gun
+  :help_text: '11007024'
+  :extra_text: '11009047'
+'35':
+  :pbgid: '35'
+  :screen_name: '11007030'
+  :icon_name: Icons_vehicles_vehicle_german_sturmpanzer
+  :help_text: '11007022'
+  :extra_text: '11009048'
+'36':
+  :pbgid: '36'
+  :screen_name: '11007030'
+  :icon_name: Icons_vehicles_vehicle_german_sturmpanzer
+  :help_text: '11007022'
+  :extra_text: '11009048'
+'37':
+  :pbgid: '37'
+  :screen_name: '11007744'
+  :icon_name: Icons_vehicles_vehicle_german_elefant_tank_destroyer
+  :help_text: '11007824'
+  :extra_text: '11009049'
+'38':
+  :pbgid: '38'
+  :screen_name: '11007744'
+  :icon_name: Icons_vehicles_vehicle_german_elefant_tank_destroyer
+  :help_text: '11007824'
+  :extra_text: '11009049'
+'3442':
+  :pbgid: '3442'
+  :screen_name: '11051325'
+  :icon_name: Icons_vehicles_vehicle_german_250_halftrack
+  :help_text: '11051326'
+  :extra_text: '11051327'
+'2214':
+  :pbgid: '2214'
+  :screen_name: '11051325'
+  :icon_name: Icons_vehicles_vehicle_german_250_halftrack
+  :help_text: '11051326'
+  :extra_text: '11051327'
+'14152':
+  :pbgid: '14152'
+  :screen_name: '11051325'
+  :icon_name: Icons_vehicles_vehicle_german_250_halftrack
+  :help_text: '11051326'
+  :extra_text: '11051327'
+'39':
+  :pbgid: '39'
+  :screen_name: '11026002'
+  :icon_name: Icons_vehicles_vehicle_german_251_mortar_halftrack
+  :help_text: '11019367'
+  :extra_text: '11035160'
+'40':
+  :pbgid: '40'
+  :screen_name: '11026002'
+  :icon_name: Icons_vehicles_vehicle_german_251_mortar_halftrack
+  :help_text: '11019367'
+  :extra_text: '11035160'
+'2271':
+  :pbgid: '2271'
+  :screen_name: '0'
+  :icon_name: Icons_vehicles_vehicle_german_251_mortar_halftrack
+  :help_text: '0'
+  :extra_text: '0'
+'41':
+  :pbgid: '41'
+  :screen_name: '11007036'
+  :icon_name: Icons_vehicles_vehicle_german_251_halftrack
+  :help_text: '11007018'
+  :extra_text: '11010405'
+'42':
+  :pbgid: '42'
+  :screen_name: '11007036'
+  :icon_name: Icons_vehicles_vehicle_german_251_halftrack
+  :help_text: '11007018'
+  :extra_text: '11010405'
+'43':
+  :pbgid: '43'
+  :screen_name: '11031938'
+  :icon_name: Icons_vehicles_vehicle_german_howitzer
+  :help_text: '11031937'
+  :extra_text: '11038535'
+'44':
+  :pbgid: '44'
+  :screen_name: '11031938'
+  :icon_name: Icons_vehicles_vehicle_german_howitzer
+  :help_text: '11031937'
+  :extra_text: '11038536'
+'45':
+  :pbgid: '45'
+  :screen_name: '11035438'
+  :icon_name: Icons_vehicles_vehicle_german_opel_blitz
+  :help_text: '11035439'
+  :extra_text: '11046736'
+'46':
+  :pbgid: '46'
+  :screen_name: '11007743'
+  :icon_name: Icons_vehicles_vehicle_german_ostwind_flak_panzer
+  :help_text: '11007828'
+  :extra_text: '11009050'
+'47':
+  :pbgid: '47'
+  :screen_name: '11007743'
+  :icon_name: Icons_vehicles_vehicle_german_ostwind_flak_panzer
+  :help_text: '11007828'
+  :extra_text: '11009050'
+'48':
+  :pbgid: '48'
+  :screen_name: '11007009'
+  :icon_name: Icons_vehicles_vehicle_german_panther
+  :help_text: '11007023'
+  :extra_text: '11009051'
+'49':
+  :pbgid: '49'
+  :screen_name: '11007009'
+  :icon_name: Icons_vehicles_vehicle_german_panther
+  :help_text: '11007023'
+  :extra_text: '11009051'
+'50':
+  :pbgid: '50'
+  :screen_name: '11038540'
+  :icon_name: Icons_vehicles_vehicle_german_panzer_iv_command_tank
+  :help_text: '11038537'
+  :extra_text: '11038538'
+'51':
+  :pbgid: '51'
+  :screen_name: '11035442'
+  :icon_name: Icons_vehicles_vehicle_german_panzer_iv_command_tank
+  :help_text: '11035443'
+  :extra_text: '11038539'
+'52':
+  :pbgid: '52'
+  :screen_name: '11007029'
+  :icon_name: Icons_vehicles_vehicle_german_panzer_iv
+  :help_text: '11007021'
+  :extra_text: '11009052'
+'53':
+  :pbgid: '53'
+  :screen_name: '11007029'
+  :icon_name: Icons_vehicles_vehicle_german_panzer_iv
+  :help_text: '11007021'
+  :extra_text: '11009052'
+'54':
+  :pbgid: '54'
+  :screen_name: '11048702'
+  :icon_name: Icons_vehicles_vehicle_german_panzer_iv_f1
+  :help_text: '11048703'
+  :extra_text: '11048704'
+'55':
+  :pbgid: '55'
+  :screen_name: '11048702'
+  :icon_name: Icons_vehicles_vehicle_german_panzer_iv_f1
+  :help_text: '11048703'
+  :extra_text: '11048704'
+'2216':
+  :pbgid: '2216'
+  :screen_name: '11054686'
+  :icon_name: Icons_vehicles_vehicle_german_panzer_iv
+  :help_text: '11007021'
+  :extra_text: '11009052'
+'56':
+  :pbgid: '56'
+  :screen_name: '11007751'
+  :icon_name: Icons_vehicles_vehicle_german_panzerwerfer
+  :help_text: '11007827'
+  :extra_text: '11038527'
+'57':
+  :pbgid: '57'
+  :screen_name: '11007751'
+  :icon_name: Icons_vehicles_vehicle_german_panzerwerfer
+  :help_text: '11007827'
+  :extra_text: '11038541'
+'16620':
+  :pbgid: '16620'
+  :screen_name: '11072073'
+  :icon_name: Icons_vehicles_vehicle_west_german_234_puma_armored_car
+  :help_text: '11072072'
+  :extra_text: '11072071'
+'58':
+  :pbgid: '58'
+  :screen_name: '11008217'
+  :icon_name: Icons_vehicles_vehicle_german_222_armored_car
+  :help_text: '11008216'
+  :extra_text: '11009089'
+'59':
+  :pbgid: '59'
+  :screen_name: '11097449'
+  :icon_name: Icons_vehicles_vehicle_german_222_armored_car
+  :help_text: '11008216'
+  :extra_text: '11009089'
+'2217':
+  :pbgid: '2217'
+  :screen_name: '11050474'
+  :icon_name: Icons_vehicles_vehicle_german_stug_iii_e
+  :help_text: '11050473'
+  :extra_text: '11050472'
+'60':
+  :pbgid: '60'
+  :screen_name: '11024608'
+  :icon_name: Icons_vehicles_vehicle_german_stug_iii_e
+  :help_text: '11024609'
+  :extra_text: '11024610'
+'61':
+  :pbgid: '61'
+  :screen_name: '11024608'
+  :icon_name: Icons_vehicles_vehicle_german_stug_iii_e
+  :help_text: '11024609'
+  :extra_text: '11024610'
+'62':
+  :pbgid: '62'
+  :screen_name: '11007006'
+  :icon_name: Icons_vehicles_vehicle_german_stug_iii_g
+  :help_text: '11007020'
+  :extra_text: '11009053'
+'63':
+  :pbgid: '63'
+  :screen_name: '11007006'
+  :icon_name: Icons_vehicles_vehicle_german_stug_iii_g
+  :help_text: '11007020'
+  :extra_text: '11009053'
+'2218':
+  :pbgid: '2218'
+  :screen_name: '11038499'
+  :icon_name: Icons_vehicles_vehicle_german_stuka
+  :help_text: '0'
+  :extra_text: '0'
+'2219':
+  :pbgid: '2219'
+  :screen_name: '11038499'
+  :icon_name: Icons_vehicles_vehicle_german_stuka
+  :help_text: '0'
+  :extra_text: '0'
+'2220':
+  :pbgid: '2220'
+  :screen_name: '11038499'
+  :icon_name: Icons_vehicles_vehicle_german_stuka
+  :help_text: '0'
+  :extra_text: '0'
+'64':
+  :pbgid: '64'
+  :screen_name: '11038499'
+  :icon_name: Icons_vehicles_vehicle_german_stuka
+  :help_text: '11038507'
+  :extra_text: '11038517'
+'65':
+  :pbgid: '65'
+  :screen_name: '11038499'
+  :icon_name: Icons_vehicles_vehicle_german_stuka
+  :help_text: '11038516'
+  :extra_text: '11038526'
+'66':
+  :pbgid: '66'
+  :screen_name: '11038499'
+  :icon_name: Icons_vehicles_vehicle_german_stuka
+  :help_text: '11038515'
+  :extra_text: '11038525'
+'67':
+  :pbgid: '67'
+  :screen_name: '11038499'
+  :icon_name: Icons_vehicles_vehicle_german_stuka
+  :help_text: '0'
+  :extra_text: '0'
+'68':
+  :pbgid: '68'
+  :screen_name: '11038499'
+  :icon_name: Icons_vehicles_vehicle_german_stuka
+  :help_text: '11038514'
+  :extra_text: '11038524'
+'87333':
+  :pbgid: '87333'
+  :screen_name: '11038499'
+  :icon_name: Icons_vehicles_vehicle_german_stuka
+  :help_text: '0'
+  :extra_text: '0'
+'69':
+  :pbgid: '69'
+  :screen_name: '11038499'
+  :icon_name: Icons_vehicles_vehicle_german_stuka
+  :help_text: '11038513'
+  :extra_text: '11038523'
+'70':
+  :pbgid: '70'
+  :screen_name: '11038499'
+  :icon_name: Icons_vehicles_vehicle_german_stuka
+  :help_text: '0'
+  :extra_text: '0'
+'71':
+  :pbgid: '71'
+  :screen_name: '11038499'
+  :icon_name: Icons_vehicles_vehicle_german_stuka
+  :help_text: '11038512'
+  :extra_text: '11038522'
+'17572':
+  :pbgid: '17572'
+  :screen_name: '11038499'
+  :icon_name: Icons_vehicles_vehicle_german_stuka
+  :help_text: '0'
+  :extra_text: '0'
+'72':
+  :pbgid: '72'
+  :screen_name: '11038499'
+  :icon_name: Icons_vehicles_vehicle_german_stuka
+  :help_text: '11038511'
+  :extra_text: '11038521'
+'73':
+  :pbgid: '73'
+  :screen_name: '11038499'
+  :icon_name: Icons_vehicles_vehicle_german_stuka
+  :help_text: '11038510'
+  :extra_text: '11038520'
+'2221':
+  :pbgid: '2221'
+  :screen_name: '11038499'
+  :icon_name: Icons_vehicles_vehicle_german_stuka
+  :help_text: '0'
+  :extra_text: '0'
+'18482':
+  :pbgid: '18482'
+  :screen_name: '11038499'
+  :icon_name: Icons_vehicles_vehicle_german_stuka
+  :help_text: '0'
+  :extra_text: '0'
+'74':
+  :pbgid: '74'
+  :screen_name: '11038499'
+  :icon_name: Icons_vehicles_vehicle_german_stuka
+  :help_text: '11038509'
+  :extra_text: '11038519'
+'75':
+  :pbgid: '75'
+  :screen_name: '11038499'
+  :icon_name: Icons_vehicles_vehicle_german_stuka
+  :help_text: '11038508'
+  :extra_text: '11038518'
+'2222':
+  :pbgid: '2222'
+  :screen_name: '11038499'
+  :icon_name: Icons_vehicles_vehicle_german_stuka
+  :help_text: '0'
+  :extra_text: '0'
+'2223':
+  :pbgid: '2223'
+  :screen_name: '11038499'
+  :icon_name: Icons_vehicles_vehicle_german_stuka
+  :help_text: '0'
+  :extra_text: '0'
+'2224':
+  :pbgid: '2224'
+  :screen_name: '11054510'
+  :icon_name: Icons_vehicles_vehicle_german_tiger_ace
+  :help_text: '11054508'
+  :extra_text: '11009054'
+'76':
+  :pbgid: '76'
+  :screen_name: '2092402'
+  :icon_name: Icons_vehicles_vehicle_german_tiger
+  :help_text: '2092401'
+  :extra_text: '11009054'
+'77':
+  :pbgid: '77'
+  :screen_name: '2092402'
+  :icon_name: Icons_vehicles_vehicle_german_tiger
+  :help_text: '2092401'
+  :extra_text: '11009054'
+'78':
+  :pbgid: '78'
+  :screen_name: '11038501'
+  :icon_name: Icons_vehicles_vehicle_german_tiger
+  :help_text: '11038505'
+  :extra_text: '11038503'
+'2225':
+  :pbgid: '2225'
+  :screen_name: '11051256'
+  :icon_name: Icons_vehicles_vehicle_german_tiger
+  :help_text: '11051255'
+  :extra_text: '11051254'
+'2650':
+  :pbgid: '2650'
+  :screen_name: '0'
+  :icon_name: Icons_units_unit_soviet_conscript_03
+  :help_text: '0'
+  :extra_text: '0'
+'2651':
+  :pbgid: '2651'
+  :screen_name: '0'
+  :icon_name: Icons_units_unit_soviet_conscript_03
+  :help_text: '0'
+  :extra_text: '0'
+'14497':
+  :pbgid: '14497'
+  :screen_name: '0'
+  :icon_name: ''
+  :help_text: '0'
+  :extra_text: '0'
+'2653':
+  :pbgid: '2653'
+  :screen_name: '0'
+  :icon_name: Icons_units_unit_soviet_conscript_03
+  :help_text: '0'
+  :extra_text: '0'
+'79':
+  :pbgid: '79'
+  :screen_name: '11038737'
+  :icon_name: ''
+  :help_text: '11038736'
+  :extra_text: '0'
+'80':
+  :pbgid: '80'
+  :screen_name: '0'
+  :icon_name: Icons_units_unit_soviet_conscript_01
+  :help_text: '0'
+  :extra_text: '0'
+'81':
+  :pbgid: '81'
+  :screen_name: '11038472'
+  :icon_name: Icons_units_unit_soviet_conscript_01
+  :help_text: '11038467'
+  :extra_text: '11038726'
+'82':
+  :pbgid: '82'
+  :screen_name: '11038471'
+  :icon_name: Icons_units_unit_soviet_conscript_01
+  :help_text: '11038468'
+  :extra_text: '11038728'
+'83':
+  :pbgid: '83'
+  :screen_name: '11038470'
+  :icon_name: Icons_units_unit_soviet_conscript_01
+  :help_text: '11038469'
+  :extra_text: '11038727'
+'84':
+  :pbgid: '84'
+  :screen_name: '0'
+  :icon_name: Icons_vehicles_vehicle_soviet_il2
+  :help_text: '0'
+  :extra_text: '0'
+'85':
+  :pbgid: '85'
+  :screen_name: '0'
+  :icon_name: ''
+  :help_text: '0'
+  :extra_text: '0'
+'86':
+  :pbgid: '86'
+  :screen_name: '11038482'
+  :icon_name: Icons_units_unit_soviet_sniper
+  :help_text: '11038483'
+  :extra_text: '0'
+'87':
+  :pbgid: '87'
+  :screen_name: '11006670'
+  :icon_name: Icons_units_unit_soviet_engineer
+  :help_text: '11007043'
+  :extra_text: '11009063'
+'88':
+  :pbgid: '88'
+  :screen_name: '11038465'
+  :icon_name: Icons_units_unit_soviet_conscript_01
+  :help_text: '11038729'
+  :extra_text: '0'
+'89':
+  :pbgid: '89'
+  :screen_name: '11006670'
+  :icon_name: Icons_units_unit_soviet_engineer
+  :help_text: '11007043'
+  :extra_text: '11009063'
+'90':
+  :pbgid: '90'
+  :screen_name: '11046447'
+  :icon_name: Icons_units_unit_soviet_penal_battalion
+  :help_text: '11046446'
+  :extra_text: '11046445'
+'91':
+  :pbgid: '91'
+  :screen_name: '11038473'
+  :icon_name: Icons_units_unit_soviet_guards
+  :help_text: '11038474'
+  :extra_text: '11038475'
+'92':
+  :pbgid: '92'
+  :screen_name: '11032164'
+  :icon_name: Icons_units_unit_soviet_ania
+  :help_text: '11038478'
+  :extra_text: '11038479'
+'93':
+  :pbgid: '93'
+  :screen_name: '11032167'
+  :icon_name: Icons_units_unit_soviet_officer
+  :help_text: '11038480'
+  :extra_text: '11038730'
+'94':
+  :pbgid: '94'
+  :screen_name: '11036854'
+  :icon_name: Icons_units_unit_soviet_sniper
+  :help_text: '11036855'
+  :extra_text: '11038481'
+'95':
+  :pbgid: '95'
+  :screen_name: '11037042'
+  :icon_name: Icons_units_unit_soviet_partisan_anti_infantry
+  :help_text: '11037045'
+  :extra_text: '11038723'
+'96':
+  :pbgid: '96'
+  :screen_name: '11037041'
+  :icon_name: Icons_units_unit_soviet_partisan_anti_vehicle
+  :help_text: '11037044'
+  :extra_text: '11038724'
+'97':
+  :pbgid: '97'
+  :screen_name: '11037043'
+  :icon_name: Icons_units_unit_soviet_partisan_anti_infantry
+  :help_text: '11037046'
+  :extra_text: '0'
+'98':
+  :pbgid: '98'
+  :screen_name: '0'
+  :icon_name: Icons_units_unit_soviet_shock
+  :help_text: '11038476'
+  :extra_text: '11038477'
+'99':
+  :pbgid: '99'
+  :screen_name: '11035142'
+  :icon_name: Icons_units_unit_soviet_guards
+  :help_text: '11035140'
+  :extra_text: '11035141'
+'100':
+  :pbgid: '100'
+  :screen_name: '11038738'
+  :icon_name: Icons_vehicles_vehicle_soviet_kv1_heavy_tank
+  :help_text: '11038739'
+  :extra_text: '0'
+'101':
+  :pbgid: '101'
+  :screen_name: '0'
+  :icon_name: Icons_vehicles_vehicle_soviet_t34_76_heavy_tank
+  :help_text: '11038463'
+  :extra_text: '11038733'
+'102':
+  :pbgid: '102'
+  :screen_name: '11032054'
+  :icon_name: Icons_vehicles_vehicle_soviet_su6_truck
+  :help_text: '11038464'
+  :extra_text: '11038735'
+'103':
+  :pbgid: '103'
+  :screen_name: '11006670'
+  :icon_name: Icons_units_unit_soviet_engineer
+  :help_text: '11007043'
+  :extra_text: '11009063'
+'104':
+  :pbgid: '104'
+  :screen_name: '11006670'
+  :icon_name: Icons_units_unit_soviet_engineer
+  :help_text: '11007043'
+  :extra_text: '11009063'
+'105':
+  :pbgid: '105'
+  :screen_name: '11048713'
+  :icon_name: Icons_units_unit_soviet_conscript_02
+  :help_text: '11035158'
+  :extra_text: '11038227'
+'106':
+  :pbgid: '106'
+  :screen_name: '11006679'
+  :icon_name: Icons_units_unit_soviet_conscript_01
+  :help_text: '11035157'
+  :extra_text: '11038466'
+'107':
+  :pbgid: '107'
+  :screen_name: '11006679'
+  :icon_name: Icons_units_unit_soviet_conscript_03
+  :help_text: '11007044'
+  :extra_text: '11009064'
+'108':
+  :pbgid: '108'
+  :screen_name: '11006679'
+  :icon_name: Icons_units_unit_soviet_conscript_03
+  :help_text: '11007044'
+  :extra_text: '11009064'
+'14885':
+  :pbgid: '14885'
+  :screen_name: '11006679'
+  :icon_name: Icons_units_unit_soviet_conscript_03
+  :help_text: '11007044'
+  :extra_text: '11009064'
+'109':
+  :pbgid: '109'
+  :screen_name: '11048750'
+  :icon_name: Icons_units_unit_soviet_mg
+  :help_text: '11048754'
+  :extra_text: '11048758'
+'110':
+  :pbgid: '110'
+  :screen_name: '11048751'
+  :icon_name: Icons_vehicles_vehicle_soviet_dshk_38_50_cal_hmg
+  :help_text: '11048755'
+  :extra_text: '11048759'
+'111':
+  :pbgid: '111'
+  :screen_name: '11048749'
+  :icon_name: Icons_units_unit_soviet_mg
+  :help_text: '11048743'
+  :extra_text: '11048747'
+'112':
+  :pbgid: '112'
+  :screen_name: '11048748'
+  :icon_name: Icons_units_unit_soviet_mg
+  :help_text: '11048742'
+  :extra_text: '11048746'
+'113':
+  :pbgid: '113'
+  :screen_name: '11006676'
+  :icon_name: Icons_units_unit_soviet_mortar
+  :help_text: '11007430'
+  :extra_text: '11007375'
+'114':
+  :pbgid: '114'
+  :screen_name: '11006676'
+  :icon_name: Icons_units_unit_soviet_mortar
+  :help_text: '11007430'
+  :extra_text: '11007375'
+'115':
+  :pbgid: '115'
+  :screen_name: '11006677'
+  :icon_name: Icons_units_unit_soviet_mortar
+  :help_text: '11007431'
+  :extra_text: '11007374'
+'116':
+  :pbgid: '116'
+  :screen_name: '11006677'
+  :icon_name: Icons_units_unit_soviet_mortar
+  :help_text: '11007431'
+  :extra_text: '11007374'
+'2227':
+  :pbgid: '2227'
+  :screen_name: '11052767'
+  :icon_name: Icons_units_unit_soviet_partisan_anti_infantry
+  :help_text: '11052768'
+  :extra_text: '11052770'
+'2228':
+  :pbgid: '2228'
+  :screen_name: '11052781'
+  :icon_name: Icons_units_unit_soviet_partisan_anti_vehicle
+  :help_text: '11052787'
+  :extra_text: '11052789'
+'2229':
+  :pbgid: '2229'
+  :screen_name: '11052784'
+  :icon_name: Icons_units_unit_soviet_partisan_anti_vehicle
+  :help_text: '11052785'
+  :extra_text: '11052786'
+'2230':
+  :pbgid: '2230'
+  :screen_name: '11052775'
+  :icon_name: Icons_units_unit_soviet_partisan_anti_infantry
+  :help_text: '11052771'
+  :extra_text: '11052773'
+'2231':
+  :pbgid: '2231'
+  :screen_name: '11052757'
+  :icon_name: Icons_units_unit_soviet_partisan_anti_infantry
+  :help_text: '11052772'
+  :extra_text: '11098251'
+'117':
+  :pbgid: '117'
+  :screen_name: '11035277'
+  :icon_name: Icons_units_unit_soviet_mortar
+  :help_text: '11035286'
+  :extra_text: '11038363'
+'118':
+  :pbgid: '118'
+  :screen_name: '11035276'
+  :icon_name: Icons_units_unit_soviet_mortar
+  :help_text: '11035287'
+  :extra_text: '11038364'
+'119':
+  :pbgid: '119'
+  :screen_name: '11032174'
+  :icon_name: Icons_units_unit_soviet_partisan_anti_infantry
+  :help_text: '11035285'
+  :extra_text: '11038365'
+'120':
+  :pbgid: '120'
+  :screen_name: '11032174'
+  :icon_name: Icons_units_unit_soviet_partisan_anti_infantry
+  :help_text: '11035284'
+  :extra_text: '11038366'
+'121':
+  :pbgid: '121'
+  :screen_name: '11032187'
+  :icon_name: Icons_units_unit_soviet_partisan_anti_infantry
+  :help_text: '11032186'
+  :extra_text: '11032185'
+'122':
+  :pbgid: '122'
+  :screen_name: '11032187'
+  :icon_name: Icons_units_unit_soviet_partisan_anti_infantry
+  :help_text: '11032186'
+  :extra_text: '11032185'
+'123':
+  :pbgid: '123'
+  :screen_name: '11035279'
+  :icon_name: Icons_units_unit_soviet_partisan_anti_infantry
+  :help_text: '11035288'
+  :extra_text: '11038367'
+'124':
+  :pbgid: '124'
+  :screen_name: '11035278'
+  :icon_name: Icons_units_unit_soviet_partisan_anti_infantry
+  :help_text: '11035289'
+  :extra_text: '11038368'
+'125':
+  :pbgid: '125'
+  :screen_name: '11008210'
+  :icon_name: Icons_units_unit_soviet_partisan_anti_infantry
+  :help_text: '11035283'
+  :extra_text: '11038369'
+'126':
+  :pbgid: '126'
+  :screen_name: '11008210'
+  :icon_name: Icons_units_unit_soviet_partisan_anti_infantry
+  :help_text: '11035282'
+  :extra_text: '11038370'
+'127':
+  :pbgid: '127'
+  :screen_name: '11035281'
+  :icon_name: Icons_units_unit_soviet_partisan_anti_infantry
+  :help_text: '11035290'
+  :extra_text: '11038371'
+'128':
+  :pbgid: '128'
+  :screen_name: '11035280'
+  :icon_name: Icons_units_unit_soviet_partisan_anti_infantry
+  :help_text: '11035291'
+  :extra_text: '11038362'
+'2232':
+  :pbgid: '2232'
+  :screen_name: '11054489'
+  :icon_name: Icons_units_unit_soviet_partisan_anti_vehicle
+  :help_text: '11032186'
+  :extra_text: '11054491'
+'2233':
+  :pbgid: '2233'
+  :screen_name: '11054513'
+  :icon_name: Icons_units_unit_soviet_partisan_anti_infantry
+  :help_text: '11032186'
+  :extra_text: '11054498'
+'2234':
+  :pbgid: '2234'
+  :screen_name: '11054493'
+  :icon_name: Icons_units_unit_soviet_partisan_mg
+  :help_text: '11032186'
+  :extra_text: '11054492'
+'2235':
+  :pbgid: '2235'
+  :screen_name: '11054496'
+  :icon_name: Icons_units_unit_soviet_partisan_mortar
+  :help_text: '11032186'
+  :extra_text: '11054495'
+'129':
+  :pbgid: '129'
+  :screen_name: '11048817'
+  :icon_name: Icons_units_unit_soviet_partisan_anti_infantry
+  :help_text: '11048807'
+  :extra_text: '11048810'
+'130':
+  :pbgid: '130'
+  :screen_name: '11048814'
+  :icon_name: Icons_units_unit_soviet_partisan_anti_infantry
+  :help_text: '11048808'
+  :extra_text: '11048811'
+'131':
+  :pbgid: '131'
+  :screen_name: '11048813'
+  :icon_name: Icons_units_unit_soviet_partisan_anti_infantry
+  :help_text: '11048809'
+  :extra_text: '11048812'
+'132':
+  :pbgid: '132'
+  :screen_name: '11007414'
+  :icon_name: Icons_units_unit_soviet_sniper
+  :help_text: '11007413'
+  :extra_text: '11009065'
+'133':
+  :pbgid: '133'
+  :screen_name: '0'
+  :icon_name: Icons_units_unit_soviet_sniper
+  :help_text: '0'
+  :extra_text: '0'
+'134':
+  :pbgid: '134'
+  :screen_name: '11007414'
+  :icon_name: Icons_units_unit_soviet_sniper
+  :help_text: '11007413'
+  :extra_text: '11009065'
+'135':
+  :pbgid: '135'
+  :screen_name: '0'
+  :icon_name: Icons_units_unit_soviet_officer
+  :help_text: '0'
+  :extra_text: '0'
+'14458':
+  :pbgid: '14458'
+  :screen_name: '11051610'
+  :icon_name: Icons_units_unit_soviet_officer
+  :help_text: '11051611'
+  :extra_text: '11051612'
+'2236':
+  :pbgid: '2236'
+  :screen_name: '11051610'
+  :icon_name: Icons_units_unit_soviet_officer
+  :help_text: '11051611'
+  :extra_text: '11051612'
+'14207':
+  :pbgid: '14207'
+  :screen_name: '0'
+  :icon_name: Icons_units_unit_soviet_officer
+  :help_text: '0'
+  :extra_text: '0'
+'136':
+  :pbgid: '136'
+  :screen_name: '11032057'
+  :icon_name: Icons_units_unit_soviet_officer
+  :help_text: '11038355'
+  :extra_text: '11038713'
+'137':
+  :pbgid: '137'
+  :screen_name: '11032057'
+  :icon_name: Icons_units_unit_soviet_officer
+  :help_text: '11038358'
+  :extra_text: '11038714'
+'138':
+  :pbgid: '138'
+  :screen_name: '11007197'
+  :icon_name: Icons_units_unit_soviet_guards
+  :help_text: '11007198'
+  :extra_text: '11038232'
+'16658':
+  :pbgid: '16658'
+  :screen_name: '11072251'
+  :icon_name: Icons_units_unit_soviet_guards
+  :help_text: '11072154'
+  :extra_text: '11072153'
+'139':
+  :pbgid: '139'
+  :screen_name: '11007197'
+  :icon_name: Icons_units_unit_soviet_guards
+  :help_text: '11007198'
+  :extra_text: '11009066'
+'140':
+  :pbgid: '140'
+  :screen_name: '11007195'
+  :icon_name: Icons_units_unit_soviet_penal_battalion
+  :help_text: '11007196'
+  :extra_text: '11007288'
+'141':
+  :pbgid: '141'
+  :screen_name: '11007195'
+  :icon_name: Icons_units_unit_soviet_penal_battalion
+  :help_text: '11007196'
+  :extra_text: '11007288'
+'142':
+  :pbgid: '142'
+  :screen_name: '11046468'
+  :icon_name: Icons_units_unit_soviet_shock
+  :help_text: '11002190'
+  :extra_text: '11002219'
+'143':
+  :pbgid: '143'
+  :screen_name: '11046467'
+  :icon_name: Icons_units_unit_soviet_shock
+  :help_text: '11002190'
+  :extra_text: '11002219'
+'144':
+  :pbgid: '144'
+  :screen_name: '11038436'
+  :icon_name: Icons_vehicles_vehicle_soviet_il2
+  :help_text: '11038454'
+  :extra_text: '11038445'
+'87328':
+  :pbgid: '87328'
+  :screen_name: '11038437'
+  :icon_name: Icons_vehicles_vehicle_soviet_il2
+  :help_text: '0'
+  :extra_text: '0'
+'145':
+  :pbgid: '145'
+  :screen_name: '11038437'
+  :icon_name: Icons_vehicles_vehicle_soviet_il2
+  :help_text: '11038462'
+  :extra_text: '11038453'
+'2237':
+  :pbgid: '2237'
+  :screen_name: '11038437'
+  :icon_name: Icons_vehicles_vehicle_soviet_il2
+  :help_text: '0'
+  :extra_text: '0'
+'146':
+  :pbgid: '146'
+  :screen_name: '11038438'
+  :icon_name: Icons_vehicles_vehicle_soviet_il2
+  :help_text: '11038461'
+  :extra_text: '11038452'
+'147':
+  :pbgid: '147'
+  :screen_name: '11038439'
+  :icon_name: Icons_vehicles_vehicle_soviet_il2
+  :help_text: '11038460'
+  :extra_text: '11038451'
+'148':
+  :pbgid: '148'
+  :screen_name: '11038440'
+  :icon_name: Icons_vehicles_vehicle_soviet_il2
+  :help_text: '11038459'
+  :extra_text: '11038450'
+'149':
+  :pbgid: '149'
+  :screen_name: '11038439'
+  :icon_name: Icons_vehicles_vehicle_soviet_il2
+  :help_text: '11038460'
+  :extra_text: '11038451'
+'150':
+  :pbgid: '150'
+  :screen_name: '11038441'
+  :icon_name: Icons_vehicles_vehicle_soviet_il2
+  :help_text: '11038458'
+  :extra_text: '11038449'
+'151':
+  :pbgid: '151'
+  :screen_name: '11038442'
+  :icon_name: Icons_vehicles_vehicle_soviet_il2
+  :help_text: '11038457'
+  :extra_text: '11038448'
+'152':
+  :pbgid: '152'
+  :screen_name: '11038443'
+  :icon_name: Icons_vehicles_vehicle_soviet_il2
+  :help_text: '11038456'
+  :extra_text: '11038447'
+'153':
+  :pbgid: '153'
+  :screen_name: '11038444'
+  :icon_name: Icons_vehicles_vehicle_soviet_il2
+  :help_text: '11038455'
+  :extra_text: '11038446'
+'154':
+  :pbgid: '154'
+  :screen_name: '11006769'
+  :icon_name: Icons_vehicles_vehicle_soviet_is2
+  :help_text: '11007369'
+  :extra_text: '11007367'
+'155':
+  :pbgid: '155'
+  :screen_name: '11006769'
+  :icon_name: Icons_vehicles_vehicle_soviet_is2
+  :help_text: '11007369'
+  :extra_text: '11007367'
+'4235':
+  :pbgid: '4235'
+  :screen_name: '0'
+  :icon_name: Icons_vehicles_vehicle_soviet_is2
+  :help_text: '0'
+  :extra_text: '0'
+'156':
+  :pbgid: '156'
+  :screen_name: '11006770'
+  :icon_name: Icons_vehicles_vehicle_soviet_isu152
+  :help_text: '11007371'
+  :extra_text: '11007370'
+'157':
+  :pbgid: '157'
+  :screen_name: '11006770'
+  :icon_name: Icons_vehicles_vehicle_soviet_isu152
+  :help_text: '11007371'
+  :extra_text: '11007370'
+'158':
+  :pbgid: '158'
+  :screen_name: '11007512'
+  :icon_name: Icons_vehicles_vehicle_soviet_katyush_rocket_truck
+  :help_text: '11006871'
+  :extra_text: '11038685'
+'159':
+  :pbgid: '159'
+  :screen_name: '11007512'
+  :icon_name: Icons_vehicles_vehicle_soviet_katyush_rocket_truck
+  :help_text: '11006871'
+  :extra_text: '11032045'
+'160':
+  :pbgid: '160'
+  :screen_name: '11007079'
+  :icon_name: Icons_vehicles_vehicle_soviet_kv1_heavy_tank
+  :help_text: '11007327'
+  :extra_text: '11007368'
+'2238':
+  :pbgid: '2238'
+  :screen_name: '11052351'
+  :icon_name: Icons_vehicles_vehicle_soviet_kv1_heavy_tank
+  :help_text: '11052349'
+  :extra_text: '11052350'
+'161':
+  :pbgid: '161'
+  :screen_name: '11007079'
+  :icon_name: Icons_vehicles_vehicle_soviet_kv1_heavy_tank
+  :help_text: '11007327'
+  :extra_text: '11007368'
+'162':
+  :pbgid: '162'
+  :screen_name: '11015628'
+  :icon_name: Icons_vehicles_vehicle_soviet_kv1_heavy_tank
+  :help_text: '11038410'
+  :extra_text: '11038411'
+'2239':
+  :pbgid: '2239'
+  :screen_name: '11052241'
+  :icon_name: Icons_vehicles_vehicle_soviet_kv2_heavy_tank
+  :help_text: '11052244'
+  :extra_text: '11020682'
+'2240':
+  :pbgid: '2240'
+  :screen_name: '11052242'
+  :icon_name: Icons_vehicles_vehicle_soviet_kv2_heavy_tank
+  :help_text: '11052246'
+  :extra_text: '11020682'
+'2241':
+  :pbgid: '2241'
+  :screen_name: '11052243'
+  :icon_name: Icons_vehicles_vehicle_soviet_kv2_heavy_tank
+  :help_text: '11052245'
+  :extra_text: '11020682'
+'14466':
+  :pbgid: '14466'
+  :screen_name: '11052242'
+  :icon_name: Icons_vehicles_vehicle_soviet_kv2_heavy_tank
+  :help_text: '11052246'
+  :extra_text: '11020682'
+'163':
+  :pbgid: '163'
+  :screen_name: '11038378'
+  :icon_name: Icons_vehicles_vehicle_soviet_kv8
+  :help_text: '11038379'
+  :extra_text: '11038407'
+'164':
+  :pbgid: '164'
+  :screen_name: '11035124'
+  :icon_name: Icons_vehicles_vehicle_soviet_kv8
+  :help_text: '11038409'
+  :extra_text: '11038408'
+'165':
+  :pbgid: '165'
+  :screen_name: '11043313'
+  :icon_name: Icons_vehicles_vehicle_soviet_b4_artillery_gun
+  :help_text: '11043312'
+  :extra_text: '11043311'
+'3191':
+  :pbgid: '3191'
+  :screen_name: '11051228'
+  :icon_name: Icons_vehicles_vehicle_soviet_b4_artillery_gun
+  :help_text: '11051230'
+  :extra_text: '11051229'
+'166':
+  :pbgid: '166'
+  :screen_name: '11038377'
+  :icon_name: Icons_vehicles_vehicle_soviet_b4_artillery_gun
+  :help_text: '11038376'
+  :extra_text: '11038375'
+'167':
+  :pbgid: '167'
+  :screen_name: '11006980'
+  :icon_name: Icons_vehicles_vehicle_soviet_ml20_artillery_gun
+  :help_text: '11007435'
+  :extra_text: '11038372'
+'3192':
+  :pbgid: '3192'
+  :screen_name: '11006980'
+  :icon_name: Icons_vehicles_vehicle_soviet_ml20_artillery_gun
+  :help_text: '11007435'
+  :extra_text: '11038380'
+'169':
+  :pbgid: '169'
+  :screen_name: '11007084'
+  :icon_name: Icons_vehicles_vehicle_soviet_m3a1_armored_personnel_carrier
+  :help_text: '11007323'
+  :extra_text: '11007359'
+'170':
+  :pbgid: '170'
+  :screen_name: '11007084'
+  :icon_name: Icons_vehicles_vehicle_soviet_m3a1_armored_personnel_carrier
+  :help_text: '11007323'
+  :extra_text: '11007359'
+'16656':
+  :pbgid: '16656'
+  :screen_name: '11072151'
+  :icon_name: Icons_vehicles_vehicle_soviet_m5_halftrack
+  :help_text: '11072150'
+  :extra_text: '11072149'
+'171':
+  :pbgid: '171'
+  :screen_name: '11007075'
+  :icon_name: Icons_vehicles_vehicle_soviet_m5_halftrack
+  :help_text: '11007372'
+  :extra_text: '11007360'
+'172':
+  :pbgid: '172'
+  :screen_name: '11007075'
+  :icon_name: Icons_vehicles_vehicle_soviet_m5_halftrack
+  :help_text: '11007372'
+  :extra_text: '11007360'
+'16206':
+  :pbgid: '16206'
+  :screen_name: '0'
+  :icon_name: Icons_vehicles_vehicle_german_stuka
+  :help_text: '0'
+  :extra_text: '0'
+'16630':
+  :pbgid: '16630'
+  :screen_name: '0'
+  :icon_name: Icons_vehicles_vehicle_soviet_il2
+  :help_text: '0'
+  :extra_text: '0'
+'16638':
+  :pbgid: '16638'
+  :screen_name: '11072112'
+  :icon_name: Icons_vehicles_vehicle_aef_m4a3_sherman_76mm
+  :help_text: '11072111'
+  :extra_text: '11072110'
+'173':
+  :pbgid: '173'
+  :screen_name: '11006681'
+  :icon_name: Icons_vehicles_vehicle_soviet_m1942_at_gun
+  :help_text: '11007433'
+  :extra_text: '11007373'
+'174':
+  :pbgid: '174'
+  :screen_name: '11006681'
+  :icon_name: Icons_vehicles_vehicle_soviet_m1942_at_gun
+  :help_text: '11007433'
+  :extra_text: '11007373'
+'175':
+  :pbgid: '175'
+  :screen_name: '11006973'
+  :icon_name: Icons_vehicles_vehicle_soviet_m1942_76mm_at_gun
+  :help_text: '11006972'
+  :extra_text: '11009055'
+'176':
+  :pbgid: '176'
+  :screen_name: '11006973'
+  :icon_name: Icons_vehicles_vehicle_soviet_m1942_76mm_at_gun
+  :help_text: '11006972'
+  :extra_text: '11009055'
+'177':
+  :pbgid: '177'
+  :screen_name: '11007080'
+  :icon_name: Icons_vehicles_vehicle_soviet_su76m_assault_gun
+  :help_text: '11007362'
+  :extra_text: '11007363'
+'178':
+  :pbgid: '178'
+  :screen_name: '11007080'
+  :icon_name: Icons_vehicles_vehicle_soviet_su76m_assault_gun
+  :help_text: '11007362'
+  :extra_text: '11007363'
+'4234':
+  :pbgid: '4234'
+  :screen_name: '0'
+  :icon_name: Icons_vehicles_vehicle_soviet_su76m_assault_gun
+  :help_text: '0'
+  :extra_text: '0'
+'179':
+  :pbgid: '179'
+  :screen_name: '11006721'
+  :icon_name: Icons_vehicles_vehicle_soviet_su85_tank_destroyer
+  :help_text: '11006870'
+  :extra_text: '11007364'
+'180':
+  :pbgid: '180'
+  :screen_name: '11006721'
+  :icon_name: Icons_vehicles_vehicle_soviet_su85_tank_destroyer
+  :help_text: '11006870'
+  :extra_text: '11007364'
+'181':
+  :pbgid: '181'
+  :screen_name: '11006768'
+  :icon_name: Icons_vehicles_vehicle_soviet_t70m_light_tank
+  :help_text: '11006869'
+  :extra_text: '11007366'
+'182':
+  :pbgid: '182'
+  :screen_name: '11006768'
+  :icon_name: Icons_vehicles_vehicle_soviet_t70m_light_tank
+  :help_text: '11006869'
+  :extra_text: '11007366'
+'183':
+  :pbgid: '183'
+  :screen_name: '11006678'
+  :icon_name: Icons_vehicles_vehicle_soviet_t34_76_heavy_tank
+  :help_text: '11006868'
+  :extra_text: '11007365'
+'184':
+  :pbgid: '184'
+  :screen_name: '11006678'
+  :icon_name: Icons_vehicles_vehicle_soviet_t34_76_heavy_tank
+  :help_text: '11006868'
+  :extra_text: '11007365'
+'3478':
+  :pbgid: '3478'
+  :screen_name: '11053999'
+  :icon_name: Icons_vehicles_vehicle_soviet_t34_85
+  :help_text: '11053998'
+  :extra_text: '11053997'
+'185':
+  :pbgid: '185'
+  :screen_name: '11007408'
+  :icon_name: Icons_vehicles_vehicle_soviet_t34_76_heavy_tank
+  :help_text: '11007407'
+  :extra_text: '11007406'
+'186':
+  :pbgid: '186'
+  :screen_name: '11048080'
+  :icon_name: Icons_vehicles_vehicle_soviet_t34_85
+  :help_text: '11007407'
+  :extra_text: '11007406'
+'187':
+  :pbgid: '187'
+  :screen_name: '11048645'
+  :icon_name: Icons_vehicles_vehicle_soviet_su6_truck
+  :help_text: '11048651'
+  :extra_text: '11048649'
+'188':
+  :pbgid: '188'
+  :screen_name: '11048638'
+  :icon_name: Icons_vehicles_vehicle_soviet_su6_truck
+  :help_text: '11048650'
+  :extra_text: '11048648'
+'2654':
+  :pbgid: '2654'
+  :screen_name: '0'
+  :icon_name: Icons_vehicles_vehicle_german_howitzer
+  :help_text: '0'
+  :extra_text: '0'
+'17821':
+  :pbgid: '17821'
+  :screen_name: '11031938'
+  :icon_name: Icons_vehicles_vehicle_german_howitzer
+  :help_text: '11031937'
+  :extra_text: '11038535'
+'14172':
+  :pbgid: '14172'
+  :screen_name: '11079545'
+  :icon_name: Icons_vehicles_vehicle_german_222_armored_car
+  :help_text: '11079546'
+  :extra_text: '11009089'
+'2656':
+  :pbgid: '2656'
+  :screen_name: '11051162'
+  :icon_name: Icons_units_unit_west_german_sturmpioneers
+  :help_text: '11051557'
+  :extra_text: '11106195'
+'2657':
+  :pbgid: '2657'
+  :screen_name: '11051163'
+  :icon_name: Icons_units_unit_west_german_fallschirmjager
+  :help_text: '11051432'
+  :extra_text: '11051431'
+'2658':
+  :pbgid: '2658'
+  :screen_name: '11051164'
+  :icon_name: ''
+  :help_text: '0'
+  :extra_text: '11051420'
+'15190':
+  :pbgid: '15190'
+  :screen_name: '11065351'
+  :icon_name: Icons_units_unit_west_german_terror_officer
+  :help_text: '11065352'
+  :extra_text: '11065353'
+'16743':
+  :pbgid: '16743'
+  :screen_name: '11072311'
+  :icon_name: Icons_units_unit_german_jaeger_light_infantry
+  :help_text: '11072310'
+  :extra_text: '11072309'
+'2665':
+  :pbgid: '2665'
+  :screen_name: '11051169'
+  :icon_name: Icons_units_unit_west_german_waffen_honor_guard
+  :help_text: '11051478'
+  :extra_text: '11051479'
+'2663':
+  :pbgid: '2663'
+  :screen_name: '11051451'
+  :icon_name: Icons_units_unit_west_german_panzerfusilier
+  :help_text: '11051450'
+  :extra_text: '11051449'
+'17092':
+  :pbgid: '17092'
+  :screen_name: '0'
+  :icon_name: Icons_units_unit_german_jaeger_light_infantry
+  :help_text: '0'
+  :extra_text: '0'
+'2664':
+  :pbgid: '2664'
+  :screen_name: '11051170'
+  :icon_name: Icons_units_unit_west_german_volksgrenadiers
+  :help_text: '11072168'
+  :extra_text: '11051417'
+'2667':
+  :pbgid: '2667'
+  :screen_name: '11051171'
+  :icon_name: Icons_vehicles_vehicle_german_pak_40_75mm_at_gun
+  :help_text: '11051439'
+  :extra_text: '11051440'
+'2669':
+  :pbgid: '2669'
+  :screen_name: '11052792'
+  :icon_name: Icons_vehicles_vehicle_west_german_raketenwerfer_43_at_gun
+  :help_text: '11051470'
+  :extra_text: '11051471'
+'15567':
+  :pbgid: '15567'
+  :screen_name: '11066135'
+  :icon_name: Icons_buildings_building_west_german_flak_emplacement
+  :help_text: '11066134'
+  :extra_text: '11069460'
+'16999':
+  :pbgid: '16999'
+  :screen_name: '11073989'
+  :icon_name: Icons_buildings_building_west_german_flak_emplacement
+  :help_text: '11073990'
+  :extra_text: '11073991'
+'2659':
+  :pbgid: '2659'
+  :screen_name: '11051167'
+  :icon_name: Icons_units_unit_german_granatwerfer_34_mortar
+  :help_text: '11051434'
+  :extra_text: '11051433'
+'2681':
+  :pbgid: '2681'
+  :screen_name: '11051477'
+  :icon_name: Icons_vehicles_vehicle_west_german_ig18_infantry_support_gun
+  :help_text: '11051475'
+  :extra_text: '11051474'
+'15617':
+  :pbgid: '15617'
+  :screen_name: '11066571'
+  :icon_name: Icons_units_unit_west_german_mg34_hmg
+  :help_text: '11066572'
+  :extra_text: '11066573'
+'2661':
+  :pbgid: '2661'
+  :screen_name: '11115860'
+  :icon_name: Icons_units_unit_german_m1910_hmg
+  :help_text: '11051442'
+  :extra_text: '11051443'
+'16772':
+  :pbgid: '16772'
+  :screen_name: '11072390'
+  :icon_name: Icons_vehicles_vehicle_german_pak_43_at_gun
+  :help_text: '11072389'
+  :extra_text: '11072388'
+'89447':
+  :pbgid: '89447'
+  :screen_name: '11084288'
+  :icon_name: Icons_vehicles_vehicle_german_goliath
+  :help_text: '11084289'
+  :extra_text: '11097405'
+'16782':
+  :pbgid: '16782'
+  :screen_name: '11072435'
+  :icon_name: Icons_vehicles_vehicle_german_251_mortar_halftrack
+  :help_text: '11072434'
+  :extra_text: '11072433'
+'2671':
+  :pbgid: '2671'
+  :screen_name: '11051175'
+  :icon_name: Icons_vehicles_vehicle_west_german_halftrack_251_flak
+  :help_text: '11052796'
+  :extra_text: '11052797'
+'2672':
+  :pbgid: '2672'
+  :screen_name: '11051177'
+  :icon_name: Icons_vehicles_vehicle_west_german_halftrack_251_infrared
+  :help_text: '11054953'
+  :extra_text: '11054954'
+'14924':
+  :pbgid: '14924'
+  :screen_name: '11071247'
+  :icon_name: Icons_vehicles_vehicle_west_german_halftrack_251_infrared
+  :help_text: '11071246'
+  :extra_text: '11071245'
+'17097':
+  :pbgid: '17097'
+  :screen_name: '0'
+  :icon_name: Icons_vehicles_vehicle_german_251_halftrack
+  :help_text: '0'
+  :extra_text: '0'
+'2675':
+  :pbgid: '2675'
+  :screen_name: '11051180'
+  :icon_name: Icons_vehicles_vehicle_west_german_halftrack_251_walking_stuka
+  :help_text: '11052798'
+  :extra_text: '11052799'
+'95055':
+  :pbgid: '95055'
+  :screen_name: '11097431'
+  :icon_name: Icons_vehicles_vehicle_west_german_hetzer
+  :help_text: '11097434'
+  :extra_text: '11097432'
+'105973':
+  :pbgid: '105973'
+  :screen_name: '11031938'
+  :icon_name: Icons_vehicles_vehicle_german_howitzer
+  :help_text: '11031937'
+  :extra_text: '11038536'
+'2677':
+  :pbgid: '2677'
+  :screen_name: '11051182'
+  :icon_name: Icons_vehicles_vehicle_west_german_jagdpanzer
+  :help_text: '11051494'
+  :extra_text: '11051497'
+'2678':
+  :pbgid: '2678'
+  :screen_name: '11053325'
+  :icon_name: Icons_vehicles_vehicle_west_german_jagdtiger
+  :help_text: '11051492'
+  :extra_text: '11051495'
+'16603':
+  :pbgid: '16603'
+  :screen_name: '0'
+  :icon_name: Icons_vehicles_vehicle_west_german_king_tiger
+  :help_text: '0'
+  :extra_text: '0'
+'2679':
+  :pbgid: '2679'
+  :screen_name: '11051183'
+  :icon_name: Icons_vehicles_vehicle_west_german_king_tiger
+  :help_text: '11051489'
+  :extra_text: '11051490'
+'2680':
+  :pbgid: '2680'
+  :screen_name: '11051184'
+  :icon_name: Icons_vehicles_vehicle_west_german_kubelwagen
+  :help_text: '11051422'
+  :extra_text: '11051558'
+'16747':
+  :pbgid: '16747'
+  :screen_name: '11072328'
+  :icon_name: Icons_vehicles_vehicle_german_ostwind_flak_panzer
+  :help_text: '11072327'
+  :extra_text: '11072326'
+'2683':
+  :pbgid: '2683'
+  :screen_name: '11051186'
+  :icon_name: Icons_vehicles_vehicle_west_german_panther
+  :help_text: '11051481'
+  :extra_text: '11051480'
+'3385':
+  :pbgid: '3385'
+  :screen_name: '11053827'
+  :icon_name: Icons_vehicles_vehicle_west_german_panther_command_tank
+  :help_text: '11053826'
+  :extra_text: '11053825'
+'2684':
+  :pbgid: '2684'
+  :screen_name: '11051187'
+  :icon_name: Icons_vehicles_vehicle_west_german_panzer_ii_luchs
+  :help_text: '11051453'
+  :extra_text: '11051454'
+'17079':
+  :pbgid: '17079'
+  :screen_name: '11051188'
+  :icon_name: Icons_vehicles_vehicle_west_german_panzer_iv
+  :help_text: '11075321'
+  :extra_text: '11075320'
+'15565':
+  :pbgid: '15565'
+  :screen_name: '11038499'
+  :icon_name: Icons_vehicles_vehicle_german_stuka
+  :help_text: '0'
+  :extra_text: '0'
+'97066':
+  :pbgid: '97066'
+  :screen_name: '0'
+  :icon_name: Icons_vehicles_vehicle_german_stuka
+  :help_text: '0'
+  :extra_text: '0'
+'2666':
+  :pbgid: '2666'
+  :screen_name: '11051445'
+  :icon_name: Icons_vehicles_vehicle_west_german_234_puma_armored_car
+  :help_text: '11051446'
+  :extra_text: '11051447'
+'2688':
+  :pbgid: '2688'
+  :screen_name: '11051191'
+  :icon_name: Icons_vehicles_vehicle_west_german_sturmtiger
+  :help_text: '11051501'
+  :extra_text: '11051502'
+'2689':
+  :pbgid: '2689'
+  :screen_name: '11051179'
+  :icon_name: Icons_vehicles_vehicle_west_german_halftrack_sws
+  :help_text: '11075552'
+  :extra_text: '11075543'
+'14859':
+  :pbgid: '14859'
+  :screen_name: '11071229'
+  :icon_name: Icons_vehicles_vehicle_west_german_halftrack_sws
+  :help_text: '11071231'
+  :extra_text: '11071230'

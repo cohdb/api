@@ -1,0 +1,183 @@
+---
+'450322':
+  :server_id: '450322'
+  :pbgid: '94268'
+  :name: '11095346'
+  :description: '11095345'
+  :icon: Icons_fatalities_burn_them_out
+  :rarity: uncommon
+'450320':
+  :server_id: '450320'
+  :pbgid: '94260'
+  :name: '11095338'
+  :description: '11095337'
+  :icon: Icons_fatalities_might_of_the_airforce
+  :rarity: uncommon
+'450323':
+  :server_id: '450323'
+  :pbgid: '94273'
+  :name: '11095348'
+  :description: '11095347'
+  :icon: Icons_fatalities_zeroing_strike
+  :rarity: uncommon
+'388014':
+  :server_id: '388014'
+  :pbgid: '18061'
+  :name: '11076550'
+  :description: '11076551'
+  :icon: Icons_fatalities_fatality_smoke_barrage
+  :rarity: uncommon
+'261162':
+  :server_id: '261162'
+  :pbgid: '17659'
+  :name: '11072695'
+  :description: '11073994'
+  :icon: Icons_fatalities_fatality_panzerwerfer_barrage
+  :rarity: uncommon
+'388824':
+  :server_id: '388824'
+  :pbgid: '18508'
+  :name: '11077098'
+  :description: '11077099'
+  :icon: Icons_fatalities_fatality_incendiary_airstrike
+  :rarity: epic
+'261096':
+  :server_id: '261096'
+  :pbgid: '17660'
+  :name: '11072681'
+  :description: '11074087'
+  :icon: Icons_fatalities_fatality_stuka_smoke_strafe_airstrike
+  :rarity: rare
+'261122':
+  :server_id: '261122'
+  :pbgid: '17661'
+  :name: '11072694'
+  :description: '11073995'
+  :icon: Icons_fatalities_fatality_bullseye
+  :rarity: epic
+'261088':
+  :server_id: '261088'
+  :pbgid: '17662'
+  :name: '11072678'
+  :description: '11073999'
+  :icon: Icons_fatalities_fatality_coordinated_mortar_barrage
+  :rarity: rare
+'349043':
+  :server_id: '349043'
+  :pbgid: '17725'
+  :name: '11075512'
+  :description: '11075513'
+  :icon: Icons_fatalities_fatality_default
+  :rarity: common
+'261085':
+  :server_id: '261085'
+  :pbgid: '17663'
+  :name: '11072677'
+  :description: '11073997'
+  :icon: Icons_fatalities_fatality_howitzer_105mm_barrage
+  :rarity: uncommon
+'260906':
+  :server_id: '260906'
+  :pbgid: '17664'
+  :name: '11072639'
+  :description: '11073998'
+  :icon: Icons_fatalities_fatality_howitzer_240mm_barrage
+  :rarity: uncommon
+'260902':
+  :server_id: '260902'
+  :pbgid: '17665'
+  :name: '11072640'
+  :description: '11095476'
+  :icon: Icons_fatalities_fatality_light_support_artillery
+  :rarity: uncommon
+'260900':
+  :server_id: '260900'
+  :pbgid: '17666'
+  :name: '11072641'
+  :description: '11074001'
+  :icon: Icons_fatalities_fatality_railway_gun_artillery
+  :rarity: rare
+'260904':
+  :server_id: '260904'
+  :pbgid: '17667'
+  :name: '11072642'
+  :description: '11074089'
+  :icon: Icons_fatalities_fatality_time_on_target_artillery
+  :rarity: uncommon
+'260896':
+  :server_id: '260896'
+  :pbgid: '17668'
+  :name: '11072643'
+  :description: '11074002'
+  :icon: Icons_fatalities_fatality_flare_artillery
+  :rarity: uncommon
+'260810':
+  :server_id: '260810'
+  :pbgid: '17669'
+  :name: '11072605'
+  :description: '11095477'
+  :icon: Icons_fatalities_fatality_stuka_fragmentation_airstrike
+  :rarity: rare
+'388856':
+  :server_id: '388856'
+  :pbgid: '18517'
+  :name: '11077083'
+  :description: '11077084'
+  :icon: Icons_fatalities_fatality_sturmtiger_saturation
+  :rarity: epic
+'388019':
+  :server_id: '388019'
+  :pbgid: '18063'
+  :name: '11076552'
+  :description: '11076553'
+  :icon: Icons_fatalities_fatality_walking_stuka_barrage
+  :rarity: uncommon
+'261094':
+  :server_id: '261094'
+  :pbgid: '17670'
+  :name: '11072680'
+  :description: '11074090'
+  :icon: Icons_fatalities_fatality_propaganda_strike
+  :rarity: epic
+'260894':
+  :server_id: '260894'
+  :pbgid: '17671'
+  :name: '11072644'
+  :description: '11074091'
+  :icon: Icons_fatalities_fatality_incendiary_artillery
+  :rarity: uncommon
+'388006':
+  :server_id: '388006'
+  :pbgid: '18058'
+  :name: '11076548'
+  :description: '11076547'
+  :icon: Icons_fatalities_fatality_katyusha_rockets
+  :rarity: uncommon
+'260892':
+  :server_id: '260892'
+  :pbgid: '17672'
+  :name: '11072645'
+  :description: '11074003'
+  :icon: Icons_fatalities_fatality_p47_rocket_attack
+  :rarity: uncommon
+'261092':
+  :server_id: '261092'
+  :pbgid: '17673'
+  :name: '11072679'
+  :description: '11074088'
+  :icon: Icons_fatalities_fatality_concealed_paradrop
+  :rarity: rare
+'388911':
+  :server_id: '388911'
+  :pbgid: '18524'
+  :name: '11077089'
+  :description: '11077090'
+  :icon: Icons_fatalities_fatality_smoke_flare
+  :rarity: uncommon
+'387863':
+  :server_id: '387863'
+  :pbgid: '18009'
+  :name: '11077146'
+  :description: '11077147'
+  :icon: Icons_fatalities_fatality_white_phosphorous
+  :rarity: uncommon

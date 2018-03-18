@@ -1,0 +1,113 @@
+---
+'450520':
+  :server_id: '450520'
+  :pbgid: '98511'
+  :decal_name: DATA:\art\armies\common\badges\dotorg_ocf_tourney_dif
+  :name: '11098297'
+  :description: '11098298'
+  :icon: Icons_decals_dotorg_ocf_tournament
+  :rarity: event
+'450527':
+  :server_id: '450527'
+  :pbgid: '99310'
+  :decal_name: DATA:\art\armies\common\badges\halloween_decal_01_dif
+  :name: '11099016'
+  :description: '11099017'
+  :icon: Icons_decals_halloween_decal_01
+  :rarity: event
+'450104':
+  :server_id: '450104'
+  :pbgid: '91452'
+  :decal_name: DATA:\art\armies\common\badges\custom_00_dif
+  :name: '11085154'
+  :description: '11085155'
+  :icon: Icons_decals_custom_00
+  :rarity: event
+'450787':
+  :server_id: '450787'
+  :pbgid: '105030'
+  :decal_name: DATA:\art\armies\common\badges\default_dif
+  :name: '11115158'
+  :description: '11115157'
+  :icon: Icons_decals_stripes_only
+  :rarity: common
+'450973':
+  :server_id: '450973'
+  :pbgid: '108567'
+  :decal_name: DATA:\art\armies\common\badges\war_paint_platinum_aef_dif
+  :name: '11120343'
+  :description: '11120342'
+  :icon: Icons_decals_war_paint_platinum_decal
+  :rarity: reward
+'451179':
+  :server_id: '451179'
+  :pbgid: '109339'
+  :decal_name: DATA:\art\armies\aef\badges\war_paint_platinum_aef_dif
+  :name: '11120343'
+  :description: '11120342'
+  :icon: Icons_decals_war_paint_platinum_decal
+  :rarity: reward
+'450976':
+  :server_id: '450976'
+  :pbgid: '108570'
+  :decal_name: DATA:\art\armies\german\badges\war_paint_platinum_german_dif
+  :name: '11120343'
+  :description: '11120342'
+  :icon: Icons_decals_war_paint_platinum_decal
+  :rarity: reward
+'450975':
+  :server_id: '450975'
+  :pbgid: '108569'
+  :decal_name: DATA:\art\armies\soviet\badges\war_paint_platinum_soviet_dif
+  :name: '11120343'
+  :description: '11120342'
+  :icon: Icons_decals_war_paint_platinum_decal
+  :rarity: reward
+'450974':
+  :server_id: '450974'
+  :pbgid: '108568'
+  :decal_name: DATA:\art\armies\british\badges\war_paint_platinum_ukf_dif
+  :name: '11120343'
+  :description: '11120342'
+  :icon: Icons_decals_war_paint_platinum_decal
+  :rarity: reward
+'450977':
+  :server_id: '450977'
+  :pbgid: '108571'
+  :decal_name: DATA:\art\armies\west_german\badges\war_paint_platinum_west_german_dif
+  :name: '11120343'
+  :description: '11120342'
+  :icon: Icons_decals_war_paint_platinum_decal
+  :rarity: reward
+'451180':
+  :server_id: '451180'
+  :pbgid: '109340'
+  :decal_name: DATA:\art\armies\common\badges\war_paint_platinum_german_dif
+  :name: '11120343'
+  :description: '11120342'
+  :icon: Icons_decals_war_paint_platinum_decal
+  :rarity: reward
+'451181':
+  :server_id: '451181'
+  :pbgid: '109341'
+  :decal_name: DATA:\art\armies\common\badges\war_paint_platinum_soviet_dif
+  :name: '11120343'
+  :description: '11120342'
+  :icon: Icons_decals_war_paint_platinum_decal
+  :rarity: reward
+'451182':
+  :server_id: '451182'
+  :pbgid: '109342'
+  :decal_name: DATA:\art\armies\common\badges\war_paint_platinum_ukf_dif
+  :name: '11120343'
+  :description: '11120342'
+  :icon: Icons_decals_war_paint_platinum_decal
+  :rarity: reward
+'451183':
+  :server_id: '451183'
+  :pbgid: '109343'
+  :decal_name: DATA:\art\armies\common\badges\war_paint_platinum_west_german_dif
+  :name: '11120343'
+  :description: '11120342'
+  :icon: Icons_decals_war_paint_platinum_decal
+  :rarity: reward

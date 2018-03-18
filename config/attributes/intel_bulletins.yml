@@ -1,0 +1,2787 @@
+---
+'395920':
+  :server_id: '395920'
+  :pbgid: '19474'
+  :name: '11079338'
+  :description: '11079339'
+  :icon: Icons_intel_bulletins_infantry_aef_pathfinder_assassinate
+  :rarity: reward
+'395921':
+  :server_id: '395921'
+  :pbgid: '19475'
+  :name: '11079340'
+  :description: '11079341'
+  :icon: Icons_intel_bulletins_buildings_aef_cache_munitions_cost
+  :rarity: reward
+'395919':
+  :server_id: '395919'
+  :pbgid: '19473'
+  :name: '11079336'
+  :description: '11079337'
+  :icon: Icons_intel_bulletins_infantry_aef_paratrooper_capture
+  :rarity: reward
+'395923':
+  :server_id: '395923'
+  :pbgid: '19477'
+  :name: '11079344'
+  :description: '11079345'
+  :icon: Icons_intel_bulletins_infantry_aef_riflemen_build
+  :rarity: reward
+'395922':
+  :server_id: '395922'
+  :pbgid: '19476'
+  :name: '11079342'
+  :description: '11079343'
+  :icon: Icons_intel_bulletins_infantry_aef_bazooka_lmg_cost
+  :rarity: reward
+'395924':
+  :server_id: '395924'
+  :pbgid: '19478'
+  :name: '11079346'
+  :description: '11079347'
+  :icon: Icons_intel_bulletins_buildings_aef_cache_fuel_cost
+  :rarity: reward
+'395927':
+  :server_id: '395927'
+  :pbgid: '19481'
+  :name: '11079353'
+  :description: '11079352'
+  :icon: Icons_intel_bulletins_infantry_aef_grenade_cost
+  :rarity: reward
+'395926':
+  :server_id: '395926'
+  :pbgid: '19480'
+  :name: '11079350'
+  :description: '11079351'
+  :icon: Icons_intel_bulletins_infantry_aef_officer_rally
+  :rarity: reward
+'395925':
+  :server_id: '395925'
+  :pbgid: '19479'
+  :name: '11079348'
+  :description: '11106860'
+  :icon: Icons_intel_bulletins_lightvehicle_aef_ambulance_build_time
+  :rarity: reward
+'395930':
+  :server_id: '395930'
+  :pbgid: '19484'
+  :name: '11079369'
+  :description: '11079368'
+  :icon: Icons_intel_bulletins_teamweapons_aef_team_weapons_build
+  :rarity: reward
+'395931':
+  :server_id: '395931'
+  :pbgid: '19485'
+  :name: '11079364'
+  :description: '11079365'
+  :icon: Icons_intel_bulletins_infantry_aef_bazooka_range
+  :rarity: reward
+'395929':
+  :server_id: '395929'
+  :pbgid: '19483'
+  :name: '11079366'
+  :description: '11079367'
+  :icon: Icons_intel_bulletins_teamweapons_aef_team_weapons_cost
+  :rarity: reward
+'18438':
+  :server_id: '18438'
+  :pbgid: '4249'
+  :name: '11054601'
+  :description: '11054599'
+  :icon: Icons_intel_bulletins_artillery_sov_b4_acc
+  :rarity: rare
+'5857':
+  :server_id: '5857'
+  :pbgid: '0'
+  :name: '11034430'
+  :description: '11034429'
+  :icon: Icons_intel_bulletins_artillery_artillery10
+  :rarity: common
+'5858':
+  :server_id: '5858'
+  :pbgid: '1'
+  :name: '11034432'
+  :description: '11034431'
+  :icon: Icons_intel_bulletins_artillery_artillery11
+  :rarity: common
+'5805':
+  :server_id: '5805'
+  :pbgid: '2'
+  :name: '11034257'
+  :description: '11034347'
+  :icon: Icons_intel_bulletins_artillery_ger_lefh18_recharge
+  :rarity: common
+'5804':
+  :server_id: '5804'
+  :pbgid: '3'
+  :name: '11034256'
+  :description: '11034346'
+  :icon: Icons_intel_bulletins_artillery_ger_lefh18_vet
+  :rarity: common
+'5807':
+  :server_id: '5807'
+  :pbgid: '4'
+  :name: '11034258'
+  :description: '11034350'
+  :icon: Icons_intel_bulletins_artillery_sov_katyusha_vet
+  :rarity: common
+'5806':
+  :server_id: '5806'
+  :pbgid: '5'
+  :name: '11034349'
+  :description: '11034348'
+  :icon: Icons_intel_bulletins_artillery_sov_katyusha_ap
+  :rarity: common
+'5800':
+  :server_id: '5800'
+  :pbgid: '6'
+  :name: '11034253'
+  :description: '11034343'
+  :icon: Icons_intel_bulletins_artillery_sov_ml20_acc
+  :rarity: common
+'5802':
+  :server_id: '5802'
+  :pbgid: '7'
+  :name: '11034255'
+  :description: '11034345'
+  :icon: Icons_intel_bulletins_artillery_sov_ml20_reload
+  :rarity: common
+'5801':
+  :server_id: '5801'
+  :pbgid: '8'
+  :name: '11034254'
+  :description: '11034344'
+  :icon: Icons_intel_bulletins_artillery_sov_ml20_recharge
+  :rarity: common
+'5809':
+  :server_id: '5809'
+  :pbgid: '9'
+  :name: '11034260'
+  :description: '11034352'
+  :icon: Icons_intel_bulletins_artillery_ger_panzerwerfer_ap
+  :rarity: common
+'5808':
+  :server_id: '5808'
+  :pbgid: '10'
+  :name: '11034259'
+  :description: '11034351'
+  :icon: Icons_intel_bulletins_artillery_ger_panzerwerfer_recharge
+  :rarity: common
+'5822':
+  :server_id: '5822'
+  :pbgid: '11'
+  :name: '11034274'
+  :description: '11034365'
+  :icon: Icons_intel_bulletins_assault_gun_assaultgun16
+  :rarity: common
+'5823':
+  :server_id: '5823'
+  :pbgid: '12'
+  :name: '11034275'
+  :description: '11034366'
+  :icon: Icons_intel_bulletins_assault_gun_assaultgun15
+  :rarity: common
+'5855':
+  :server_id: '5855'
+  :pbgid: '13'
+  :name: '11034426'
+  :description: '11034425'
+  :icon: Icons_intel_bulletins_assault_gun_assaultgun10
+  :rarity: common
+'5856':
+  :server_id: '5856'
+  :pbgid: '14'
+  :name: '11034428'
+  :description: '11034427'
+  :icon: Icons_intel_bulletins_assault_gun_assaultgun11
+  :rarity: common
+'5826':
+  :server_id: '5826'
+  :pbgid: '15'
+  :name: '11034278'
+  :description: '11034369'
+  :icon: Icons_intel_bulletins_assault_gun_sov_isu152_reload
+  :rarity: uncommon
+'5827':
+  :server_id: '5827'
+  :pbgid: '16'
+  :name: '11034279'
+  :description: '11034370'
+  :icon: Icons_intel_bulletins_assault_gun_sov_isu152_armor_rotation
+  :rarity: uncommon
+'6105':
+  :server_id: '6105'
+  :pbgid: '17'
+  :name: '11048245'
+  :description: '11048281'
+  :icon: Icons_intel_bulletins_assault_gun_assaultgun13
+  :rarity: uncommon
+'6104':
+  :server_id: '6104'
+  :pbgid: '18'
+  :name: '11048244'
+  :description: '11048280'
+  :icon: Icons_intel_bulletins_assault_gun_assaultgun19
+  :rarity: common
+'5825':
+  :server_id: '5825'
+  :pbgid: '19'
+  :name: '11034277'
+  :description: '11034368'
+  :icon: Icons_intel_bulletins_assault_gun_ger_stug_build_vet
+  :rarity: common
+'18435':
+  :server_id: '18435'
+  :pbgid: '4243'
+  :name: '11054587'
+  :description: '11054588'
+  :icon: Icons_intel_bulletins_assault_gun_ger_stug_e_reload
+  :rarity: uncommon
+'5824':
+  :server_id: '5824'
+  :pbgid: '20'
+  :name: '11034276'
+  :description: '11034367'
+  :icon: Icons_intel_bulletins_assault_gun_ger_stug_ap
+  :rarity: uncommon
+'5830':
+  :server_id: '5830'
+  :pbgid: '21'
+  :name: '11034282'
+  :description: '11034373'
+  :icon: Icons_intel_bulletins_assault_gun_assaultgun09
+  :rarity: common
+'5829':
+  :server_id: '5829'
+  :pbgid: '22'
+  :name: '11034281'
+  :description: '11034372'
+  :icon: Icons_intel_bulletins_assault_gun_assaultgun08
+  :rarity: common
+'5828':
+  :server_id: '5828'
+  :pbgid: '23'
+  :name: '11034280'
+  :description: '11034371'
+  :icon: Icons_intel_bulletins_assault_gun_assaultgun18
+  :rarity: common
+'6106':
+  :server_id: '6106'
+  :pbgid: '24'
+  :name: '11048246'
+  :description: '11048282'
+  :icon: Icons_intel_bulletins_assault_gun_assaultgun20
+  :rarity: rare
+'5859':
+  :server_id: '5859'
+  :pbgid: '25'
+  :name: '11034434'
+  :description: '11034433'
+  :icon: Icons_intel_bulletins_at_gun_atgun09
+  :rarity: common
+'18439':
+  :server_id: '18439'
+  :pbgid: '4251'
+  :name: '11054605'
+  :description: '11054603'
+  :icon: Icons_intel_bulletins_at_gun_atgun16
+  :rarity: uncommon
+'6109':
+  :server_id: '6109'
+  :pbgid: '26'
+  :name: '11048249'
+  :description: '11048283'
+  :icon: Icons_intel_bulletins_at_gun_atgun12
+  :rarity: uncommon
+'5797':
+  :server_id: '5797'
+  :pbgid: '27'
+  :name: '11034250'
+  :description: '11034340'
+  :icon: Icons_intel_bulletins_at_gun_atgun06
+  :rarity: common
+'5796':
+  :server_id: '5796'
+  :pbgid: '28'
+  :name: '11034249'
+  :description: '11034339'
+  :icon: Icons_intel_bulletins_at_gun_atgun05
+  :rarity: uncommon
+'5799':
+  :server_id: '5799'
+  :pbgid: '29'
+  :name: '11034252'
+  :description: '11034342'
+  :icon: Icons_intel_bulletins_at_gun_atgun15
+  :rarity: uncommon
+'5798':
+  :server_id: '5798'
+  :pbgid: '30'
+  :name: '11034251'
+  :description: '11034341'
+  :icon: Icons_intel_bulletins_at_gun_atgun07
+  :rarity: uncommon
+'5918':
+  :server_id: '5918'
+  :pbgid: '31'
+  :name: '11037014'
+  :description: '11037013'
+  :icon: Icons_intel_bulletins_at_gun_atgun17
+  :rarity: common
+'6110':
+  :server_id: '6110'
+  :pbgid: '32'
+  :name: '11048251'
+  :description: '11048284'
+  :icon: Icons_intel_bulletins_at_gun_atgun19
+  :rarity: rare
+'5795':
+  :server_id: '5795'
+  :pbgid: '33'
+  :name: '11034915'
+  :description: '11034338'
+  :icon: Icons_intel_bulletins_at_gun_atgun04
+  :rarity: common
+'5794':
+  :server_id: '5794'
+  :pbgid: '34'
+  :name: '11034247'
+  :description: '11034337'
+  :icon: Icons_intel_bulletins_at_gun_atgun16
+  :rarity: common
+'450293':
+  :server_id: '450293'
+  :pbgid: '93717'
+  :name: '11091039'
+  :description: '11091038'
+  :icon: Icons_intel_bulletins_artillery_british_sexton_vet
+  :rarity: rare
+'450225':
+  :server_id: '450225'
+  :pbgid: '93130'
+  :name: '11090522'
+  :description: '11090523'
+  :icon: Icons_intel_bulletins_at_gun_british_6pounder02
+  :rarity: uncommon
+'450226':
+  :server_id: '450226'
+  :pbgid: '93131'
+  :name: '11090521'
+  :description: '11090524'
+  :icon: Icons_intel_bulletins_at_gun_british_6pounder01
+  :rarity: common
+'450227':
+  :server_id: '450227'
+  :pbgid: '93132'
+  :name: '11090520'
+  :description: '11090525'
+  :icon: Icons_intel_bulletins_at_gun_british_6pounder03
+  :rarity: rare
+'450283':
+  :server_id: '450283'
+  :pbgid: '93521'
+  :name: '11090990'
+  :description: '11090991'
+  :icon: Icons_intel_bulletins_at_gun_british_17pounder_reload
+  :rarity: uncommon
+'450515':
+  :server_id: '450515'
+  :pbgid: '97800'
+  :name: '11098017'
+  :description: '11098018'
+  :icon: Icons_abilities_ability_british_load_he_mortar_shells
+  :rarity: rare
+'450516':
+  :server_id: '450516'
+  :pbgid: '97801'
+  :name: '11098014'
+  :description: '11098015'
+  :icon: Icons_abilities_ability_british_load_white_phosperous_mortar_shells
+  :rarity: rare
+'450282':
+  :server_id: '450282'
+  :pbgid: '93519'
+  :name: '11090989'
+  :description: '11090988'
+  :icon: Icons_intel_bulletins_artillery_british_3inch_mortar_scat
+  :rarity: rare
+'450284':
+  :server_id: '450284'
+  :pbgid: '93523'
+  :name: '11090992'
+  :description: '11090987'
+  :icon: Icons_intel_bulletins_buildings_british_bofors_armor
+  :rarity: common
+'450239':
+  :server_id: '450239'
+  :pbgid: '93190'
+  :name: '11090637'
+  :description: '11090635'
+  :icon: Icons_intel_bulletins_heavytank_british_churchill_avre_dispatch
+  :rarity: common
+'450246':
+  :server_id: '450246'
+  :pbgid: '93242'
+  :name: '11090772'
+  :description: '11090771'
+  :icon: Icons_intel_bulletins_heavytank_british_churchill_pen
+  :rarity: uncommon
+'450240':
+  :server_id: '450240'
+  :pbgid: '93192'
+  :name: '11090642'
+  :description: '11090643'
+  :icon: Icons_intel_bulletins_heavytank_british_churchill_croc_speed
+  :rarity: common
+'450222':
+  :server_id: '450222'
+  :pbgid: '93121'
+  :name: '11090494'
+  :description: '11090495'
+  :icon: Icons_intel_bulletins_hmg_british_hmg02
+  :rarity: uncommon
+'450223':
+  :server_id: '450223'
+  :pbgid: '93122'
+  :name: '11090499'
+  :description: '11090496'
+  :icon: Icons_intel_bulletins_hmg_british_hmg01
+  :rarity: common
+'450224':
+  :server_id: '450224'
+  :pbgid: '93123'
+  :name: '11090498'
+  :description: '11090497'
+  :icon: Icons_intel_bulletins_hmg_british_hmg03
+  :rarity: rare
+'450256':
+  :server_id: '450256'
+  :pbgid: '93353'
+  :name: '11090871'
+  :description: '11090873'
+  :icon: Icons_intel_bulletins_infantry_british_commando_cooldown
+  :rarity: rare
+'450285':
+  :server_id: '450285'
+  :pbgid: '93525'
+  :name: '11090981'
+  :description: '11090982'
+  :icon: Icons_intel_bulletins_infantry_british_commando_cost
+  :rarity: common
+'450205':
+  :server_id: '450205'
+  :pbgid: '93009'
+  :name: '11090376'
+  :description: '11090377'
+  :icon: Icons_intel_bulletins_infantry_british_tommy02
+  :rarity: uncommon
+'450206':
+  :server_id: '450206'
+  :pbgid: '93010'
+  :name: '11090381'
+  :description: '11090379'
+  :icon: Icons_intel_bulletins_infantry_british_tommy01
+  :rarity: common
+'450207':
+  :server_id: '450207'
+  :pbgid: '93011'
+  :name: '11090390'
+  :description: '11090386'
+  :icon: Icons_intel_bulletins_infantry_british_tommy03
+  :rarity: rare
+'450318':
+  :server_id: '450318'
+  :pbgid: '94057'
+  :name: '11095124'
+  :description: '11095122'
+  :icon: Icons_intel_bulletins_infantry_british_medic_speed
+  :rarity: uncommon
+'450255':
+  :server_id: '450255'
+  :pbgid: '93351'
+  :name: '11090861'
+  :description: '11090860'
+  :icon: Icons_intel_bulletins_infantry_british_officer_vet
+  :rarity: common
+'450290':
+  :server_id: '450290'
+  :pbgid: '93712'
+  :name: '11091043'
+  :description: '11091044'
+  :icon: Icons_intel_bulletins_infantry_british_sapper_build
+  :rarity: common
+'450266':
+  :server_id: '450266'
+  :pbgid: '93429'
+  :name: '11090929'
+  :description: '11090930'
+  :icon: Icons_intel_bulletins_infantry_british_sapper_cost
+  :rarity: common
+'450292':
+  :server_id: '450292'
+  :pbgid: '93715'
+  :name: '11091041'
+  :description: '11091040'
+  :icon: Icons_intel_bulletins_infantry_british_sapper_vet
+  :rarity: common
+'450261':
+  :server_id: '450261'
+  :pbgid: '93397'
+  :name: '11090864'
+  :description: '11090869'
+  :icon: Icons_intel_bulletins_infantry_british_sniper_charge
+  :rarity: common
+'450260':
+  :server_id: '450260'
+  :pbgid: '93393'
+  :name: '11090862'
+  :description: '11090863'
+  :icon: Icons_intel_bulletins_infantry_british_mills_range
+  :rarity: common
+'450265':
+  :server_id: '450265'
+  :pbgid: '93427'
+  :name: '11090927'
+  :description: '11090928'
+  :icon: Icons_intel_bulletins_lightvehicle_british_aec_speed
+  :rarity: uncommon
+'450267':
+  :server_id: '450267'
+  :pbgid: '93432'
+  :name: '11090926'
+  :description: '11090925'
+  :icon: Icons_intel_bulletins_lightvehicle_british_aec_cost
+  :rarity: common
+'450247':
+  :server_id: '450247'
+  :pbgid: '93244'
+  :name: '11090769'
+  :description: '11090770'
+  :icon: Icons_intel_bulletins_mediumtank_british_comet_vet
+  :rarity: rare
+'450319':
+  :server_id: '450319'
+  :pbgid: '94223'
+  :name: '11095286'
+  :description: '11095283'
+  :icon: Icons_intel_bulletins_lightvehicle_british_m3_protect
+  :rarity: uncommon
+'450249':
+  :server_id: '450249'
+  :pbgid: '93270'
+  :name: '11090767'
+  :description: '11090763'
+  :icon: Icons_intel_bulletins_lightvehicle_british_universal_armor
+  :rarity: uncommon
+'450250':
+  :server_id: '450250'
+  :pbgid: '93273'
+  :name: '11090768'
+  :description: '11090766'
+  :icon: Icons_intel_bulletins_lightvehicle_british_universal_cost
+  :rarity: common
+'450294':
+  :server_id: '450294'
+  :pbgid: '93720'
+  :name: '11091034'
+  :description: '11091036'
+  :icon: Icons_intel_bulletins_mediumtank_british_valentine_speed
+  :rarity: common
+'450238':
+  :server_id: '450238'
+  :pbgid: '93188'
+  :name: '11090634'
+  :description: '11090633'
+  :icon: Icons_intel_bulletins_mediumtank_british_centaur_reload
+  :rarity: uncommon
+'450237':
+  :server_id: '450237'
+  :pbgid: '93186'
+  :name: '11090630'
+  :description: '11090629'
+  :icon: Icons_intel_bulletins_mediumtank_british_firefly_pen
+  :rarity: uncommon
+'450231':
+  :server_id: '450231'
+  :pbgid: '93154'
+  :name: '11090575'
+  :description: '11090578'
+  :icon: Icons_intel_bulletins_mediumtank_british_cromwell02
+  :rarity: uncommon
+'450232':
+  :server_id: '450232'
+  :pbgid: '93155'
+  :name: '11090574'
+  :description: '11090577'
+  :icon: Icons_intel_bulletins_mediumtank_british_cromwell01
+  :rarity: common
+'450233':
+  :server_id: '450233'
+  :pbgid: '93156'
+  :name: '11090573'
+  :description: '11090576'
+  :icon: Icons_intel_bulletins_mediumtank_british_cromwell03
+  :rarity: rare
+'6013':
+  :server_id: '6013'
+  :pbgid: '35'
+  :name: '0'
+  :description: '0'
+  :icon: ''
+  :rarity: other
+'6014':
+  :server_id: '6014'
+  :pbgid: '36'
+  :name: '0'
+  :description: '0'
+  :icon: ''
+  :rarity: other
+'6015':
+  :server_id: '6015'
+  :pbgid: '37'
+  :name: '0'
+  :description: '0'
+  :icon: ''
+  :rarity: other
+'6017':
+  :server_id: '6017'
+  :pbgid: '38'
+  :name: '0'
+  :description: '0'
+  :icon: ''
+  :rarity: other
+'6016':
+  :server_id: '6016'
+  :pbgid: '39'
+  :name: '0'
+  :description: '0'
+  :icon: ''
+  :rarity: other
+'6018':
+  :server_id: '6018'
+  :pbgid: '40'
+  :name: '0'
+  :description: '0'
+  :icon: ''
+  :rarity: other
+'6019':
+  :server_id: '6019'
+  :pbgid: '41'
+  :name: '0'
+  :description: '0'
+  :icon: ''
+  :rarity: other
+'6020':
+  :server_id: '6020'
+  :pbgid: '42'
+  :name: '0'
+  :description: '0'
+  :icon: ''
+  :rarity: other
+'6022':
+  :server_id: '6022'
+  :pbgid: '43'
+  :name: '0'
+  :description: '0'
+  :icon: ''
+  :rarity: other
+'6021':
+  :server_id: '6021'
+  :pbgid: '44'
+  :name: '0'
+  :description: '0'
+  :icon: ''
+  :rarity: other
+'6024':
+  :server_id: '6024'
+  :pbgid: '45'
+  :name: '0'
+  :description: '0'
+  :icon: ''
+  :rarity: other
+'6023':
+  :server_id: '6023'
+  :pbgid: '46'
+  :name: '0'
+  :description: '0'
+  :icon: ''
+  :rarity: other
+'6025':
+  :server_id: '6025'
+  :pbgid: '47'
+  :name: '0'
+  :description: '0'
+  :icon: ''
+  :rarity: other
+'6028':
+  :server_id: '6028'
+  :pbgid: '48'
+  :name: '0'
+  :description: '0'
+  :icon: ''
+  :rarity: other
+'6027':
+  :server_id: '6027'
+  :pbgid: '49'
+  :name: '0'
+  :description: '0'
+  :icon: ''
+  :rarity: other
+'6026':
+  :server_id: '6026'
+  :pbgid: '50'
+  :name: '0'
+  :description: '0'
+  :icon: ''
+  :rarity: other
+'6031':
+  :server_id: '6031'
+  :pbgid: '51'
+  :name: '0'
+  :description: '0'
+  :icon: ''
+  :rarity: other
+'6029':
+  :server_id: '6029'
+  :pbgid: '52'
+  :name: '0'
+  :description: '0'
+  :icon: ''
+  :rarity: other
+'6030':
+  :server_id: '6030'
+  :pbgid: '53'
+  :name: '0'
+  :description: '0'
+  :icon: ''
+  :rarity: other
+'6032':
+  :server_id: '6032'
+  :pbgid: '54'
+  :name: '0'
+  :description: '0'
+  :icon: ''
+  :rarity: other
+'6035':
+  :server_id: '6035'
+  :pbgid: '55'
+  :name: '0'
+  :description: '0'
+  :icon: ''
+  :rarity: other
+'6037':
+  :server_id: '6037'
+  :pbgid: '56'
+  :name: '0'
+  :description: '0'
+  :icon: ''
+  :rarity: other
+'6040':
+  :server_id: '6040'
+  :pbgid: '57'
+  :name: '0'
+  :description: '0'
+  :icon: ''
+  :rarity: other
+'6038':
+  :server_id: '6038'
+  :pbgid: '58'
+  :name: '0'
+  :description: '0'
+  :icon: ''
+  :rarity: other
+'6039':
+  :server_id: '6039'
+  :pbgid: '59'
+  :name: '0'
+  :description: '0'
+  :icon: ''
+  :rarity: other
+'6041':
+  :server_id: '6041'
+  :pbgid: '60'
+  :name: '0'
+  :description: '0'
+  :icon: ''
+  :rarity: other
+'6042':
+  :server_id: '6042'
+  :pbgid: '61'
+  :name: '0'
+  :description: '0'
+  :icon: ''
+  :rarity: other
+'6045':
+  :server_id: '6045'
+  :pbgid: '62'
+  :name: '0'
+  :description: '0'
+  :icon: ''
+  :rarity: other
+'6043':
+  :server_id: '6043'
+  :pbgid: '63'
+  :name: '0'
+  :description: '0'
+  :icon: ''
+  :rarity: other
+'6044':
+  :server_id: '6044'
+  :pbgid: '64'
+  :name: '0'
+  :description: '0'
+  :icon: ''
+  :rarity: other
+'6047':
+  :server_id: '6047'
+  :pbgid: '65'
+  :name: '0'
+  :description: '0'
+  :icon: ''
+  :rarity: other
+'6046':
+  :server_id: '6046'
+  :pbgid: '66'
+  :name: '0'
+  :description: '0'
+  :icon: ''
+  :rarity: other
+'6049':
+  :server_id: '6049'
+  :pbgid: '67'
+  :name: '0'
+  :description: '0'
+  :icon: ''
+  :rarity: other
+'6050':
+  :server_id: '6050'
+  :pbgid: '68'
+  :name: '0'
+  :description: '0'
+  :icon: ''
+  :rarity: other
+'6048':
+  :server_id: '6048'
+  :pbgid: '69'
+  :name: '0'
+  :description: '0'
+  :icon: ''
+  :rarity: other
+'388298':
+  :server_id: '388298'
+  :pbgid: '18318'
+  :name: '11076873'
+  :description: '11076875'
+  :icon: Icons_intel_bulletins_artillery_aef_pack_range
+  :rarity: uncommon
+'389802':
+  :server_id: '389802'
+  :pbgid: '18622'
+  :name: '11077264'
+  :description: '11077217'
+  :icon: Icons_intel_bulletins_artillery_aef_priest_range
+  :rarity: rare
+'387933':
+  :server_id: '387933'
+  :pbgid: '18023'
+  :name: '11076482'
+  :description: '11076480'
+  :icon: Icons_intel_bulletins_at_gun_aef_m157mm_ap
+  :rarity: rare
+'394328':
+  :server_id: '394328'
+  :pbgid: '19249'
+  :name: '11078716'
+  :description: '11078671'
+  :icon: Icons_intel_bulletins_hmg_aef_m2hb_supp
+  :rarity: uncommon
+'387931':
+  :server_id: '387931'
+  :pbgid: '18021'
+  :name: '11076462'
+  :description: '11076463'
+  :icon: Icons_intel_bulletins_infantry_aef_echelon_acc_cool
+  :rarity: uncommon
+'389804':
+  :server_id: '389804'
+  :pbgid: '18624'
+  :name: '11077262'
+  :description: '11077219'
+  :icon: Icons_intel_bulletins_infantry_aef_paratroopers_defense
+  :rarity: uncommon
+'389803':
+  :server_id: '389803'
+  :pbgid: '18623'
+  :name: '11077263'
+  :description: '11077218'
+  :icon: Icons_intel_bulletins_lightvehicle_aef_greyhound_ability_cost
+  :rarity: uncommon
+'387932':
+  :server_id: '387932'
+  :pbgid: '18022'
+  :name: '11076474'
+  :description: '11076473'
+  :icon: Icons_intel_bulletins_lightvehicle_aef_m15aa_ap
+  :rarity: uncommon
+'388296':
+  :server_id: '388296'
+  :pbgid: '18316'
+  :name: '11076877'
+  :description: '11076879'
+  :icon: Icons_intel_bulletins_lightvehicle_aef_m15aa_mobility
+  :rarity: common
+'388783':
+  :server_id: '388783'
+  :pbgid: '18475'
+  :name: '11077025'
+  :description: '11077023'
+  :icon: Icons_intel_bulletins_lightvehicle_aef_m20_sight_range
+  :rarity: uncommon
+'394319':
+  :server_id: '394319'
+  :pbgid: '19245'
+  :name: '11078670'
+  :description: '11078669'
+  :icon: Icons_intel_bulletins_lightvehicle_aef_mortar_halftrack_scatter
+  :rarity: uncommon
+'388297':
+  :server_id: '388297'
+  :pbgid: '18317'
+  :name: '11076880'
+  :description: '11076882'
+  :icon: Icons_intel_bulletins_lightvehicle_aef_stuart_mobility
+  :rarity: common
+'394318':
+  :server_id: '394318'
+  :pbgid: '19244'
+  :name: '11078668'
+  :description: '11078667'
+  :icon: Icons_intel_bulletins_lightvehicle_aef_wc51_acc
+  :rarity: common
+'393781':
+  :server_id: '393781'
+  :pbgid: '19174'
+  :name: '11078666'
+  :description: '11078439'
+  :icon: Icons_intel_bulletins_mediumtank_aef_m36_ap
+  :rarity: rare
+'388301':
+  :server_id: '388301'
+  :pbgid: '18321'
+  :name: '11076889'
+  :description: '11076891'
+  :icon: Icons_intel_bulletins_artillery_ger_panzerwerfer_range
+  :rarity: rare
+'388299':
+  :server_id: '388299'
+  :pbgid: '18319'
+  :name: '11076884'
+  :description: '11076885'
+  :icon: Icons_intel_bulletins_assault_gun_ger_stug_mobility
+  :rarity: common
+'389793':
+  :server_id: '389793'
+  :pbgid: '18614'
+  :name: '11077255'
+  :description: '11077210'
+  :icon: Icons_intel_bulletins_heavytank_ger_tiger_turret_sight
+  :rarity: uncommon
+'389741':
+  :server_id: '389741'
+  :pbgid: '18596'
+  :name: '11077197'
+  :description: '11077198'
+  :icon: Icons_intel_bulletins_infantry_ger_osttruppen_defense
+  :rarity: rare
+'387938':
+  :server_id: '387938'
+  :pbgid: '18028'
+  :name: '11076499'
+  :description: '11076511'
+  :icon: Icons_intel_bulletins_infantry_ger_panzergrenadiers_evade
+  :rarity: uncommon
+'389740':
+  :server_id: '389740'
+  :pbgid: '18595'
+  :name: '11077196'
+  :description: '11077195'
+  :icon: Icons_intel_bulletins_infantry_ger_stormtroopers_acc_speed
+  :rarity: uncommon
+'388827':
+  :server_id: '388827'
+  :pbgid: '18510'
+  :name: '11077064'
+  :description: '11106861'
+  :icon: Icons_intel_bulletins_lightvehicle_ger_221_scout_autocannon_cost
+  :rarity: rare
+'387939':
+  :server_id: '387939'
+  :pbgid: '18029'
+  :name: '11076495'
+  :description: '11076509'
+  :icon: Icons_intel_bulletins_lightvehicle_ger_sdkfz251_speed_rotation
+  :rarity: common
+'388300':
+  :server_id: '388300'
+  :pbgid: '18320'
+  :name: '11076886'
+  :description: '11076888'
+  :icon: Icons_intel_bulletins_mortar_ger_grw34_reload
+  :rarity: uncommon
+'387937':
+  :server_id: '387937'
+  :pbgid: '18027'
+  :name: '11076497'
+  :description: '11076510'
+  :icon: Icons_intel_bulletins_mortar_ger_grw34_acc
+  :rarity: uncommon
+'390451':
+  :server_id: '390451'
+  :pbgid: '18725'
+  :name: '11077375'
+  :description: '11077373'
+  :icon: Icons_intel_bulletins_mediumtank_aef_tank02
+  :rarity: common
+'388304':
+  :server_id: '388304'
+  :pbgid: '18324'
+  :name: '11076898'
+  :description: '11076900'
+  :icon: Icons_intel_bulletins_artillery_sov_katyusha_range
+  :rarity: uncommon
+'387936':
+  :server_id: '387936'
+  :pbgid: '18026'
+  :name: '11076491'
+  :description: '11076507'
+  :icon: Icons_intel_bulletins_at_gun_sov_zis3_rotation
+  :rarity: common
+'389796':
+  :server_id: '389796'
+  :pbgid: '18617'
+  :name: '11077258'
+  :description: '11077213'
+  :icon: Icons_intel_bulletins_heavytank_sov_is2_mobility
+  :rarity: common
+'389794':
+  :server_id: '389794'
+  :pbgid: '18615'
+  :name: '11077256'
+  :description: '11077211'
+  :icon: Icons_intel_bulletins_infantry_sov_guards_defense_sight
+  :rarity: uncommon
+'387935':
+  :server_id: '387935'
+  :pbgid: '18025'
+  :name: '11076493'
+  :description: '11076487'
+  :icon: Icons_intel_bulletins_infantry_sov_satchel_range
+  :rarity: common
+'387934':
+  :server_id: '387934'
+  :pbgid: '18024'
+  :name: '11076492'
+  :description: '11076506'
+  :icon: Icons_intel_bulletins_infantry_sov_sniper_sight_cool
+  :rarity: common
+'388789':
+  :server_id: '388789'
+  :pbgid: '18479'
+  :name: '11077037'
+  :description: '11077036'
+  :icon: Icons_intel_bulletins_infantry_sov_t35_cost
+  :rarity: common
+'388302':
+  :server_id: '388302'
+  :pbgid: '18322'
+  :name: '11076892'
+  :description: '11076894'
+  :icon: Icons_intel_bulletins_lightvehicle_sov_scoutcar_mobility
+  :rarity: common
+'389795':
+  :server_id: '389795'
+  :pbgid: '18616'
+  :name: '11077257'
+  :description: '11077212'
+  :icon: Icons_intel_bulletins_mediumtank_sov_t34_85_armor
+  :rarity: rare
+'388303':
+  :server_id: '388303'
+  :pbgid: '18323'
+  :name: '11076895'
+  :description: '11076897'
+  :icon: Icons_intel_bulletins_mortar_sov_pm41_scatter
+  :rarity: uncommon
+'388307':
+  :server_id: '388307'
+  :pbgid: '18327'
+  :name: '11076907'
+  :description: '11076909'
+  :icon: Icons_intel_bulletins_artillery_wgr_leig18_recharge
+  :rarity: common
+'387941':
+  :server_id: '387941'
+  :pbgid: '18031'
+  :name: '11076501'
+  :description: '11076512'
+  :icon: Icons_intel_bulletins_artillery_wgr_leig18_reload
+  :rarity: common
+'389801':
+  :server_id: '389801'
+  :pbgid: '18621'
+  :name: '11077261'
+  :description: '11106858'
+  :icon: Icons_intel_bulletins_heavytank_west_german_jagtiger_reload
+  :rarity: rare
+'389797':
+  :server_id: '389797'
+  :pbgid: '18618'
+  :name: '11077259'
+  :description: '11077214'
+  :icon: Icons_intel_bulletins_infantry_wgr_jaeger_light_acc_sight
+  :rarity: common
+'387940':
+  :server_id: '387940'
+  :pbgid: '18030'
+  :name: '11076503'
+  :description: '11076513'
+  :icon: Icons_intel_bulletins_infantry_wgr_obersoldaten_acc
+  :rarity: uncommon
+'394349':
+  :server_id: '394349'
+  :pbgid: '19257'
+  :name: '11078676'
+  :description: '11078675'
+  :icon: Icons_intel_bulletins_lightvehicle_wgr_flak_halftrack_turret
+  :rarity: common
+'388788':
+  :server_id: '388788'
+  :pbgid: '18478'
+  :name: '11077031'
+  :description: '11077032'
+  :icon: Icons_intel_bulletins_lightvehicle_wgr_infrared_search_speed
+  :rarity: common
+'388305':
+  :server_id: '388305'
+  :pbgid: '18325'
+  :name: '11076901'
+  :description: '11076903'
+  :icon: Icons_intel_bulletins_lightvehicle_wgr_kuebelwagen_mobility
+  :rarity: common
+'394344':
+  :server_id: '394344'
+  :pbgid: '19254'
+  :name: '11078673'
+  :description: '11078672'
+  :icon: Icons_intel_bulletins_lightvehicle_wgr_panzerii_reload
+  :rarity: uncommon
+'387942':
+  :server_id: '387942'
+  :pbgid: '18032'
+  :name: '11076505'
+  :description: '11076514'
+  :icon: Icons_intel_bulletins_lightvehicle_wgr_puma_reload
+  :rarity: uncommon
+'389800':
+  :server_id: '389800'
+  :pbgid: '18620'
+  :name: '11077260'
+  :description: '11077215'
+  :icon: Icons_intel_bulletins_mediumtank_wgr_ostwind_armor
+  :rarity: uncommon
+'388306':
+  :server_id: '388306'
+  :pbgid: '18326'
+  :name: '11076904'
+  :description: '11076906'
+  :icon: Icons_intel_bulletins_mediumtank_wgr_jagdpanzer_mobility
+  :rarity: common
+'396513':
+  :server_id: '396513'
+  :pbgid: '19630'
+  :name: '11081663'
+  :description: '11079684'
+  :icon: Icons_intel_bulletins_artillery_aef_hmc_barrage_recharge
+  :rarity: uncommon
+'396514':
+  :server_id: '396514'
+  :pbgid: '19631'
+  :name: '11081661'
+  :description: '11079685'
+  :icon: Icons_intel_bulletins_infantry_aef_riflemen_veterancy
+  :rarity: uncommon
+'396515':
+  :server_id: '396515'
+  :pbgid: '19632'
+  :name: '11081662'
+  :description: '11079686'
+  :icon: Icons_intel_bulletins_lightvehicle_aef_ambulance_cost
+  :rarity: uncommon
+'396516':
+  :server_id: '396516'
+  :pbgid: '19633'
+  :name: '11081666'
+  :description: '11079687'
+  :icon: Icons_intel_bulletins_lightvehicle_aef_greyhound_ap
+  :rarity: uncommon
+'396518':
+  :server_id: '396518'
+  :pbgid: '19635'
+  :name: '11081664'
+  :description: '11079688'
+  :icon: Icons_intel_bulletins_mediumtank_aef_m10_reload
+  :rarity: uncommon
+'396517':
+  :server_id: '396517'
+  :pbgid: '19634'
+  :name: '11081665'
+  :description: '11079689'
+  :icon: Icons_intel_bulletins_mediumtank_aef_sherman_e8_speed_accel
+  :rarity: uncommon
+'396533':
+  :server_id: '396533'
+  :pbgid: '19650'
+  :name: '11081667'
+  :description: '11079690'
+  :icon: Icons_intel_bulletins_assault_gun_ger_brummbar_reload
+  :rarity: uncommon
+'396532':
+  :server_id: '396532'
+  :pbgid: '19649'
+  :name: '11081671'
+  :description: '11079691'
+  :icon: Icons_intel_bulletins_assault_gun_ger_stug_e_armor
+  :rarity: uncommon
+'396535':
+  :server_id: '396535'
+  :pbgid: '19652'
+  :name: '11081672'
+  :description: '11106857'
+  :icon: Icons_intel_bulletins_infantry_ger_artillery_field_officer_range_aura
+  :rarity: rare
+'396536':
+  :server_id: '396536'
+  :pbgid: '19653'
+  :name: '11081669'
+  :description: '11079693'
+  :icon: Icons_intel_bulletins_infantry_ger_pioneer_defense
+  :rarity: uncommon
+'396534':
+  :server_id: '396534'
+  :pbgid: '19651'
+  :name: '11081670'
+  :description: '11079694'
+  :icon: Icons_intel_bulletins_lightvehicle_ger_mortar_halftrack_reload
+  :rarity: uncommon
+'396531':
+  :server_id: '396531'
+  :pbgid: '19648'
+  :name: '11081668'
+  :description: '11079695'
+  :icon: Icons_intel_bulletins_mediumtank_ger_ostwind_vet
+  :rarity: uncommon
+'396519':
+  :server_id: '396519'
+  :pbgid: '19636'
+  :name: '11081673'
+  :description: '11079696'
+  :icon: Icons_intel_bulletins_assault_gun_sov_su76_reload
+  :rarity: uncommon
+'396520':
+  :server_id: '396520'
+  :pbgid: '19637'
+  :name: '11081674'
+  :description: '11079697'
+  :icon: Icons_intel_bulletins_assault_gun_sov_su85_ap
+  :rarity: uncommon
+'396523':
+  :server_id: '396523'
+  :pbgid: '19640'
+  :name: '11081677'
+  :description: '11079698'
+  :icon: Icons_intel_bulletins_heavytank_sov_kv1_defense
+  :rarity: uncommon
+'396524':
+  :server_id: '396524'
+  :pbgid: '19641'
+  :name: '11081676'
+  :description: '11079699'
+  :icon: Icons_intel_bulletins_heavytank_sov_kv8_speed_rotate
+  :rarity: uncommon
+'396521':
+  :server_id: '396521'
+  :pbgid: '19638'
+  :name: '11081675'
+  :description: '11079700'
+  :icon: Icons_intel_bulletins_hmg_sov_maxim_suppression
+  :rarity: uncommon
+'396522':
+  :server_id: '396522'
+  :pbgid: '19639'
+  :name: '11081678'
+  :description: '11079701'
+  :icon: Icons_intel_bulletins_mortar_sov_hm38_scatter
+  :rarity: uncommon
+'396530':
+  :server_id: '396530'
+  :pbgid: '19647'
+  :name: '11081679'
+  :description: '11079702'
+  :icon: Icons_intel_bulletins_at_gun_wgr_raketenwerfer_reload
+  :rarity: uncommon
+'396525':
+  :server_id: '396525'
+  :pbgid: '19642'
+  :name: '11081685'
+  :description: '11079703'
+  :icon: Icons_intel_bulletins_infantry_wgr_mg34_acc
+  :rarity: uncommon
+'396527':
+  :server_id: '396527'
+  :pbgid: '19644'
+  :name: '11081683'
+  :description: '11079704'
+  :icon: Icons_intel_bulletins_infantry_wgr_panzerfusiliers_cooldown
+  :rarity: uncommon
+'396526':
+  :server_id: '396526'
+  :pbgid: '19643'
+  :name: '11081684'
+  :description: '11079705'
+  :icon: Icons_intel_bulletins_infantry_wgr_sturmofficier_acc_aura
+  :rarity: uncommon
+'396528':
+  :server_id: '396528'
+  :pbgid: '19645'
+  :name: '11081682'
+  :description: '11079706'
+  :icon: Icons_intel_bulletins_infantry_wgr_sturmpioneer_medpack_cost
+  :rarity: uncommon
+'396529':
+  :server_id: '396529'
+  :pbgid: '19646'
+  :name: '11081680'
+  :description: '11079707'
+  :icon: Icons_intel_bulletins_mediumtank_wgr_panther_speed_accel
+  :rarity: uncommon
+'393718':
+  :server_id: '393718'
+  :pbgid: '19144'
+  :name: '11078376'
+  :description: '11078377'
+  :icon: Icons_resources_flag_victory
+  :rarity: common
+'394256':
+  :server_id: '394256'
+  :pbgid: '19227'
+  :name: '11078582'
+  :description: '11078581'
+  :icon: Icons_vehicles_vehicle_aef_m4a3_sherman
+  :rarity: common
+'70995':
+  :server_id: '70995'
+  :pbgid: '14432'
+  :name: '0'
+  :description: '0'
+  :icon: ''
+  :rarity: other
+'70996':
+  :server_id: '70996'
+  :pbgid: '14433'
+  :name: '0'
+  :description: '0'
+  :icon: ''
+  :rarity: other
+'5849':
+  :server_id: '5849'
+  :pbgid: '70'
+  :name: '11034413'
+  :description: '11034416'
+  :icon: Icons_intel_bulletins_heavytank_heavytank13
+  :rarity: common
+'5772':
+  :server_id: '5772'
+  :pbgid: '71'
+  :name: '11034225'
+  :description: '11035025'
+  :icon: Icons_intel_bulletins_heavytank_heavytank11
+  :rarity: uncommon
+'5773':
+  :server_id: '5773'
+  :pbgid: '72'
+  :name: '11034226'
+  :description: '11035026'
+  :icon: Icons_intel_bulletins_heavytank_heavytank11
+  :rarity: uncommon
+'5774':
+  :server_id: '5774'
+  :pbgid: '73'
+  :name: '11034227'
+  :description: '11035027'
+  :icon: Icons_intel_bulletins_heavytank_heavytank12
+  :rarity: uncommon
+'5762':
+  :server_id: '5762'
+  :pbgid: '74'
+  :name: '11034215'
+  :description: '11034301'
+  :icon: Icons_intel_bulletins_heavytank_heavytank01
+  :rarity: uncommon
+'5763':
+  :server_id: '5763'
+  :pbgid: '75'
+  :name: '11034216'
+  :description: '11034302'
+  :icon: Icons_intel_bulletins_heavytank_heavytank14
+  :rarity: uncommon
+'5764':
+  :server_id: '5764'
+  :pbgid: '76'
+  :name: '11034217'
+  :description: '11034300'
+  :icon: Icons_intel_bulletins_heavytank_heavytank17
+  :rarity: uncommon
+'18437':
+  :server_id: '18437'
+  :pbgid: '4247'
+  :name: '11054597'
+  :description: '11054595'
+  :icon: Icons_intel_bulletins_heavytank_kv1_intel_bulletin
+  :rarity: uncommon
+'18441':
+  :server_id: '18441'
+  :pbgid: '4254'
+  :name: '11054609'
+  :description: '11054607'
+  :icon: Icons_intel_bulletins_heavytank_vehicle_soviet_kv2_heavy_tank_bulletin
+  :rarity: rare
+'5771':
+  :server_id: '5771'
+  :pbgid: '77'
+  :name: '11034224'
+  :description: '11034306'
+  :icon: Icons_intel_bulletins_heavytank_heavytank15
+  :rarity: uncommon
+'18449':
+  :server_id: '18449'
+  :pbgid: '4264'
+  :name: '11054634'
+  :description: '11054632'
+  :icon: Icons_intel_bulletins_heavytank_cmdr_german_tiger_ace_bulletin
+  :rarity: rare
+'5765':
+  :server_id: '5765'
+  :pbgid: '78'
+  :name: '11034218'
+  :description: '11034303'
+  :icon: Icons_intel_bulletins_heavytank_heavytank04
+  :rarity: uncommon
+'5766':
+  :server_id: '5766'
+  :pbgid: '79'
+  :name: '11034219'
+  :description: '11034304'
+  :icon: Icons_intel_bulletins_heavytank_heavytank05
+  :rarity: uncommon
+'5767':
+  :server_id: '5767'
+  :pbgid: '80'
+  :name: '11034220'
+  :description: '11034305'
+  :icon: Icons_intel_bulletins_heavytank_heavytank16
+  :rarity: uncommon
+'5861':
+  :server_id: '5861'
+  :pbgid: '81'
+  :name: '11034438'
+  :description: '11034437'
+  :icon: Icons_intel_bulletins_hmg_hmg09
+  :rarity: common
+'18458':
+  :server_id: '18458'
+  :pbgid: '4311'
+  :name: '11054759'
+  :description: '11054757'
+  :icon: Icons_intel_bulletins_hmg_vehicle_soviet_dshk_38_50_cal_hmg_bulletin
+  :rarity: uncommon
+'5843':
+  :server_id: '5843'
+  :pbgid: '82'
+  :name: '11034295'
+  :description: '11034380'
+  :icon: Icons_intel_bulletins_hmg_hmg15
+  :rarity: common
+'5844':
+  :server_id: '5844'
+  :pbgid: '83'
+  :name: '11034296'
+  :description: '11034381'
+  :icon: Icons_intel_bulletins_hmg_hmg08
+  :rarity: common
+'5834':
+  :server_id: '5834'
+  :pbgid: '84'
+  :name: '11034286'
+  :description: '11034378'
+  :icon: Icons_intel_bulletins_hmg_sov_maxim_rof
+  :rarity: common
+'5833':
+  :server_id: '5833'
+  :pbgid: '85'
+  :name: '11034285'
+  :description: '11034377'
+  :icon: Icons_intel_bulletins_hmg_sov_maxim_vet
+  :rarity: common
+'5842':
+  :server_id: '5842'
+  :pbgid: '86'
+  :name: '11034294'
+  :description: '11034379'
+  :icon: Icons_intel_bulletins_hmg_sov_maxim_rof
+  :rarity: common
+'5831':
+  :server_id: '5831'
+  :pbgid: '87'
+  :name: '11034283'
+  :description: '11034374'
+  :icon: Icons_intel_bulletins_hmg_ger_mg42_ability_cost
+  :rarity: common
+'5832':
+  :server_id: '5832'
+  :pbgid: '88'
+  :name: '11034284'
+  :description: '11034375'
+  :icon: Icons_intel_bulletins_hmg_ger_mg42_rof
+  :rarity: common
+'5841':
+  :server_id: '5841'
+  :pbgid: '89'
+  :name: '11034293'
+  :description: '11034376'
+  :icon: Icons_intel_bulletins_hmg_ger_mg42_rof
+  :rarity: common
+'6102':
+  :server_id: '6102'
+  :pbgid: '90'
+  :name: '11048239'
+  :description: '11048285'
+  :icon: Icons_intel_bulletins_hmg_hmg17
+  :rarity: uncommon
+'5916':
+  :server_id: '5916'
+  :pbgid: '91'
+  :name: '11037010'
+  :description: '11037009'
+  :icon: Icons_intel_bulletins_hmg_hmg10
+  :rarity: common
+'6103':
+  :server_id: '6103'
+  :pbgid: '92'
+  :name: '11048238'
+  :description: '11048286'
+  :icon: Icons_intel_bulletins_hmg_hmg19
+  :rarity: rare
+'18371':
+  :server_id: '18371'
+  :pbgid: '4233'
+  :name: '11054581'
+  :description: '11054579'
+  :icon: Icons_intel_bulletins_infantry_ger_assault_grenadier_acc
+  :rarity: rare
+'5863':
+  :server_id: '5863'
+  :pbgid: '93'
+  :name: '11034442'
+  :description: '11034441'
+  :icon: Icons_intel_bulletins_infantry_infantry17
+  :rarity: common
+'5864':
+  :server_id: '5864'
+  :pbgid: '94'
+  :name: '11034444'
+  :description: '11034443'
+  :icon: Icons_intel_bulletins_infantry_infantry18
+  :rarity: common
+'5813':
+  :server_id: '5813'
+  :pbgid: '95'
+  :name: '11034265'
+  :description: '11034356'
+  :icon: Icons_intel_bulletins_infantry_sov_conscript_ability_range
+  :rarity: common
+'5812':
+  :server_id: '5812'
+  :pbgid: '96'
+  :name: '11034264'
+  :description: '11034355'
+  :icon: Icons_intel_bulletins_infantry_sov_conscript_cooldown
+  :rarity: common
+'5909':
+  :server_id: '5909'
+  :pbgid: '97'
+  :name: '11036944'
+  :description: '11036943'
+  :icon: Icons_intel_bulletins_infantry_infantry14
+  :rarity: common
+'5908':
+  :server_id: '5908'
+  :pbgid: '98'
+  :name: '11036940'
+  :description: '11036939'
+  :icon: Icons_intel_bulletins_infantry_infantry13
+  :rarity: common
+'5907':
+  :server_id: '5907'
+  :pbgid: '99'
+  :name: '11036937'
+  :description: '11036936'
+  :icon: Icons_intel_bulletins_infantry_infantry12
+  :rarity: common
+'5810':
+  :server_id: '5810'
+  :pbgid: '100'
+  :name: '11034262'
+  :description: '11034353'
+  :icon: Icons_intel_bulletins_infantry_infantry01
+  :rarity: common
+'5811':
+  :server_id: '5811'
+  :pbgid: '101'
+  :name: '11034263'
+  :description: '11034354'
+  :icon: Icons_intel_bulletins_infantry_infantry02
+  :rarity: common
+'5816':
+  :server_id: '5816'
+  :pbgid: '102'
+  :name: '11034268'
+  :description: '11034359'
+  :icon: Icons_intel_bulletins_infantry_sov_guards_ap
+  :rarity: uncommon
+'5817':
+  :server_id: '5817'
+  :pbgid: '103'
+  :name: '11034269'
+  :description: '11034360'
+  :icon: Icons_intel_bulletins_infantry_sov_guards_acc
+  :rarity: uncommon
+'18442':
+  :server_id: '18442'
+  :pbgid: '4256'
+  :name: '11054613'
+  :description: '11054611'
+  :icon: Icons_intel_bulletins_infantry_sov_partisan_rec_acc
+  :rarity: uncommon
+'6100':
+  :server_id: '6100'
+  :pbgid: '104'
+  :name: '11048234'
+  :description: '11048287'
+  :icon: Icons_intel_bulletins_infantry_infantry28
+  :rarity: uncommon
+'18436':
+  :server_id: '18436'
+  :pbgid: '4245'
+  :name: '11054594'
+  :description: '11054592'
+  :icon: Icons_intel_bulletins_infantry_ger_osttruppen_build
+  :rarity: uncommon
+'18443':
+  :server_id: '18443'
+  :pbgid: '4258'
+  :name: '11054617'
+  :description: '11054615'
+  :icon: Icons_intel_bulletins_infantry_sov_partisan_build
+  :rarity: uncommon
+'18444':
+  :server_id: '18444'
+  :pbgid: '4260'
+  :name: '11054629'
+  :description: '11054621'
+  :icon: Icons_intel_bulletins_infantry_sov_partisan_acc
+  :rarity: uncommon
+'5820':
+  :server_id: '5820'
+  :pbgid: '105'
+  :name: '11034272'
+  :description: '11034363'
+  :icon: Icons_intel_bulletins_infantry_sov_penal_ability_cost
+  :rarity: uncommon
+'5821':
+  :server_id: '5821'
+  :pbgid: '106'
+  :name: '11034273'
+  :description: '11034364'
+  :icon: Icons_intel_bulletins_infantry_sov_penal_acc
+  :rarity: uncommon
+'5910':
+  :server_id: '5910'
+  :pbgid: '107'
+  :name: '11036946'
+  :description: '11036945'
+  :icon: Icons_intel_bulletins_infantry_ger_pioneer_bunker_build
+  :rarity: common
+'5911':
+  :server_id: '5911'
+  :pbgid: '108'
+  :name: '11036947'
+  :description: '11036948'
+  :icon: Icons_intel_bulletins_infantry_ger_pioneer_mine_cost
+  :rarity: common
+'5815':
+  :server_id: '5815'
+  :pbgid: '109'
+  :name: '11034267'
+  :description: '11034358'
+  :icon: Icons_intel_bulletins_infantry_infantry06
+  :rarity: uncommon
+'5814':
+  :server_id: '5814'
+  :pbgid: '110'
+  :name: '11034266'
+  :description: '11034357'
+  :icon: Icons_intel_bulletins_infantry_infantry05
+  :rarity: common
+'5913':
+  :server_id: '5913'
+  :pbgid: '111'
+  :name: '11037004'
+  :description: '11037001'
+  :icon: Icons_intel_bulletins_infantry_infantry19
+  :rarity: common
+'5818':
+  :server_id: '5818'
+  :pbgid: '112'
+  :name: '11034270'
+  :description: '11034361'
+  :icon: Icons_intel_bulletins_infantry_sov_shock_acc
+  :rarity: uncommon
+'5819':
+  :server_id: '5819'
+  :pbgid: '113'
+  :name: '11034271'
+  :description: '11034362'
+  :icon: Icons_intel_bulletins_infantry_sov_shock_supp
+  :rarity: uncommon
+'5906':
+  :server_id: '5906'
+  :pbgid: '114'
+  :name: '11036934'
+  :description: '11036933'
+  :icon: Icons_intel_bulletins_infantry_infantry30
+  :rarity: common
+'6101':
+  :server_id: '6101'
+  :pbgid: '115'
+  :name: '11048235'
+  :description: '11048288'
+  :icon: Icons_intel_bulletins_infantry_infantry29
+  :rarity: rare
+'5786':
+  :server_id: '5786'
+  :pbgid: '116'
+  :name: '11034239'
+  :description: '11034328'
+  :icon: Icons_intel_bulletins_lightvehicle_lightvehicle03
+  :rarity: common
+'5787':
+  :server_id: '5787'
+  :pbgid: '117'
+  :name: '11034240'
+  :description: '11034329'
+  :icon: Icons_intel_bulletins_lightvehicle_lightvehicle16
+  :rarity: uncommon
+'18423':
+  :server_id: '18423'
+  :pbgid: '4238'
+  :name: '11054584'
+  :description: '11054589'
+  :icon: Icons_intel_bulletins_lightvehicle_cmdr_german_mechanized_assault_group_bulletin
+  :rarity: uncommon
+'5905':
+  :server_id: '5905'
+  :pbgid: '118'
+  :name: '11036932'
+  :description: '11036931'
+  :icon: Icons_intel_bulletins_lightvehicle_lightvehicle05
+  :rarity: uncommon
+'5788':
+  :server_id: '5788'
+  :pbgid: '119'
+  :name: '11034241'
+  :description: '11034330'
+  :icon: Icons_intel_bulletins_lightvehicle_lightvehicle06
+  :rarity: common
+'5854':
+  :server_id: '5854'
+  :pbgid: '120'
+  :name: '11034424'
+  :description: '11034423'
+  :icon: Icons_intel_bulletins_lightvehicle_lightvehicle12
+  :rarity: common
+'5853':
+  :server_id: '5853'
+  :pbgid: '121'
+  :name: '11034422'
+  :description: '11034421'
+  :icon: Icons_intel_bulletins_lightvehicle_lightvehicle11
+  :rarity: common
+'5791':
+  :server_id: '5791'
+  :pbgid: '122'
+  :name: '11034244'
+  :description: '11034333'
+  :icon: Icons_intel_bulletins_lightvehicle_lightvehicle09
+  :rarity: common
+'5792':
+  :server_id: '5792'
+  :pbgid: '123'
+  :name: '11034245'
+  :description: '11034334'
+  :icon: Icons_intel_bulletins_lightvehicle_lightvehicle10
+  :rarity: common
+'5789':
+  :server_id: '5789'
+  :pbgid: '124'
+  :name: '11034242'
+  :description: '11034331'
+  :icon: Icons_intel_bulletins_lightvehicle_lightvehicle07
+  :rarity: common
+'5790':
+  :server_id: '5790'
+  :pbgid: '125'
+  :name: '11034243'
+  :description: '11034332'
+  :icon: Icons_intel_bulletins_lightvehicle_lightvehicle08
+  :rarity: common
+'6107':
+  :server_id: '6107'
+  :pbgid: '126'
+  :name: '11048247'
+  :description: '11048289'
+  :icon: Icons_intel_bulletins_lightvehicle_lightvehicle14
+  :rarity: uncommon
+'5914':
+  :server_id: '5914'
+  :pbgid: '127'
+  :name: '11037005'
+  :description: '11037006'
+  :icon: Icons_intel_bulletins_lightvehicle_lightvehicle18
+  :rarity: common
+'5785':
+  :server_id: '5785'
+  :pbgid: '128'
+  :name: '11034238'
+  :description: '11034327'
+  :icon: Icons_intel_bulletins_lightvehicle_sov_t70_armor
+  :rarity: common
+'5784':
+  :server_id: '5784'
+  :pbgid: '129'
+  :name: '11034237'
+  :description: '11034326'
+  :icon: Icons_intel_bulletins_lightvehicle_sov_t70_ap
+  :rarity: common
+'6108':
+  :server_id: '6108'
+  :pbgid: '130'
+  :name: '11048248'
+  :description: '11048290'
+  :icon: Icons_intel_bulletins_lightvehicle_lightvehicle19
+  :rarity: rare
+'5851':
+  :server_id: '5851'
+  :pbgid: '131'
+  :name: '11034417'
+  :description: '11034418'
+  :icon: Icons_intel_bulletins_mediumtank_mediumtank12
+  :rarity: common
+'5852':
+  :server_id: '5852'
+  :pbgid: '132'
+  :name: '11034419'
+  :description: '11034420'
+  :icon: Icons_intel_bulletins_mediumtank_mediumtank13
+  :rarity: common
+'6111':
+  :server_id: '6111'
+  :pbgid: '133'
+  :name: '11048252'
+  :description: '11048291'
+  :icon: Icons_intel_bulletins_mediumtank_mediumtank23
+  :rarity: uncommon
+'5782':
+  :server_id: '5782'
+  :pbgid: '134'
+  :name: '11034235'
+  :description: '11034325'
+  :icon: Icons_intel_bulletins_mediumtank_ger_ostwind_supp
+  :rarity: common
+'5783':
+  :server_id: '5783'
+  :pbgid: '135'
+  :name: '11034236'
+  :description: '11034324'
+  :icon: Icons_intel_bulletins_mediumtank_ger_ostwind_reload
+  :rarity: common
+'5903':
+  :server_id: '5903'
+  :pbgid: '136'
+  :name: '11036923'
+  :description: '11036922'
+  :icon: Icons_intel_bulletins_mediumtank_ger_panther_speed
+  :rarity: common
+'5775':
+  :server_id: '5775'
+  :pbgid: '137'
+  :name: '11034228'
+  :description: '11034317'
+  :icon: Icons_intel_bulletins_mediumtank_ger_panther_armor
+  :rarity: uncommon
+'5904':
+  :server_id: '5904'
+  :pbgid: '138'
+  :name: '11036927'
+  :description: '11036926'
+  :icon: Icons_intel_bulletins_mediumtank_ger_panther_vet
+  :rarity: common
+'5781':
+  :server_id: '5781'
+  :pbgid: '139'
+  :name: '11034234'
+  :description: '11034323'
+  :icon: Icons_intel_bulletins_mediumtank_ger_panzeriv_build
+  :rarity: common
+'5780':
+  :server_id: '5780'
+  :pbgid: '140'
+  :name: '11034233'
+  :description: '11034322'
+  :icon: Icons_intel_bulletins_mediumtank_ger_panzeriv_vet
+  :rarity: common
+'5779':
+  :server_id: '5779'
+  :pbgid: '141'
+  :name: '11034232'
+  :description: '11034321'
+  :icon: Icons_intel_bulletins_mediumtank_ger_panzeriv_ap
+  :rarity: common
+'5915':
+  :server_id: '5915'
+  :pbgid: '142'
+  :name: '11037008'
+  :description: '11037007'
+  :icon: Icons_intel_bulletins_mediumtank_mediumtank22
+  :rarity: common
+'5777':
+  :server_id: '5777'
+  :pbgid: '143'
+  :name: '11034230'
+  :description: '11034319'
+  :icon: Icons_intel_bulletins_mediumtank_sov_t34_76_ramming
+  :rarity: common
+'5778':
+  :server_id: '5778'
+  :pbgid: '144'
+  :name: '11034231'
+  :description: '11034320'
+  :icon: Icons_intel_bulletins_mediumtank_sov_t34_76_ap
+  :rarity: common
+'5776':
+  :server_id: '5776'
+  :pbgid: '145'
+  :name: '11034229'
+  :description: '11034318'
+  :icon: Icons_intel_bulletins_mediumtank_sov_t34_85_vet
+  :rarity: uncommon
+'6112':
+  :server_id: '6112'
+  :pbgid: '146'
+  :name: '11048253'
+  :description: '11048292'
+  :icon: Icons_intel_bulletins_mediumtank_mediumtank24
+  :rarity: rare
+'5839':
+  :server_id: '5839'
+  :pbgid: '147'
+  :name: '11034291'
+  :description: '11034388'
+  :icon: Icons_intel_bulletins_mortar_mortar15
+  :rarity: uncommon
+'5847':
+  :server_id: '5847'
+  :pbgid: '148'
+  :name: '11034299'
+  :description: '11034389'
+  :icon: Icons_intel_bulletins_mortar_mortar14
+  :rarity: uncommon
+'5838':
+  :server_id: '5838'
+  :pbgid: '149'
+  :name: '11034290'
+  :description: '11034386'
+  :icon: Icons_intel_bulletins_mortar_mortar01
+  :rarity: common
+'5837':
+  :server_id: '5837'
+  :pbgid: '150'
+  :name: '11034289'
+  :description: '11034385'
+  :icon: Icons_intel_bulletins_mortar_mortar03
+  :rarity: common
+'5846':
+  :server_id: '5846'
+  :pbgid: '151'
+  :name: '11034298'
+  :description: '11034387'
+  :icon: Icons_intel_bulletins_mortar_mortar13
+  :rarity: common
+'5835':
+  :server_id: '5835'
+  :pbgid: '152'
+  :name: '11034287'
+  :description: '11034382'
+  :icon: Icons_intel_bulletins_mortar_mortar01
+  :rarity: common
+'5836':
+  :server_id: '5836'
+  :pbgid: '153'
+  :name: '11034288'
+  :description: '11034383'
+  :icon: Icons_intel_bulletins_mortar_mortar02
+  :rarity: common
+'5845':
+  :server_id: '5845'
+  :pbgid: '154'
+  :name: '11034297'
+  :description: '11034384'
+  :icon: Icons_intel_bulletins_mortar_mortar03
+  :rarity: common
+'5862':
+  :server_id: '5862'
+  :pbgid: '155'
+  :name: '11034439'
+  :description: '11034440'
+  :icon: Icons_intel_bulletins_mortar_mortar09
+  :rarity: common
+'6113':
+  :server_id: '6113'
+  :pbgid: '156'
+  :name: '11048254'
+  :description: '11048293'
+  :icon: Icons_intel_bulletins_mortar_mortar11
+  :rarity: uncommon
+'5917':
+  :server_id: '5917'
+  :pbgid: '157'
+  :name: '11037012'
+  :description: '11037011'
+  :icon: Icons_intel_bulletins_mortar_mortar17
+  :rarity: common
+'6114':
+  :server_id: '6114'
+  :pbgid: '158'
+  :name: '11048255'
+  :description: '11048294'
+  :icon: Icons_intel_bulletins_mortar_mortar16
+  :rarity: rare
+'6061':
+  :server_id: '6061'
+  :pbgid: '159'
+  :name: '0'
+  :description: '0'
+  :icon: ''
+  :rarity: other
+'6060':
+  :server_id: '6060'
+  :pbgid: '160'
+  :name: '0'
+  :description: '0'
+  :icon: ''
+  :rarity: other
+'6062':
+  :server_id: '6062'
+  :pbgid: '161'
+  :name: '0'
+  :description: '0'
+  :icon: ''
+  :rarity: other
+'6069':
+  :server_id: '6069'
+  :pbgid: '162'
+  :name: '0'
+  :description: '0'
+  :icon: ''
+  :rarity: other
+'6070':
+  :server_id: '6070'
+  :pbgid: '163'
+  :name: '0'
+  :description: '0'
+  :icon: ''
+  :rarity: other
+'6053':
+  :server_id: '6053'
+  :pbgid: '164'
+  :name: '0'
+  :description: '0'
+  :icon: ''
+  :rarity: other
+'6051':
+  :server_id: '6051'
+  :pbgid: '165'
+  :name: '0'
+  :description: '0'
+  :icon: ''
+  :rarity: other
+'6052':
+  :server_id: '6052'
+  :pbgid: '166'
+  :name: '0'
+  :description: '0'
+  :icon: ''
+  :rarity: other
+'6073':
+  :server_id: '6073'
+  :pbgid: '167'
+  :name: '0'
+  :description: '0'
+  :icon: ''
+  :rarity: other
+'6074':
+  :server_id: '6074'
+  :pbgid: '168'
+  :name: '0'
+  :description: '0'
+  :icon: ''
+  :rarity: other
+'6076':
+  :server_id: '6076'
+  :pbgid: '169'
+  :name: '0'
+  :description: '0'
+  :icon: ''
+  :rarity: other
+'6075':
+  :server_id: '6075'
+  :pbgid: '170'
+  :name: '0'
+  :description: '0'
+  :icon: ''
+  :rarity: other
+'6071':
+  :server_id: '6071'
+  :pbgid: '171'
+  :name: '0'
+  :description: '0'
+  :icon: ''
+  :rarity: other
+'6072':
+  :server_id: '6072'
+  :pbgid: '172'
+  :name: '0'
+  :description: '0'
+  :icon: ''
+  :rarity: other
+'6056':
+  :server_id: '6056'
+  :pbgid: '173'
+  :name: '0'
+  :description: '0'
+  :icon: ''
+  :rarity: other
+'6054':
+  :server_id: '6054'
+  :pbgid: '174'
+  :name: '0'
+  :description: '0'
+  :icon: ''
+  :rarity: other
+'6055':
+  :server_id: '6055'
+  :pbgid: '175'
+  :name: '0'
+  :description: '0'
+  :icon: ''
+  :rarity: other
+'6065':
+  :server_id: '6065'
+  :pbgid: '176'
+  :name: '0'
+  :description: '0'
+  :icon: ''
+  :rarity: other
+'6064':
+  :server_id: '6064'
+  :pbgid: '177'
+  :name: '0'
+  :description: '0'
+  :icon: ''
+  :rarity: other
+'6063':
+  :server_id: '6063'
+  :pbgid: '178'
+  :name: '0'
+  :description: '0'
+  :icon: ''
+  :rarity: other
+'6066':
+  :server_id: '6066'
+  :pbgid: '179'
+  :name: '0'
+  :description: '0'
+  :icon: ''
+  :rarity: other
+'6067':
+  :server_id: '6067'
+  :pbgid: '180'
+  :name: '0'
+  :description: '0'
+  :icon: ''
+  :rarity: other
+'6068':
+  :server_id: '6068'
+  :pbgid: '181'
+  :name: '0'
+  :description: '0'
+  :icon: ''
+  :rarity: other
+'6059':
+  :server_id: '6059'
+  :pbgid: '182'
+  :name: '0'
+  :description: '0'
+  :icon: ''
+  :rarity: other
+'6057':
+  :server_id: '6057'
+  :pbgid: '183'
+  :name: '0'
+  :description: '0'
+  :icon: ''
+  :rarity: other
+'6058':
+  :server_id: '6058'
+  :pbgid: '184'
+  :name: '0'
+  :description: '0'
+  :icon: ''
+  :rarity: other
+'388389':
+  :server_id: '388389'
+  :pbgid: '18349'
+  :name: '11076760'
+  :description: '11076759'
+  :icon: Icons_intel_bulletins_at_gun_aef_wareffort_m157mm_ap_reload
+  :rarity: event
+'388393':
+  :server_id: '388393'
+  :pbgid: '18352'
+  :name: '11076755'
+  :description: '11076756'
+  :icon: Icons_intel_bulletins_mediumtank_aef_m36_sight_speed
+  :rarity: event
+'388394':
+  :server_id: '388394'
+  :pbgid: '18353'
+  :name: '11076758'
+  :description: '11076757'
+  :icon: Icons_intel_bulletins_infantry_aef_wareffort_riflemen_zook_ap
+  :rarity: event
+'388397':
+  :server_id: '388397'
+  :pbgid: '18356'
+  :name: '11076766'
+  :description: '11076765'
+  :icon: Icons_intel_bulletins_infantry_ger_wareffort_grenadier_panzerfaust_range
+  :rarity: event
+'388396':
+  :server_id: '388396'
+  :pbgid: '18355'
+  :name: '11076764'
+  :description: '11076763'
+  :icon: Icons_intel_bulletins_at_gun_ger_wareffort_pak40_ap_received_acc
+  :rarity: event
+'388395':
+  :server_id: '388395'
+  :pbgid: '18354'
+  :name: '11076761'
+  :description: '11076762'
+  :icon: Icons_intel_bulletins_assault_gun_ger_wareffort_stug_ap_armor
+  :rarity: event
+'388400':
+  :server_id: '388400'
+  :pbgid: '18359'
+  :name: '11076772'
+  :description: '11076771'
+  :icon: Icons_intel_bulletins_infantry_sov_wareffort_conscripts_at_grenade_range
+  :rarity: event
+'388399':
+  :server_id: '388399'
+  :pbgid: '18358'
+  :name: '11076769'
+  :description: '11076770'
+  :icon: Icons_intel_bulletins_assault_gun_sov_wareffort_su85_armor_speed
+  :rarity: event
+'388398':
+  :server_id: '388398'
+  :pbgid: '18357'
+  :name: '11076768'
+  :description: '11076767'
+  :icon: Icons_intel_bulletins_at_gun_sov_wareffort_zis3_ap_rotation
+  :rarity: event
+'388402':
+  :server_id: '388402'
+  :pbgid: '18361'
+  :name: '11076776'
+  :description: '11076775'
+  :icon: Icons_intel_bulletins_mediumtank_wgr_wareffort_jagdpanzer_reload_rotation
+  :rarity: event
+'388401':
+  :server_id: '388401'
+  :pbgid: '18360'
+  :name: '11076774'
+  :description: '11076773'
+  :icon: Icons_intel_bulletins_at_gun_wgr_wareffort_raketenwerfer_ap_rotation
+  :rarity: event
+'388403':
+  :server_id: '388403'
+  :pbgid: '18362'
+  :name: '11076778'
+  :description: '11076777'
+  :icon: Icons_intel_bulletins_infantry_wgr_wareffort_volksgrenadiers_panzerschreck_ap
+  :rarity: event
+'261306':
+  :server_id: '261306'
+  :pbgid: '16972'
+  :name: '11072798'
+  :description: '11072800'
+  :icon: Icons_intel_bulletins_artillery_aef_hmc_scatter
+  :rarity: common
+'274720':
+  :server_id: '274720'
+  :pbgid: '17017'
+  :name: '11073083'
+  :description: '11073085'
+  :icon: Icons_intel_bulletins_mortar_ig18_scatter
+  :rarity: common
+'259869':
+  :server_id: '259869'
+  :pbgid: '16752'
+  :name: '11072340'
+  :description: '11072344'
+  :icon: Icons_intel_bulletins_artillery_aef_pack01
+  :rarity: uncommon
+'259861':
+  :server_id: '259861'
+  :pbgid: '16749'
+  :name: '11072337'
+  :description: '11072338'
+  :icon: Icons_intel_bulletins_artillery_wg_walkstuka01
+  :rarity: uncommon
+'259809':
+  :server_id: '259809'
+  :pbgid: '16745'
+  :name: '11072312'
+  :description: '11072315'
+  :icon: Icons_intel_bulletins_artillery_aef_priest01
+  :rarity: rare
+'259228':
+  :server_id: '259228'
+  :pbgid: '16678'
+  :name: '11072171'
+  :description: '11072172'
+  :icon: Icons_intel_bulletins_at_gun_aef_atgun02
+  :rarity: uncommon
+'259229':
+  :server_id: '259229'
+  :pbgid: '16679'
+  :name: '11072173'
+  :description: '11072174'
+  :icon: Icons_intel_bulletins_at_gun_aef_atgun01
+  :rarity: common
+'259230':
+  :server_id: '259230'
+  :pbgid: '16680'
+  :name: '11072175'
+  :description: '11072176'
+  :icon: Icons_intel_bulletins_at_gun_aef_atgun03
+  :rarity: rare
+'348146':
+  :server_id: '348146'
+  :pbgid: '17596'
+  :name: '11075385'
+  :description: '11075387'
+  :icon: Icons_intel_bulletins_at_gun_wg_pak43_reload
+  :rarity: uncommon
+'260824':
+  :server_id: '260824'
+  :pbgid: '16895'
+  :name: '11072607'
+  :description: '11072608'
+  :icon: Icons_intel_bulletins_heavytank_cmd_panther_speed
+  :rarity: common
+'260767':
+  :server_id: '260767'
+  :pbgid: '16883'
+  :name: '11072593'
+  :description: '11072595'
+  :icon: Icons_intel_bulletins_heavytank_wgr_jagdtiger_build
+  :rarity: common
+'259746':
+  :server_id: '259746'
+  :pbgid: '16738'
+  :name: '11072299'
+  :description: '11072302'
+  :icon: Icons_intel_bulletins_heavytank_wg_ktiger01
+  :rarity: rare
+'261278':
+  :server_id: '261278'
+  :pbgid: '16965'
+  :name: '11072775'
+  :description: '11072773'
+  :icon: Icons_intel_bulletins_heavytank_sturmtiger_reload
+  :rarity: uncommon
+'259251':
+  :server_id: '259251'
+  :pbgid: '16685'
+  :name: '11072188'
+  :description: '11072193'
+  :icon: Icons_intel_bulletins_hmg_aef_hmg02
+  :rarity: uncommon
+'259252':
+  :server_id: '259252'
+  :pbgid: '16686'
+  :name: '11072185'
+  :description: '11072194'
+  :icon: Icons_intel_bulletins_hmg_aef_hmg01
+  :rarity: common
+'259253':
+  :server_id: '259253'
+  :pbgid: '16687'
+  :name: '11072189'
+  :description: '11072195'
+  :icon: Icons_intel_bulletins_hmg_aef_hmg03
+  :rarity: rare
+'274502':
+  :server_id: '274502'
+  :pbgid: '16997'
+  :name: '11072918'
+  :description: '11072919'
+  :icon: Icons_intel_bulletins_infantry_aef_assault_eng_upgrade_cost
+  :rarity: common
+'259628':
+  :server_id: '259628'
+  :pbgid: '16723'
+  :name: '11072261'
+  :description: '11072259'
+  :icon: Icons_intel_bulletins_infantry_aef_capt01
+  :rarity: common
+'274590':
+  :server_id: '274590'
+  :pbgid: '17011'
+  :name: '11072944'
+  :description: '11072943'
+  :icon: Icons_intel_bulletins_infantry_wgr_fallschrim_ability_cost
+  :rarity: uncommon
+'259098':
+  :server_id: '259098'
+  :pbgid: '16652'
+  :name: '11072125'
+  :description: '11072124'
+  :icon: Icons_intel_bulletins_infantry_aef_infantry02
+  :rarity: uncommon
+'259078':
+  :server_id: '259078'
+  :pbgid: '16646'
+  :name: '11072122'
+  :description: '11072123'
+  :icon: Icons_intel_bulletins_infantry_aef_infantry01
+  :rarity: common
+'259099':
+  :server_id: '259099'
+  :pbgid: '16653'
+  :name: '11072126'
+  :description: '11072127'
+  :icon: Icons_intel_bulletins_infantry_aef_infantry03
+  :rarity: rare
+'259623':
+  :server_id: '259623'
+  :pbgid: '16719'
+  :name: '11072253'
+  :description: '11072254'
+  :icon: Icons_intel_bulletins_infantry_aef_mk2_01
+  :rarity: common
+'274587':
+  :server_id: '274587'
+  :pbgid: '17009'
+  :name: '11072940'
+  :description: '11072941'
+  :icon: Icons_intel_bulletins_infantry_aef_major_cost
+  :rarity: common
+'260768':
+  :server_id: '260768'
+  :pbgid: '16884'
+  :name: '11072598'
+  :description: '11072597'
+  :icon: Icons_intel_bulletins_infantry_wgr_panzerfusiliers_dispatch
+  :rarity: common
+'274563':
+  :server_id: '274563'
+  :pbgid: '17004'
+  :name: '11072934'
+  :description: '11072936'
+  :icon: Icons_intel_bulletins_infantry_aef_paratrooper_cost
+  :rarity: common
+'260215':
+  :server_id: '260215'
+  :pbgid: '16820'
+  :name: '11072494'
+  :description: '11072495'
+  :icon: Icons_intel_bulletins_infantry_aef_pathfinder_cooldown
+  :rarity: rare
+'260923':
+  :server_id: '260923'
+  :pbgid: '16914'
+  :name: '11072666'
+  :description: '11072668'
+  :icon: Icons_intel_bulletins_infantry_aef_echelon_build
+  :rarity: common
+'260918':
+  :server_id: '260918'
+  :pbgid: '16912'
+  :name: '11072662'
+  :description: '11072664'
+  :icon: Icons_intel_bulletins_infantry_wgr_sturmpioneer_build
+  :rarity: common
+'259631':
+  :server_id: '259631'
+  :pbgid: '16725'
+  :name: '11072265'
+  :description: '11072266'
+  :icon: Icons_intel_bulletins_infantry_wgr_sturmoffizier_supp
+  :rarity: uncommon
+'274749':
+  :server_id: '274749'
+  :pbgid: '17025'
+  :name: '11073102'
+  :description: '11073099'
+  :icon: Icons_intel_bulletins_infantry_wgr_volks_ability_cost
+  :rarity: common
+'274748':
+  :server_id: '274748'
+  :pbgid: '17024'
+  :name: '11073101'
+  :description: '11073100'
+  :icon: Icons_intel_bulletins_infantry_wgr_volks_supp
+  :rarity: common
+'260218':
+  :server_id: '260218'
+  :pbgid: '16822'
+  :name: '11072497'
+  :description: '11072498'
+  :icon: Icons_intel_bulletins_infantry_wgr_obersoldaten_cooldown
+  :rarity: uncommon
+'274726':
+  :server_id: '274726'
+  :pbgid: '17019'
+  :name: '11073086'
+  :description: '11073088'
+  :icon: Icons_intel_bulletins_lightvehicle_infrared_build
+  :rarity: common
+'260224':
+  :server_id: '260224'
+  :pbgid: '16824'
+  :name: '11072501'
+  :description: '11072499'
+  :icon: Icons_intel_bulletins_lightvehicle_aef_ambulance_speed
+  :rarity: rare
+'260244':
+  :server_id: '260244'
+  :pbgid: '16830'
+  :name: '11072511'
+  :description: '11072509'
+  :icon: Icons_intel_bulletins_lightvehicle_flak_armor
+  :rarity: common
+'274584':
+  :server_id: '274584'
+  :pbgid: '17007'
+  :name: '11073082'
+  :description: '11072938'
+  :icon: Icons_intel_bulletins_lightvehicle_aef_greyhound_recharge
+  :rarity: common
+'260227':
+  :server_id: '260227'
+  :pbgid: '16826'
+  :name: '11072503'
+  :description: '11072505'
+  :icon: Icons_intel_bulletins_lightvehicle_kubel_speed
+  :rarity: common
+'261290':
+  :server_id: '261290'
+  :pbgid: '16970'
+  :name: '11072779'
+  :description: '11072791'
+  :icon: Icons_intel_bulletins_lightvehicle_aef_m15aa_build
+  :rarity: common
+'274560':
+  :server_id: '274560'
+  :pbgid: '17003'
+  :name: '11072920'
+  :description: '11072921'
+  :icon: Icons_intel_bulletins_lightvehicle_m20_cost
+  :rarity: common
+'260742':
+  :server_id: '260742'
+  :pbgid: '16878'
+  :name: '11072576'
+  :description: '11072575'
+  :icon: Icons_intel_bulletins_lightvehicle_aef_m21_dispatch
+  :rarity: common
+'348140':
+  :server_id: '348140'
+  :pbgid: '17592'
+  :name: '11075372'
+  :description: '11075373'
+  :icon: Icons_intel_bulletins_lightvehicle_m3_dispatch
+  :rarity: common
+'260789':
+  :server_id: '260789'
+  :pbgid: '16889'
+  :name: '11072602'
+  :description: '11072600'
+  :icon: Icons_intel_bulletins_lightvehicle_panzer_ii_armor
+  :rarity: uncommon
+'260911':
+  :server_id: '260911'
+  :pbgid: '16908'
+  :name: '11072654'
+  :description: '11072656'
+  :icon: Icons_intel_bulletins_lightvehicle_puma_armor_pen
+  :rarity: uncommon
+'260238':
+  :server_id: '260238'
+  :pbgid: '16828'
+  :name: '11072506'
+  :description: '11072507'
+  :icon: Icons_intel_bulletins_lightvehicle_aef_stuart_armor
+  :rarity: uncommon
+'274744':
+  :server_id: '274744'
+  :pbgid: '17021'
+  :name: '11073094'
+  :description: '11073096'
+  :icon: Icons_intel_bulletins_lightvehicle_sws_speed
+  :rarity: common
+'348137':
+  :server_id: '348137'
+  :pbgid: '17590'
+  :name: '11075365'
+  :description: '11075367'
+  :icon: Icons_intel_bulletins_lightvehicle_aef_wc51_speed
+  :rarity: uncommon
+'260730':
+  :server_id: '260730'
+  :pbgid: '16875'
+  :name: '11072572'
+  :description: '11072573'
+  :icon: Icons_intel_bulletins_mediumtank_aef_sherman_bulldozer_build
+  :rarity: uncommon
+'261287':
+  :server_id: '261287'
+  :pbgid: '16968'
+  :name: '11072777'
+  :description: '11072778'
+  :icon: Icons_intel_bulletins_mediumtank_wgr_jagdpanzer_build
+  :rarity: common
+'260907':
+  :server_id: '260907'
+  :pbgid: '16905'
+  :name: '11072646'
+  :description: '11072652'
+  :icon: Icons_intel_bulletins_mediumtank_aef_m10_ap
+  :rarity: uncommon
+'261275':
+  :server_id: '261275'
+  :pbgid: '16963'
+  :name: '11072771'
+  :description: '11072769'
+  :icon: Icons_intel_bulletins_mediumtank_aef_m36_reload
+  :rarity: rare
+'260910':
+  :server_id: '260910'
+  :pbgid: '16907'
+  :name: '11072650'
+  :description: '11072651'
+  :icon: Icons_intel_bulletins_mediumtank_aef_sherman_e8_ap
+  :rarity: uncommon
+'259272':
+  :server_id: '259272'
+  :pbgid: '16694'
+  :name: '11072196'
+  :description: '11072202'
+  :icon: Icons_intel_bulletins_mediumtank_aef_tank02
+  :rarity: uncommon
+'259273':
+  :server_id: '259273'
+  :pbgid: '16695'
+  :name: '11072197'
+  :description: '11072203'
+  :icon: Icons_intel_bulletins_mediumtank_aef_tank01
+  :rarity: common
+'259274':
+  :server_id: '259274'
+  :pbgid: '16696'
+  :name: '11072198'
+  :description: '11072204'
+  :icon: Icons_intel_bulletins_mediumtank_aef_tank03
+  :rarity: rare
+'348143':
+  :server_id: '348143'
+  :pbgid: '17594'
+  :name: '11075379'
+  :description: '11075381'
+  :icon: Icons_intel_bulletins_mediumtank_wgr_ostwind_reload
+  :rarity: uncommon
+'348149':
+  :server_id: '348149'
+  :pbgid: '17598'
+  :name: '11075391'
+  :description: '11075393'
+  :icon: Icons_intel_bulletins_mediumtank_wgr_panzeriv_armor
+  :rarity: uncommon
+'450405':
+  :server_id: '450405'
+  :pbgid: '95524'
+  :name: '11096127'
+  :description: '11096126'
+  :icon: Icons_intel_bulletins_artillery_british_landmatt_vet
+  :rarity: rare
+'450409':
+  :server_id: '450409'
+  :pbgid: '95532'
+  :name: '11096125'
+  :description: '11096124'
+  :icon: Icons_intel_bulletins_heavytank_pershing_ap
+  :rarity: uncommon
+'450528':
+  :server_id: '450528'
+  :pbgid: '99380'
+  :name: '11096120'
+  :description: '11096119'
+  :icon: Icons_intel_bulletins_artillery_goliath_speed
+  :rarity: common
+'450529':
+  :server_id: '450529'
+  :pbgid: '99381'
+  :name: '11096118'
+  :description: '11096116'
+  :icon: Icons_intel_bulletins_mediumtank_colliope_scatter
+  :rarity: rare
+'450408':
+  :server_id: '450408'
+  :pbgid: '95530'
+  :name: '11096113'
+  :description: '11096114'
+  :icon: Icons_intel_bulletins_mediumtank_hetzer_flame_reload
+  :rarity: uncommon

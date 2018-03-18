@@ -1,0 +1,577 @@
+---
+'18369':
+  :server_id: '18369'
+  :pbgid: '4165'
+  :name: '11054487'
+  :description: '0'
+  :icon: ''
+  :icon_secondary: ''
+  :rarity: other
+'186413':
+  :server_id: '186413'
+  :pbgid: '14934'
+  :name: '11063826'
+  :description: '11074832'
+  :icon: Icons_commander_portrait_us_forces_commander_01
+  :icon_secondary: Icons_commander_portrait_us_forces_commander_01_large
+  :rarity: common
+'186415':
+  :server_id: '186415'
+  :pbgid: '14936'
+  :name: '11063828'
+  :description: '11074834'
+  :icon: Icons_commander_portrait_us_forces_commander_03
+  :icon_secondary: Icons_commander_portrait_us_forces_commander_03_large
+  :rarity: common
+'450483':
+  :server_id: '450483'
+  :pbgid: '96776'
+  :name: '0'
+  :description: '0'
+  :icon: ''
+  :icon_secondary: ''
+  :rarity: legendary
+'450482':
+  :server_id: '450482'
+  :pbgid: '96775'
+  :name: '11099899'
+  :description: '11098978'
+  :icon: Icons_commander_portrait_us_forces_commander_07
+  :icon_secondary: Icons_commander_portrait_us_forces_commander_07_large
+  :rarity: rare
+'186414':
+  :server_id: '186414'
+  :pbgid: '14935'
+  :name: '11063827'
+  :description: '11074833'
+  :icon: Icons_commander_portrait_us_forces_commander_02
+  :icon_secondary: Icons_commander_portrait_us_forces_commander_02_large
+  :rarity: common
+'260696':
+  :server_id: '260696'
+  :pbgid: '16860'
+  :name: '11072555'
+  :description: '11074835'
+  :icon: Icons_commander_portrait_us_forces_commander_05
+  :icon_secondary: Icons_commander_portrait_us_forces_commander_05_large
+  :rarity: rare
+'254449':
+  :server_id: '254449'
+  :pbgid: '15455'
+  :name: '11068337'
+  :description: '11075209'
+  :icon: Icons_commander_portrait_us_forces_commander_04
+  :icon_secondary: Icons_commander_portrait_us_forces_commander_04_large
+  :rarity: rare
+'261335':
+  :server_id: '261335'
+  :pbgid: '16979'
+  :name: '11072807'
+  :description: '11074836'
+  :icon: Icons_commander_portrait_us_forces_commander_06
+  :icon_secondary: Icons_commander_portrait_us_forces_commander_06_large
+  :rarity: rare
+'450479':
+  :server_id: '450479'
+  :pbgid: '96756'
+  :name: '11097512'
+  :description: '11097999'
+  :icon: Icons_commander_portrait_us_forces_commander_08
+  :icon_secondary: Icons_commander_portrait_us_forces_commander_08_large
+  :rarity: rare
+'450553':
+  :server_id: '450553'
+  :pbgid: '100714'
+  :name: '11106507'
+  :description: '11106510'
+  :icon: Icons_commander_portrait_british_commander_07
+  :icon_secondary: Icons_commander_portrait_british_commander_07_large
+  :rarity: rare
+'450074':
+  :server_id: '450074'
+  :pbgid: '91186'
+  :name: '11085018'
+  :description: '11089964'
+  :icon: Icons_commander_portrait_british_commander_05
+  :icon_secondary: Icons_commander_portrait_british_commander_05_large
+  :rarity: common
+'450073':
+  :server_id: '450073'
+  :pbgid: '91185'
+  :name: '11085017'
+  :description: '11089956'
+  :icon: Icons_commander_portrait_british_commander_01
+  :icon_secondary: Icons_commander_portrait_british_commander_01_large
+  :rarity: common
+'450075':
+  :server_id: '450075'
+  :pbgid: '91187'
+  :name: '11085019'
+  :description: '11089957'
+  :icon: Icons_commander_portrait_british_commander_04
+  :icon_secondary: Icons_commander_portrait_british_commander_04_large
+  :rarity: common
+'450554':
+  :server_id: '450554'
+  :pbgid: '100715'
+  :name: '11106508'
+  :description: '11106686'
+  :icon: Icons_commander_portrait_british_commander_08
+  :icon_secondary: Icons_commander_portrait_british_commander_08_large
+  :rarity: rare
+'450268':
+  :server_id: '450268'
+  :pbgid: '93434'
+  :name: '11090938'
+  :description: '11095379'
+  :icon: Icons_commander_portrait_british_commander_02
+  :icon_secondary: Icons_commander_portrait_british_commander_02_large
+  :rarity: rare
+'450243':
+  :server_id: '450243'
+  :pbgid: '93238'
+  :name: '11091019'
+  :description: '11091020'
+  :icon: Icons_commander_portrait_british_commander_03
+  :icon_secondary: Icons_commander_portrait_british_commander_03_large
+  :rarity: rare
+'450286':
+  :server_id: '450286'
+  :pbgid: '93552'
+  :name: '11094951'
+  :description: '11095786'
+  :icon: Icons_commander_portrait_british_commander_06
+  :icon_secondary: Icons_commander_portrait_british_commander_06_large
+  :rarity: rare
+'6116':
+  :server_id: '6116'
+  :pbgid: '0'
+  :name: '11048776'
+  :description: '11048779'
+  :icon: Icons_commander_portrait_german_commander_11
+  :icon_secondary: Icons_commander_portrait_german_commander_11_large
+  :rarity: common
+'6118':
+  :server_id: '6118'
+  :pbgid: '1'
+  :name: '11048780'
+  :description: '11048777'
+  :icon: Icons_commander_portrait_german_commander_12
+  :icon_secondary: Icons_commander_portrait_german_commander_12_large
+  :rarity: common
+'6117':
+  :server_id: '6117'
+  :pbgid: '2'
+  :name: '11048781'
+  :description: '11048778'
+  :icon: Icons_commander_portrait_german_commander_13
+  :icon_secondary: Icons_commander_portrait_german_commander_13_large
+  :rarity: common
+'7554':
+  :server_id: '7554'
+  :pbgid: '14915'
+  :name: '11063602'
+  :description: '11063603'
+  :icon: Icons_commander_portrait_german_commander_21
+  :icon_secondary: Icons_commander_portrait_german_commander_21_large
+  :rarity: rare
+'5568':
+  :server_id: '5568'
+  :pbgid: '3'
+  :name: '11024620'
+  :description: '11048909'
+  :icon: Icons_commander_portrait_german_commander_02
+  :icon_secondary: Icons_commander_portrait_german_commander_02_large
+  :rarity: uncommon
+'5570':
+  :server_id: '5570'
+  :pbgid: '4'
+  :name: '11024621'
+  :description: '11048911'
+  :icon: Icons_commander_portrait_german_commander_03
+  :icon_secondary: Icons_commander_portrait_german_commander_03_large
+  :rarity: common
+'5571':
+  :server_id: '5571'
+  :pbgid: '5'
+  :name: '11024623'
+  :description: '11048912'
+  :icon: Icons_commander_portrait_german_commander_04
+  :icon_secondary: Icons_commander_portrait_german_commander_04_large
+  :rarity: common
+'5927':
+  :server_id: '5927'
+  :pbgid: '6'
+  :name: '11040304'
+  :description: '11048913'
+  :icon: Icons_commander_portrait_german_commander_01
+  :icon_secondary: Icons_commander_portrait_german_commander_01_large
+  :rarity: uncommon
+'7538':
+  :server_id: '7538'
+  :pbgid: '2247'
+  :name: '11053507'
+  :description: '11074819'
+  :icon: Icons_commander_portrait_german_commander_18
+  :icon_secondary: Icons_commander_portrait_german_commander_18_large
+  :rarity: rare
+'7541':
+  :server_id: '7541'
+  :pbgid: '2248'
+  :name: '11054662'
+  :description: '11074820'
+  :icon: Icons_commander_portrait_german_commander_16
+  :icon_secondary: Icons_commander_portrait_german_commander_16_large
+  :rarity: rare
+'7537':
+  :server_id: '7537'
+  :pbgid: '2249'
+  :name: '11053506'
+  :description: '11074821'
+  :icon: Icons_commander_portrait_german_commander_17
+  :icon_secondary: Icons_commander_portrait_german_commander_17_large
+  :rarity: rare
+'7540':
+  :server_id: '7540'
+  :pbgid: '2250'
+  :name: '11053509'
+  :description: '11074822'
+  :icon: Icons_commander_portrait_german_commander_22
+  :icon_secondary: Icons_commander_portrait_german_commander_22_large
+  :rarity: rare
+'6905':
+  :server_id: '6905'
+  :pbgid: '1862'
+  :name: '11051307'
+  :description: '11051308'
+  :icon: Icons_commander_portrait_german_commander_14
+  :icon_secondary: Icons_commander_portrait_german_commander_14_large
+  :rarity: rare
+'258891':
+  :server_id: '258891'
+  :pbgid: '16313'
+  :name: '11071071'
+  :description: '11074823'
+  :icon: Icons_commander_portrait_german_commander_19
+  :icon_secondary: Icons_commander_portrait_german_commander_19_large
+  :rarity: rare
+'7249':
+  :server_id: '7249'
+  :pbgid: '2022'
+  :name: '11050940'
+  :description: '11050941'
+  :icon: Icons_commander_portrait_german_commander_15
+  :icon_secondary: Icons_commander_portrait_german_commander_15_large
+  :rarity: rare
+'7539':
+  :server_id: '7539'
+  :pbgid: '2251'
+  :name: '11053508'
+  :description: '11074824'
+  :icon: Icons_commander_portrait_german_commander_20
+  :icon_secondary: Icons_commander_portrait_german_commander_20_large
+  :rarity: rare
+'5572':
+  :server_id: '5572'
+  :pbgid: '7'
+  :name: '11024624'
+  :description: '11048914'
+  :icon: Icons_commander_portrait_german_commander_05
+  :icon_secondary: Icons_commander_portrait_german_commander_05_large
+  :rarity: common
+'5573':
+  :server_id: '5573'
+  :pbgid: '8'
+  :name: '11024625'
+  :description: '11048915'
+  :icon: Icons_commander_portrait_german_commander_06
+  :icon_secondary: Icons_commander_portrait_german_commander_06_large
+  :rarity: uncommon
+'5930':
+  :server_id: '5930'
+  :pbgid: '9'
+  :name: '11040303'
+  :description: '11048916'
+  :icon: Icons_commander_portrait_german_commander_07
+  :icon_secondary: Icons_commander_portrait_german_commander_07_large
+  :rarity: uncommon
+'5921':
+  :server_id: '5921'
+  :pbgid: '10'
+  :name: '11039325'
+  :description: '11048917'
+  :icon: Icons_commander_portrait_german_commander_08
+  :icon_secondary: Icons_commander_portrait_german_commander_08_large
+  :rarity: uncommon
+'5928':
+  :server_id: '5928'
+  :pbgid: '11'
+  :name: '11040302'
+  :description: '11048918'
+  :icon: Icons_commander_portrait_german_commander_09
+  :icon_secondary: Icons_commander_portrait_german_commander_09_large
+  :rarity: uncommon
+'5929':
+  :server_id: '5929'
+  :pbgid: '12'
+  :name: '11040301'
+  :description: '11048919'
+  :icon: Icons_commander_portrait_german_commander_10
+  :icon_secondary: Icons_commander_portrait_german_commander_10_large
+  :rarity: uncommon
+'6120':
+  :server_id: '6120'
+  :pbgid: '13'
+  :name: '11048787'
+  :description: '11048786'
+  :icon: Icons_commander_portrait_soviet_commander_11
+  :icon_secondary: Icons_commander_portrait_soviet_commander_11_large
+  :rarity: common
+'6121':
+  :server_id: '6121'
+  :pbgid: '14'
+  :name: '11048785'
+  :description: '11048784'
+  :icon: Icons_commander_portrait_soviet_commander_12
+  :icon_secondary: Icons_commander_portrait_soviet_commander_12_large
+  :rarity: common
+'6119':
+  :server_id: '6119'
+  :pbgid: '15'
+  :name: '11048782'
+  :description: '11048783'
+  :icon: Icons_commander_portrait_soviet_commander_13
+  :icon_secondary: Icons_commander_portrait_soviet_commander_13_large
+  :rarity: common
+'186229':
+  :server_id: '186229'
+  :pbgid: '14919'
+  :name: '11063605'
+  :description: '11063606'
+  :icon: Icons_commander_portrait_soviet_commander_21
+  :icon_secondary: Icons_commander_portrait_soviet_commander_21_large
+  :rarity: rare
+'5926':
+  :server_id: '5926'
+  :pbgid: '16'
+  :name: '11040323'
+  :description: '11040324'
+  :icon: Icons_commander_portrait_soviet_commander_01
+  :icon_secondary: Icons_commander_portrait_soviet_commander_01_large
+  :rarity: uncommon
+'5922':
+  :server_id: '5922'
+  :pbgid: '17'
+  :name: '11040322'
+  :description: '11040321'
+  :icon: Icons_commander_portrait_soviet_commander_02
+  :icon_secondary: Icons_commander_portrait_soviet_commander_02_large
+  :rarity: uncommon
+'5575':
+  :server_id: '5575'
+  :pbgid: '18'
+  :name: '11011325'
+  :description: '11036212'
+  :icon: Icons_commander_portrait_soviet_commander_03
+  :icon_secondary: Icons_commander_portrait_soviet_commander_03_large
+  :rarity: common
+'5576':
+  :server_id: '5576'
+  :pbgid: '19'
+  :name: '11007677'
+  :description: '11036213'
+  :icon: Icons_commander_portrait_soviet_commander_04
+  :icon_secondary: Icons_commander_portrait_soviet_commander_04_large
+  :rarity: common
+'5924':
+  :server_id: '5924'
+  :pbgid: '20'
+  :name: '11040320'
+  :description: '11040319'
+  :icon: Icons_commander_portrait_soviet_commander_05
+  :icon_secondary: Icons_commander_portrait_soviet_commander_05_large
+  :rarity: uncommon
+'5578':
+  :server_id: '5578'
+  :pbgid: '21'
+  :name: '11011323'
+  :description: '11036214'
+  :icon: Icons_commander_portrait_soviet_commander_06
+  :icon_secondary: Icons_commander_portrait_soviet_commander_06_large
+  :rarity: uncommon
+'5579':
+  :server_id: '5579'
+  :pbgid: '22'
+  :name: '11007673'
+  :description: '11036215'
+  :icon: Icons_commander_portrait_soviet_commander_07
+  :icon_secondary: Icons_commander_portrait_soviet_commander_07_large
+  :rarity: uncommon
+'5580':
+  :server_id: '5580'
+  :pbgid: '23'
+  :name: '11011321'
+  :description: '11036216'
+  :icon: Icons_commander_portrait_soviet_commander_08
+  :icon_secondary: Icons_commander_portrait_soviet_commander_08_large
+  :rarity: common
+'7546':
+  :server_id: '7546'
+  :pbgid: '2252'
+  :name: '11053515'
+  :description: '11074825'
+  :icon: Icons_commander_portrait_soviet_commander_16
+  :icon_secondary: Icons_commander_portrait_soviet_commander_16_large
+  :rarity: rare
+'7246':
+  :server_id: '7246'
+  :pbgid: '2023'
+  :name: '11050892'
+  :description: '11074826'
+  :icon: Icons_commander_portrait_soviet_commander_14
+  :icon_secondary: Icons_commander_portrait_soviet_commander_14_large
+  :rarity: rare
+'7543':
+  :server_id: '7543'
+  :pbgid: '2253'
+  :name: '11053511'
+  :description: '11074827'
+  :icon: Icons_commander_portrait_soviet_commander_18
+  :icon_secondary: Icons_commander_portrait_soviet_commander_18_large
+  :rarity: rare
+'258974':
+  :server_id: '258974'
+  :pbgid: '16625'
+  :name: '11072128'
+  :description: '11074828'
+  :icon: Icons_commander_portrait_soviet_commander_20
+  :icon_secondary: Icons_commander_portrait_soviet_commander_20_large
+  :rarity: rare
+'7544':
+  :server_id: '7544'
+  :pbgid: '2254'
+  :name: '11053512'
+  :description: '11074829'
+  :icon: Icons_commander_portrait_soviet_commander_19
+  :icon_secondary: Icons_commander_portrait_soviet_commander_19_large
+  :rarity: rare
+'7542':
+  :server_id: '7542'
+  :pbgid: '2255'
+  :name: '11053510'
+  :description: '11074830'
+  :icon: Icons_commander_portrait_soviet_commander_17
+  :icon_secondary: Icons_commander_portrait_soviet_commander_17_large
+  :rarity: rare
+'7545':
+  :server_id: '7545'
+  :pbgid: '2256'
+  :name: '11053513'
+  :description: '11074831'
+  :icon: Icons_commander_portrait_soviet_commander_22
+  :icon_secondary: Icons_commander_portrait_soviet_commander_22_large
+  :rarity: rare
+'7247':
+  :server_id: '7247'
+  :pbgid: '2024'
+  :name: '11050931'
+  :description: '11050932'
+  :icon: Icons_commander_portrait_soviet_commander_15
+  :icon_secondary: Icons_commander_portrait_soviet_commander_15_large
+  :rarity: rare
+'5923':
+  :server_id: '5923'
+  :pbgid: '24'
+  :name: '11040316'
+  :description: '11040318'
+  :icon: Icons_commander_portrait_soviet_commander_09
+  :icon_secondary: Icons_commander_portrait_soviet_commander_09_large
+  :rarity: uncommon
+'5925':
+  :server_id: '5925'
+  :pbgid: '25'
+  :name: '11040315'
+  :description: '11040317'
+  :icon: Icons_commander_portrait_soviet_commander_10
+  :icon_secondary: Icons_commander_portrait_soviet_commander_10_large
+  :rarity: uncommon
+'450495':
+  :server_id: '450495'
+  :pbgid: '96848'
+  :name: '11106297'
+  :description: '11098004'
+  :icon: Icons_commander_portrait_german_commander_23
+  :icon_secondary: Icons_commander_portrait_german_commander_23_large
+  :rarity: rare
+'186419':
+  :server_id: '186419'
+  :pbgid: '14939'
+  :name: '11063831'
+  :description: '11074839'
+  :icon: Icons_commander_portrait_oberkommand_west_commander_03
+  :icon_secondary: Icons_commander_portrait_oberkommand_west_commander_03_large
+  :rarity: common
+'450496':
+  :server_id: '450496'
+  :pbgid: '96849'
+  :name: '0'
+  :description: '0'
+  :icon: ''
+  :icon_secondary: ''
+  :rarity: legendary
+'257800':
+  :server_id: '257800'
+  :pbgid: '16447'
+  :name: '11071412'
+  :description: '11075204'
+  :icon: Icons_commander_portrait_oberkommand_west_commander_06
+  :icon_secondary: Icons_commander_portrait_oberkommand_west_commander_06_large
+  :rarity: rare
+'450494':
+  :server_id: '450494'
+  :pbgid: '96847'
+  :name: '11099909'
+  :description: '11098002'
+  :icon: Icons_commander_portrait_oberkommand_west_commander_07
+  :icon_secondary: Icons_commander_portrait_oberkommand_west_commander_07_large
+  :rarity: rare
+'259929':
+  :server_id: '259929'
+  :pbgid: '16760'
+  :name: '11072367'
+  :description: '11074841'
+  :icon: Icons_commander_portrait_oberkommand_west_commander_05
+  :icon_secondary: Icons_commander_portrait_oberkommand_west_commander_05_large
+  :rarity: rare
+'186418':
+  :server_id: '186418'
+  :pbgid: '14938'
+  :name: '11063830'
+  :description: '11074838'
+  :icon: Icons_commander_portrait_oberkommand_west_commander_02
+  :icon_secondary: Icons_commander_portrait_oberkommand_west_commander_02_large
+  :rarity: common
+'259657':
+  :server_id: '259657'
+  :pbgid: '16729'
+  :name: '11072278'
+  :description: '11074840'
+  :icon: Icons_commander_portrait_oberkommand_west_commander_04
+  :icon_secondary: Icons_commander_portrait_oberkommand_west_commander_04_large
+  :rarity: rare
+'186417':
+  :server_id: '186417'
+  :pbgid: '14937'
+  :name: '11063829'
+  :description: '11074837'
+  :icon: Icons_commander_portrait_oberkommand_west_commander_01
+  :icon_secondary: Icons_commander_portrait_oberkommand_west_commander_01_large
+  :rarity: common
+'347076':
+  :server_id: '347076'
+  :pbgid: '17263'
+  :name: '11074874'
+  :description: '0'
+  :icon: Icons_commander_portrait_oberkommand_west_commander_01
+  :icon_secondary: Icons_commander_portrait_oberkommand_west_commander_01_large
+  :rarity: other

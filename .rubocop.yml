@@ -1,0 +1,77 @@
+Rails:
+  Enabled: true
+Style/TrailingBlankLines:
+  EnforcedStyle: final_newline
+Style/VariableName:
+  EnforcedStyle: snake_case
+Style/MethodDefParentheses:
+  EnforcedStyle: require_parentheses
+Style/TrailingCommaInLiteral:
+  # If `comma`, the cop requires a comma after the last item in an array or
+  # hash, but only when each item is on its own line.
+  # If `consistent_comma`, the cop requires a comma after the last item of all
+  # non-empty array and hash literals.
+  EnforcedStyleForMultiline: comma
+Style/CollectionMethods:
+  # Mapping from undesired method to desired_method
+  # e.g. to use `detect` over `find`:
+  #
+  # CollectionMethods:
+  #   PreferredMethods:
+  #     find: detect
+  PreferredMethods:
+    collect: 'map'
+    collect!: 'map!'
+    inject: 'reduce'
+    detect: 'find'
+    find_all: 'select'
+Style/For:
+  # Checks use of for or each in multiline loops.
+  EnforcedStyle: each
+Lint/RescueException:
+  Enabled: true
+Metrics/LineLength:
+  Max: 120
+Metrics/ClassLength:
+  Max: 200
+Metrics/ModuleLength:
+  Max: 200
+Metrics/MethodLength:
+  Max: 20
+  Exclude:
+    - 'db/migrate/*.rb'
+Metrics/AbcSize:
+  Max: 30
+Metrics/CyclomaticComplexity:
+  Max: 25
+Metrics/PerceivedComplexity:
+  Max: 10
+Metrics/BlockLength:
+  CountComments: false
+  Max: 25
+  Exclude:
+    - 'Rakefile'
+    - '**/*.rake'
+    - 'spec/**/*.rb'
+    - 'db/migrate/*.rb'
+    - 'config/**/*.rb'
+Style/EmptyLinesAroundBlockBody:
+  Enabled: false
+Style/FrozenStringLiteralComment:
+  Enabled: false
+Style/Documentation:
+  Enabled: false
+Style/AccessModifierIndentation:
+  Enabled: false
+Style/EmptyLinesAroundClassBody:
+  Enabled: false
+Style/FormatString:
+  Enabled: false
+Style/ExtraSpacing:
+  Enabled: false
+Style/ClassAndModuleChildren:
+  Enabled: false
+Rails/HasAndBelongsToMany:
+  Enabled: false
+AllCops:
+  TargetRubyVersion: 2.3
