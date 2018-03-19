@@ -10,7 +10,8 @@ class ReplaysController < ApplicationController
   end
 
   def create
-    @replay, @players = Replay.create_from_file(params[:rec], current_user)
+    authorize Replay.new(permitted_attributes(Replay))
+    @replay, @players = Replay.create_from_file(permitted_attributes(Replay))
     render json: @replay
   end
 end
