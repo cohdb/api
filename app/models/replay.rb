@@ -21,12 +21,12 @@ class Replay < ApplicationRecord
     Relic::Resources::Collection.resource_text(map_resource_id, :english)
   end
 
-  def self.create_from_file(file, user)
-    ptr = Vault.parse_to_cstring(file.path)
+  def self.create_from_file(params)
+    ptr = Vault.parse_to_cstring(params[:rec].path)
     replay_json = JSON.parse(ptr.read_string)
     Vault.free_cstring(ptr)
 
-    Replay.create_from_json(replay_json, user, file)
+    Replay.create_from_json(replay_json, params[:user_id], params[:rec])
   end
 
   def self.create_from_json(json, user, rec)
