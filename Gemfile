@@ -14,7 +14,7 @@ gem 'rails', '~> 5.0.6'
 gem 'paperclip' # file attachments
 gem 'pg', '~> 0.18' # postgres
 gem 'puma', '~> 3.0' # web server
-gem 'pundit' # authorization
+gem 'pundit', git: 'https://github.com/varvet/pundit.git' # authorization
 gem 'rack-cors' # CORS handling
 gem 'redis' # memcache
 gem 'redis-rails'
