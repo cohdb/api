@@ -18,7 +18,7 @@ class Replay < ApplicationRecord
   end
 
   def map_name
-    Relic::Resources::Collection.resource_text(map_resource_id, :english)
+    Relic::Resources::Collection.resource_text(map_resource_id, :english) || 'Unknown'
   end
 
   def self.create_from_file(params)
