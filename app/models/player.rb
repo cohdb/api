@@ -10,7 +10,7 @@ class Player < ApplicationRecord
   scope :for_replay, ->(replay) { replay.nil? ? all : where(replay: replay) }
 
   def commander_name
-    Relic::Attributes::Commanders.to_localized_string(commander, :english)
+    Relic::Attributes::Commanders.to_localized_string(commander, :english) || 'Unknown'
   end
 
   def steam_avatar_url_cache_key
