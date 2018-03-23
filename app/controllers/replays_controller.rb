@@ -1,6 +1,6 @@
 class ReplaysController < ApplicationController
   def index
-    @replays = policy_scope(Replay)
+    @replays = policy_scope(Replay).includes(:players)
     render json: @replays
   end
 
