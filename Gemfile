@@ -7,6 +7,7 @@ end
 
 gem 'aws-sdk' # file storage
 gem 'devise' # authentication
+gem 'doorkeeper' # token auth
 gem 'fast_jsonapi' # JSON serialization
 gem 'omniauth' # OAuth
 gem 'omniauth-steam' # Steam authentication
