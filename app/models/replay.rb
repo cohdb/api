@@ -21,6 +21,10 @@ class Replay < ApplicationRecord
     Relic::Resources::Collection.resource_text(map_resource_id, :english) || 'Unknown'
   end
 
+  def url
+    rec&.url
+  end
+
   def self.create_from_file(params)
     ptr = Vault.parse_to_cstring(params[:rec].path)
     replay_json = JSON.parse(ptr.read_string)
