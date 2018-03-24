@@ -8,4 +8,7 @@ Rails.application.routes.draw do
   resources :players, only: %i[index]
   resources :commands, only: %i[index]
   resources :chat_messages, only: %i[index]
+  resources :users, only: %i[] do
+    get :me, on: :collection
+  end
 end
