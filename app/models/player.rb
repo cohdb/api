@@ -1,6 +1,4 @@
 class Player < ApplicationRecord
-  ALLIES_FACTIONS = %w(soviet aef british).freeze
-  AXIS_FACTIONS = %w(west_german german).freeze
   MAX_ENTITY_ID = 2_147_483_647
 
   belongs_to :replay
@@ -21,6 +19,8 @@ class Player < ApplicationRecord
     Rails.cache.fetch(steam_avatar_url_cache_key) do
       Steam::User.summary(steam_id)['avatar']
     end
+  rescue
+    nil
   end
 
   class << self
@@ -71,6 +71,8 @@ class Player < ApplicationRecord
       Steam::User.summaries(unloaded_ids).each do |summary|
         Rails.cache.write(steam_avatar_url_cache_key(summary['steamid']), summary['avatar'])
       end
+    rescue
+      nil
     end
   end
 end
