@@ -38,5 +38,7 @@ module Api
         resource '*', :headers => :any, :methods => [:get, :post, :options]
       end
     end
+
+    config.cache_store = :redis_store, 'redis://localhost:6379/0/cache', { expires_in: 24.hours }
   end
 end
