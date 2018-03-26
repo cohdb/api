@@ -4,14 +4,22 @@ class ApplicationController < ActionController::API
   rescue_from Pundit::NotAuthorizedError, with: :not_authorized
 
   def doorkeeper_unauthorized_render_options(error)
-    { json: { error: error[:error].description } }
+    response = [
+      {
+        code: :invalid_token,
+        title: 'Unauthorized',
+        detail: error[:error].description
+      }
+    ]
+
+    { json: { errors: response } }
   end
 
   def render(*args)
     options = args.extract_options!
     subject = options[:json]
 
-    unless subject.is_a?(Hash)
+    unless subject.is_a?(Hash) || subject.is_a?(Array)
       model = subject.is_a?(ActiveRecord::Relation) ? subject.model : subject.class
       serializer = "#{model.name}Serializer".constantize
       options[:json] = serializer.new(subject).serialized_json
@@ -28,6 +36,14 @@ class ApplicationController < ActionController::API
   end
 
   def not_authorized
-    render json: { error: 'Access is forbidden' }, status: :forbidden
+    response = [
+      {
+        code: :insufficient_permissions,
+        title: 'Forbidden',
+        detail: 'You cannot access this particular resource'
+      }
+    ]
+
+    render json: { errors: response }, status: :forbidden
   end
 end
