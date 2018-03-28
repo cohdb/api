@@ -43,7 +43,7 @@ class Replay < ApplicationRecord
                       nil
                     end
 
-      replay = Replay.create!(user: user,
+      replay = Replay.create!(user_id: user,
                               version: json['version'],
                               length: json['duration'],
                               map: json['map']['name'],
