@@ -33,6 +33,11 @@ group :development do
   gem 'better_errors' # better in-browser error UI
   gem 'binding_of_caller' # irb in better_errors
   gem 'bullet' # N+1 queries
+  gem 'capistrano', '~> 3.6' # Deployment
+  gem 'capistrano-bundler', '~> 1.2' # Bundle install on deploy
+  gem 'capistrano-passenger' # Restart passenger on deploy
+  gem 'capistrano-rails', '~> 1.3' # Migrate/compile assets on deploy
+  gem 'capistrano-rbenv', '~> 2.0' # rbenv with deploy
   gem 'listen', '~> 3.0.5'
   gem 'redis-rails-instrumentation' # redis logging
   gem 'rubocop' # linting
