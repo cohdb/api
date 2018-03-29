@@ -836,6 +836,7 @@ DEPENDENCIES
   doorkeeper
   dotenv-rails
   fast_jsonapi
+  ffi
   listen (~> 3.0.5)
   omniauth
   omniauth-steam

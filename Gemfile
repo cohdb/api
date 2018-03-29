@@ -9,6 +9,7 @@ gem 'aws-sdk' # file storage
 gem 'devise' # authentication
 gem 'doorkeeper' # token auth
 gem 'fast_jsonapi' # JSON serialization
+gem 'ffi' # foreign function interface for Rust parser
 gem 'omniauth' # OAuth
 gem 'omniauth-steam' # Steam authentication
 gem 'rails', '~> 5.0.6'
