@@ -1,5 +1,5 @@
 # config valid only for current version of Capistrano
-lock "3.9.0"
+lock "3.10.1"
 
 set :application, 'cohdb'
 set :repo_url, 'https://github.com/cohdb/api.git'
@@ -18,7 +18,7 @@ set :migration_role, :app
 set :conditionally_migrate, true
 
 # Defaults to [:web]
-set :assets_roles, [:web, :app]
+# set :assets_roles, [:web, :app]
 
 # If you need to touch public/images, public/javascripts, and public/stylesheets on each deploy
 # set :normalize_asset_timestamps, %w{public/images public/javascripts public/stylesheets}
