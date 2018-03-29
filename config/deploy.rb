@@ -4,7 +4,7 @@ lock '3.10.1'
 set :application, 'cohdb'
 set :repo_url, 'https://github.com/cohdb/api.git'
 
-append :linked_files, '.env.production'
+append :linked_files, '.env'
 
 # Default branch is :master
 # ask :branch, `git rev-parse --abbrev-ref HEAD`.chomp
