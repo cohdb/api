@@ -8,6 +8,7 @@ end
 gem 'aws-sdk' # file storage
 gem 'devise' # authentication
 gem 'doorkeeper' # token auth
+gem 'dotenv-rails' # environment variable loading
 gem 'fast_jsonapi' # JSON serialization
 gem 'ffi' # foreign function interface for Rust parser
 gem 'omniauth' # OAuth
@@ -26,7 +27,6 @@ gem 'steam-api' # Steam API
 group :development, :test do
   gem 'awesome_print' # pretty printing
   gem 'byebug', platform: :mri # debugging
-  gem 'dotenv-rails' # environment variable loading
   gem 'rspec-rails', '~> 3.7' # testing
 end
 
