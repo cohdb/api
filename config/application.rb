@@ -39,6 +39,6 @@ module Api
       end
     end
 
-    config.cache_store = :redis_store, 'redis://localhost:6379/0/cache', { expires_in: 24.hours }
+    config.cache_store = :redis_store, ENV['REDIS_URL'], { expires_in: 24.hours }
   end
 end
