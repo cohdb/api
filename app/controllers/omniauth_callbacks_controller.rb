@@ -9,7 +9,7 @@ class OmniauthCallbacksController < Devise::OmniauthCallbacksController
       # sign_in @user, event: :authentication
       # raw, enc = Devise.token_generator.generate(self.class, :login_token)
       token = @user.generate_login_token
-      redirect_to "http://localhost:4000/auth?login_token=#{token}"
+      redirect_to "#{ENV['MAIN_FRONTEND_URL']}/auth?login_token=#{token}"
       # sign_in_and_redirect @user, event: :authentication # this will throw if @user is not activated
       # set_flash_message(:notice, :success, kind: 'Facebook') if is_navigational_format?
     else
