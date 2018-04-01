@@ -6,6 +6,7 @@ Rollbar.configure do |config|
     sql
     php
     manager/html
+    myadmin
     [head]
   ].freeze
 
