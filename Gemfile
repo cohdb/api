@@ -23,6 +23,7 @@ gem 'redis' # memcache
 gem 'redis-rails'
 gem 'rollbar' # error logging
 gem 'steam-api' # Steam API
+gem 'sucker_punch', '~> 2.0' # async workers
 
 group :development, :test do
   gem 'awesome_print' # pretty printing
