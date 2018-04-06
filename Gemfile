@@ -12,7 +12,7 @@ gem 'dotenv-rails' # environment variable loading
 gem 'fast_jsonapi' # JSON serialization
 gem 'ffi' # foreign function interface for Rust parser
 gem 'omniauth' # OAuth
-gem 'omniauth-steam' # Steam authentication
+gem 'omniauth-steam', git: 'https://github.com/cohdb/omniauth-steam.git' # Steam authentication
 gem 'rails', '~> 5.0.6'
 gem 'paperclip' # file attachments
 gem 'pg', '~> 0.18' # postgres
