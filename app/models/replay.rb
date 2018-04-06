@@ -13,6 +13,8 @@ class Replay < ApplicationRecord
   validates_attachment :rec, content_type: { content_type: ['application/octet-stream'] },
                              size: { less_than: 25.megabytes }
 
+  validates :game_type, inclusion: { in: ['COH2_REC'] }
+
   def map_resource_id
     map.delete('$')
   end
