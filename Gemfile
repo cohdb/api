@@ -28,7 +28,7 @@ gem 'sucker_punch', '~> 2.0' # async workers
 group :development, :test do
   gem 'awesome_print' # pretty printing
   gem 'byebug', platform: :mri # debugging
-  gem 'factory_bot_rails', '~> 4.0' # factories
+  gem 'factory_bot', '~> 4.0' # factories
   gem 'faker', :git => 'https://github.com/stympy/faker.git', :branch => 'master' # fake data
   gem 'rails-controller-testing' # assigns in controller specs
   gem 'rspec-rails', '~> 3.7' # testing
