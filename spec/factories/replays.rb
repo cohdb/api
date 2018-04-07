@@ -32,6 +32,7 @@ FactoryBot.define do
     map { "$#{Faker::Number.between(10000000, 99999999)}" }
     recorded_at { Faker::Time.between(1.day.ago, 1.day.from_now, :all) }
     version { Faker::Number.between(1, 10000) }
+    length { Faker::Number.number(5) }
 
     trait :with_user do
       association :user, factory: :user, strategy: :build
