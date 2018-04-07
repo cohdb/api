@@ -44,4 +44,6 @@ Style/Documentation:
 
 Style/NumericLiterals:
   Exclude:
+    - 'config/deploy/**/*.rb'
+    - 'db/seeds/**/*.rb'
     - 'spec/**/*.rb'
