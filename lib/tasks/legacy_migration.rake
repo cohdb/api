@@ -1,3 +1,4 @@
+# frozen_string_literal: true
 namespace :legacy_migration do
   desc 'TODO'
   task run: :environment do
@@ -5,7 +6,7 @@ namespace :legacy_migration do
 
     responses = {
       ok: 0,
-      fail: 0,
+      fail: 0
     }
 
     # csv = CSV.parse(File.read('/Users/ryantaylor/replays.csv'))

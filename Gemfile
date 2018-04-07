@@ -1,7 +1,8 @@
+# frozen_string_literal: true
 source 'https://rubygems.org'
 
 git_source(:github) do |repo_name|
-  repo_name = "#{repo_name}/#{repo_name}" unless repo_name.include?("/")
+  repo_name = "#{repo_name}/#{repo_name}" unless repo_name.include?('/')
   "https://github.com/#{repo_name}.git"
 end
 
@@ -13,12 +14,12 @@ gem 'fast_jsonapi' # JSON serialization
 gem 'ffi' # foreign function interface for Rust parser
 gem 'omniauth' # OAuth
 gem 'omniauth-steam', git: 'https://github.com/cohdb/omniauth-steam.git' # Steam authentication
-gem 'rails', '~> 5.0.6'
 gem 'paperclip' # file attachments
 gem 'pg', '~> 0.18' # postgres
 gem 'puma', '~> 3.0' # web server
 gem 'pundit', git: 'https://github.com/varvet/pundit.git' # authorization
 gem 'rack-cors' # CORS handling
+gem 'rails', '~> 5.0.6'
 gem 'redis' # memcache
 gem 'redis-rails'
 gem 'rollbar' # error logging
@@ -29,7 +30,7 @@ group :development, :test do
   gem 'awesome_print' # pretty printing
   gem 'byebug', platform: :mri # debugging
   gem 'factory_bot', '~> 4.0' # factories
-  gem 'faker', :git => 'https://github.com/stympy/faker.git', :branch => 'master' # fake data
+  gem 'faker', git: 'https://github.com/stympy/faker.git', branch: 'master' # fake data
   gem 'rails-controller-testing' # assigns in controller specs
   gem 'rspec-rails', '~> 3.7' # testing
 end

@@ -1,3 +1,4 @@
+# frozen_string_literal: true
 class CommandsController < ApplicationController
   def index
     @commands = policy_scope(Command).for_player(params[:player_id])

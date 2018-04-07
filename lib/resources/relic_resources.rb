@@ -1,3 +1,4 @@
+# frozen_string_literal: true
 module Resources
   class RelicResources
     class << self
@@ -24,7 +25,7 @@ module Resources
 
       def resources_for(language)
         @collection ||= {}
-        @collection[language] ||= YAML.load(File.read(config_file_name(language)))
+        @collection[language] ||= YAML.safe_load(File.read(config_file_name(language)), [Symbol])
       end
 
       def config_file_name(language)

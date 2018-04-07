@@ -1,3 +1,4 @@
+# frozen_string_literal: true
 after :players do
   Player.all.find_each do |player|
     ChatMessage.create!(player: player,

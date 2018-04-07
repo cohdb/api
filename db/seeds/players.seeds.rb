@@ -1,6 +1,7 @@
+# frozen_string_literal: true
 after :replays do
   replay = Replay.first
-  factions = ['aef', 'german']
+  factions = %w[aef german]
   teams = [0, 1]
 
   2.times do |n|
@@ -15,7 +16,7 @@ after :replays do
   end
 
   replay = Replay.last
-  factions = ['aef', 'aef', 'soviet', 'british', 'german', 'german', 'west_german', 'west_german']
+  factions = %w[aef aef soviet british german german west_german west_german]
   teams = [0, 0, 0, 0, 1, 1, 1, 1]
 
   8.times do |n|

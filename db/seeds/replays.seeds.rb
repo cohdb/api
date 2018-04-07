@@ -1,3 +1,4 @@
+# frozen_string_literal: true
 after :users do
   Replay.create!(version: 20042,
                  length: 3306,

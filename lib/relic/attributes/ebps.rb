@@ -1,3 +1,4 @@
+# frozen_string_literal: true
 module Relic
   module Attributes
     class Ebps < Relic::Attributes::Collection
@@ -5,12 +6,12 @@ module Relic
         protected
 
         def permitted_attributes
-          [
-            :pbgid,
-            :screen_name,
-            :icon_name,
-            :help_text,
-            :extra_text,
+          %i[
+            pbgid
+            screen_name
+            icon_name
+            help_text
+            extra_text
           ]
         end
 

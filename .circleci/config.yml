@@ -2,12 +2,9 @@ version: 2
 jobs:
   build:
     working_directory: ~/cohdb
-    docker:
+    docker: &docker
       - image: cohdb/circleci:latest
         environment:
-          BUNDLE_JOBS: 3
-          BUNDLE_RETRY: 3
-          BUNDLE_PATH: vendor/bundle
           VAULT_PATH: /lib/vault/target/release/libvault.so
           PGHOST: 127.0.0.1
           PGUSER: cohdb
@@ -27,12 +24,56 @@ jobs:
 
       - run:
           name: Bundle Install
-          command: bundle install --path vendor/bundle
+          command: bundle check --path=vendor/bundle || bundle install --path=vendor/bundle --jobs=4 --retry=3
 
       - save_cache:
           key: cohdb-bundle-{{ checksum "Gemfile.lock" }}
           paths:
             - vendor/bundle
+
+      - persist_to_workspace:
+          root: .
+          paths:
+             - vendor/bundle
+  rubocop:
+    working_directory: ~/cohdb
+    docker: *docker
+    steps:
+      - checkout
+
+      - attach_workspace:
+          at: ~/cohdb
+
+      - restore_cache:
+          keys:
+            - cohdb-bundle-{{ checksum "Gemfile.lock" }}
+            - cohdb-bundle-
+
+      - run:
+          name: Bundle Install
+          command: bundle check --path=vendor/bundle || bundle install --path=vendor/bundle --jobs=4 --retry=3
+
+      - run:
+          name: Rubocop
+          command: bundle exec rubocop
+
+  rspecs:
+    working_directory: ~/cohdb
+    docker: *docker
+    steps:
+      - checkout
+
+      - attach_workspace:
+          at: ~/cohdb
+
+      - restore_cache:
+          keys:
+            - cohdb-bundle-{{ checksum "Gemfile.lock" }}
+            - cohdb-bundle-
+
+      - run:
+          name: Bundle Install
+          command: bundle check --path=vendor/bundle || bundle install --path=vendor/bundle --jobs=4 --retry=3
 
       - run:
           name: Wait for db
@@ -45,3 +86,17 @@ jobs:
       - run:
           name: Tests
           command: bundle exec rspec spec
+
+workflows:
+  version: 2
+  run_tests:
+    jobs:
+      - build
+
+      - rubocop:
+          requires:
+            - build
+
+      - rspecs:
+          requires:
+            - build

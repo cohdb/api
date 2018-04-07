@@ -1,3 +1,4 @@
+# frozen_string_literal: true
 module Relic
   module Attributes
     class VehicleDecals < Relic::Attributes::Collection
@@ -5,14 +6,14 @@ module Relic
         protected
 
         def permitted_attributes
-          [
-            :server_id,
-            :pbgid,
-            :decal_name,
-            :name,
-            :description,
-            :icon,
-            :rarity,
+          %i[
+            server_id
+            pbgid
+            decal_name
+            name
+            description
+            icon
+            rarity
           ]
         end
 

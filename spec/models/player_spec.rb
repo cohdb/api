@@ -1,3 +1,4 @@
+# frozen_string_literal: true
 # == Schema Information
 #
 # Table name: players
@@ -139,7 +140,8 @@ RSpec.describe Player, type: :model do
       let(:commander) { '1' }
 
       before do
-        allow(Relic::Attributes::Commanders).to receive(:to_localized_string).with(commander, :english).and_return('Known Commander')
+        allow(Relic::Attributes::Commanders).to receive(:to_localized_string)
+          .with(commander, :english).and_return('Known Commander')
       end
 
       it 'returns English localized string for that commander' do

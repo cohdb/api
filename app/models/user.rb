@@ -1,3 +1,4 @@
+# frozen_string_literal: true
 # == Schema Information
 #
 # Table name: users
@@ -29,11 +30,13 @@ class User < ApplicationRecord
   devise :rememberable, :trackable, :omniauthable, omniauth_providers: [:steam]
 
   has_many :access_grants, class_name: 'Doorkeeper::AccessGrant',
-           foreign_key: :resource_owner_id,
-           dependent: :delete_all # or :destroy if you need callbacks
+                           foreign_key: :resource_owner_id,
+                           dependent: :delete_all, # or :destroy if you need callbacks
+                           inverse_of: :user
   has_many :access_tokens, class_name: 'Doorkeeper::AccessToken',
-           foreign_key: :resource_owner_id,
-           dependent: :delete_all # or :destroy if you need callbacks
+                           foreign_key: :resource_owner_id,
+                           dependent: :delete_all, # or :destroy if you need callbacks
+                           inverse_of: :user
 
   validates :provider, presence: true
   validates :uid, presence: true

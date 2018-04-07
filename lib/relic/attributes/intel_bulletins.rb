@@ -1,3 +1,4 @@
+# frozen_string_literal: true
 module Relic
   module Attributes
     class IntelBulletins < Relic::Attributes::Collection
@@ -5,13 +6,13 @@ module Relic
         protected
 
         def permitted_attributes
-          [
-            :server_id,
-            :pbgid,
-            :name,
-            :description,
-            :icon,
-            :rarity,
+          %i[
+            server_id
+            pbgid
+            name
+            description
+            icon
+            rarity
           ]
         end
 
