@@ -121,7 +121,7 @@ RSpec.describe Replay, type: :model do
     end
 
     it 'is invalid with a non-replay file attached' do
-      subject.rec = File.new(File.join(Rails.root, '/spec/support/fixtures', 'test_image.jpg'))
+      subject.rec = File.new(Rails.root.join('spec', 'support', 'fixtures', 'test_image.jpg'))
       should be_invalid
     end
   end

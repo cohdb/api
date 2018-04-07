@@ -167,7 +167,8 @@ RSpec.describe Command, type: :model do
       let(:entity_id) { 1 }
 
       before do
-        allow(CommandTypes).to receive(:entity_name_functions).and_return(command.command_type => proc { |id| "Entity #{id}" })
+        allow(CommandTypes).to receive(:entity_name_functions)
+          .and_return(command.command_type => proc { |id| "Entity #{id}" })
       end
 
       it 'returns calculated entity name' do
@@ -200,7 +201,8 @@ RSpec.describe Command, type: :model do
       let(:command_type) { 'known' }
 
       before do
-        allow(CommandTypes).to receive(:command_text_functions).and_return(command_type => proc { |c| "Issues #{c.command_type} with #{c.entity_name}" })
+        allow(CommandTypes).to receive(:command_text_functions)
+          .and_return(command_type => proc { |c| "Issues #{c.command_type} with #{c.entity_name}" })
       end
 
       it 'returns calculated command text' do

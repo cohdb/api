@@ -12,8 +12,6 @@ module Attributes
       end
 
       def parse_attributes
-        collection = {}
-
         parse_directory("/Users/ryantaylor/Downloads/assets/data/attributes/instances/#{attribute_directory_name}")
 
         File.open(config_file_name, 'w') do |f|
@@ -22,7 +20,7 @@ module Attributes
       end
 
       def load_from_config
-        @collection = YAML.safe_load(File.read(config_file_name))
+        @collection = YAML.safe_load(File.read(config_file_name), [Symbol])
       end
 
       protected
@@ -55,7 +53,7 @@ module Attributes
 
       def parse_directory(directory)
         Dir.foreach(directory) do |item|
-          next if item == '.' || item == '..'
+          next if %w[. ..].include?(item)
           path = "#{directory}/#{item}"
           parse_directory(path) if File.directory?(path)
           parse_file(path) if File.file?(path)

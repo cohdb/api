@@ -1,4 +1,7 @@
 # frozen_string_literal: true
+# rubocop:disable Metrics/ModuleLength
+# rubocop:disable Metrics/MethodLength
+# rubocop:disable Metrics/AbcSize
 module CommandTypes
   # Movement
   SCMD_MOVE = 'SCMD_Move'
@@ -173,7 +176,7 @@ module CommandTypes
     ai = proc { |_| 'AI has taken control' }
     ability = proc do |cmd|
       result = "Uses ability #{cmd.entity_name}"
-      result << " at (#{cmd.x.round}, #{cmd.z.round})" unless cmd.x.zero? && cmd.y.zero? && cmd.z.zero?
+      result = "#{result} at (#{cmd.x.round}, #{cmd.z.round})" unless cmd.x.zero? && cmd.y.zero? && cmd.z.zero?
       result
     end
     surrender = proc { |_| 'Issues surrender order' }
@@ -217,3 +220,6 @@ module CommandTypes
     }
   end
 end
+# rubocop:enable Metrics/ModuleLength
+# rubocop:enable Metrics/MethodLength
+# rubocop:enable Metrics/AbcSize

@@ -93,6 +93,6 @@ RSpec.configure do |config|
 
   # Clear paperclip test files
   config.after(:suite) do
-    FileUtils.rm_rf(Dir["#{Rails.root}/public/system"])
+    FileUtils.rm_rf(Dir[Rails.root.join('public', 'system')])
   end
 end

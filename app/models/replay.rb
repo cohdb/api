@@ -33,7 +33,7 @@ class Replay < ApplicationRecord
 
   belongs_to :user, optional: true
 
-  has_many :players
+  has_many :players, dependent: :destroy
   has_many :commands, through: :players
   has_many :chat_messages, through: :players
 
@@ -62,38 +62,47 @@ class Replay < ApplicationRecord
     rec&.url
   end
 
-  def self.create_from_file(params)
-    ptr = Vault.parse_to_cstring(params[:rec].path)
-    replay_json = JSON.parse(ptr.read_string)
-    Vault.free_cstring(ptr)
+  class << self
+    def create_from_file(params)
+      ptr = Vault.parse_to_cstring(params[:rec].path)
+      replay_json = JSON.parse(ptr.read_string)
+      Vault.free_cstring(ptr)
 
-    Replay.create_from_json(replay_json, params[:user_id], params[:rec])
-  end
-
-  def self.create_from_json(json, user, rec)
-    replay = []
-    players = []
-    ActiveRecord::Base.transaction do
-      recorded_at = begin
-                      json['date_time'].to_datetime
-                    rescue StandardError
-                      nil
-                    end
-
-      replay = Replay.create!(user_id: user,
-                              version: json['version'],
-                              length: json['duration'],
-                              map: json['map']['name'],
-                              rng_seed: json['rng_seed'],
-                              opponent_type: OPPONENT_TYPES[json['opponent_type'] - 1],
-                              game_type: json['game_type'],
-                              recorded_at: recorded_at,
-                              recorded_at_text: json['date_time'],
-                              rec: rec)
-
-      players = Player.create_from_json(replay, json)
+      Replay.create_from_json(replay_json, params[:user_id], params[:rec])
     end
 
-    [replay, players]
+    def create_from_json(json, user, rec)
+      replay = []
+      players = []
+      ActiveRecord::Base.transaction do
+        replay = Replay.create!(replay_params(json, user, rec))
+        players = Player.create_from_json(replay, json)
+      end
+
+      [replay, players]
+    end
+
+    private
+
+    def parse_datetime_from_json(json)
+      json['date_time'].to_datetime
+    rescue StandardError
+      nil
+    end
+
+    def replay_params(json, user, rec)
+      {
+        user_id: user,
+        version: json['version'],
+        length: json['duration'],
+        map: json['map']['name'],
+        rng_seed: json['rng_seed'],
+        opponent_type: OPPONENT_TYPES[json['opponent_type'] - 1],
+        game_type: json['game_type'],
+        recorded_at: parse_datetime_from_json(json),
+        recorded_at_text: json['date_time'],
+        rec: rec
+      }
+    end
   end
 end

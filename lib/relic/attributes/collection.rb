@@ -25,12 +25,12 @@ module Relic
         private
 
         def attributes
-          @attributes ||= YAML.safe_load(File.read(config_file_name))
+          @attributes ||= YAML.safe_load(File.read(config_file_name), [Symbol])
         end
 
         def parse_directory(directory)
           Dir.foreach(directory) do |item|
-            next if item == '.' || item == '..'
+            next if %w[. ..].include?(item)
             path = "#{directory}/#{item}"
             parse_directory(path) if File.directory?(path)
             parse_file(path) if File.file?(path)

@@ -25,7 +25,7 @@ module Resources
 
       def resources_for(language)
         @collection ||= {}
-        @collection[language] ||= YAML.safe_load(File.read(config_file_name(language)))
+        @collection[language] ||= YAML.safe_load(File.read(config_file_name(language)), [Symbol])
       end
 
       def config_file_name(language)
