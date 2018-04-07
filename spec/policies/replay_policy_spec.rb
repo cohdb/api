@@ -5,7 +5,7 @@ RSpec.describe ReplayPolicy do
 
   let(:anon_replay) { build(:replay) }
   let(:linked_replay) { build(:replay, user_id: user.id) }
-  let(:user) { create(:user) }
+  let(:user) { build(:user, id: 1) }
 
   permissions :create? do
     it 'allows logged out users to create anonymous replays' do
@@ -21,7 +21,7 @@ RSpec.describe ReplayPolicy do
     end
 
     it 'does not allow logged in users to link replays to other users' do
-      should_not permit(user, build(:replay, user_id: create(:user).id))
+      should_not permit(user, build(:replay, user_id: 2))
     end
 
     it 'does not allow logged in users to create anonymous replays' do
