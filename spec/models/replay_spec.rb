@@ -88,6 +88,31 @@ RSpec.describe Replay do
       should be_valid
     end
 
+    it 'is invalid without a length' do
+      subject.length = nil
+      should be_invalid
+    end
+
+    it 'is invalid with a non-integer length' do
+      subject.length = 1.5
+      should be_invalid
+    end
+
+    it 'is invalid with a negative length' do
+      subject.length = -1
+      should be_invalid
+    end
+
+    it 'is valid with a length of 0' do
+      subject.length = 0
+      should be_valid
+    end
+
+    it 'is valid with a positive length' do
+      subject.length = 1
+      should be_valid
+    end
+
     it 'is invalid without a replay file attached' do
       subject.rec = nil
       should be_invalid

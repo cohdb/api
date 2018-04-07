@@ -46,6 +46,7 @@ class Replay < ApplicationRecord
   validates :map, presence: true
   validates :recorded_at, presence: true
   validates :version, numericality: { only_integer: true, greater_than: 0 }
+  validates :length, numericality: { only_integer: true, greater_than_or_equal_to: 0 }
 
   def map_resource_id
     map.delete('$')
