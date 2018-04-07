@@ -10,7 +10,7 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 20180323040824) do
+ActiveRecord::Schema.define(version: 20180407163054) do
 
   # These are extensions that must be enabled in order to support this database
   enable_extension "plpgsql"
@@ -94,9 +94,9 @@ ActiveRecord::Schema.define(version: 20180323040824) do
 
   create_table "replays", force: :cascade do |t|
     t.integer  "user_id"
-    t.integer  "version",          null: false
-    t.integer  "length",           null: false
-    t.string   "map",              null: false
+    t.integer  "version",                       null: false
+    t.integer  "length",                        null: false
+    t.string   "map",                           null: false
     t.bigint   "rng_seed"
     t.string   "opponent_type"
     t.string   "game_type"
@@ -105,8 +105,9 @@ ActiveRecord::Schema.define(version: 20180323040824) do
     t.string   "rec_content_type"
     t.integer  "rec_file_size"
     t.datetime "rec_updated_at"
-    t.datetime "created_at",       null: false
-    t.datetime "updated_at",       null: false
+    t.datetime "created_at",                    null: false
+    t.datetime "updated_at",                    null: false
+    t.string   "recorded_at_text", default: "", null: false
     t.index ["user_id"], name: "index_replays_on_user_id", using: :btree
   end
 

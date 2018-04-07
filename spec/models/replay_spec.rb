@@ -17,6 +17,7 @@
 #  rec_updated_at   :datetime
 #  created_at       :datetime         not null
 #  updated_at       :datetime         not null
+#  recorded_at_text :string           default(""), not null
 #
 # Indexes
 #
@@ -58,8 +59,8 @@ RSpec.describe Replay, type: :model do
       should be_invalid
     end
 
-    it 'is invalid with a recorded at time' do
-      subject.recorded_at = nil
+    it 'is invalid without recorded at text' do
+      subject.recorded_at_text = nil
       should be_invalid
     end
 

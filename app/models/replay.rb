@@ -17,6 +17,7 @@
 #  rec_updated_at   :datetime
 #  created_at       :datetime         not null
 #  updated_at       :datetime         not null
+#  recorded_at_text :string           default(""), not null
 #
 # Indexes
 #
@@ -44,7 +45,7 @@ class Replay < ApplicationRecord
   validates :opponent_type, presence: true, inclusion: { in: OPPONENT_TYPES }
   validates :game_type, presence: true, inclusion: { in: GAME_TYPES }
   validates :map, presence: true
-  validates :recorded_at, presence: true
+  validates :recorded_at_text, presence: true
   validates :version, numericality: { only_integer: true, greater_than: 0 }
   validates :length, numericality: { only_integer: true, greater_than_or_equal_to: 0 }
 
@@ -86,6 +87,7 @@ class Replay < ApplicationRecord
                               opponent_type: OPPONENT_TYPES[json['opponent_type'] - 1],
                               game_type: json['game_type'],
                               recorded_at: recorded_at,
+                              recorded_at_text: json['date_time'],
                               rec: rec)
 
       players = Player.create_from_json(replay, json)

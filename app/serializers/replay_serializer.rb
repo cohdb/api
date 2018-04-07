@@ -17,6 +17,7 @@
 #  rec_updated_at   :datetime
 #  created_at       :datetime         not null
 #  updated_at       :datetime         not null
+#  recorded_at_text :string           default(""), not null
 #
 # Indexes
 #
