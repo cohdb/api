@@ -72,10 +72,10 @@ class Replay < ApplicationRecord
     end
 
     def create_from_json(json, user, rec)
-      replay = []
+      replay = nil
       players = []
       ActiveRecord::Base.transaction do
-        replay = Replay.create!(replay_params(json, user, rec))
+        replay = json_replay_create(json, user, rec)
         players = Player.create_from_json(replay, json)
       end
 
@@ -84,25 +84,23 @@ class Replay < ApplicationRecord
 
     private
 
+    def json_replay_create(json, user, rec)
+      Replay.create!(user_id: user,
+                     version: json['version'],
+                     length: json['duration'],
+                     map: json['map']['name'],
+                     rng_seed: json['rng_seed'],
+                     opponent_type: OPPONENT_TYPES[json['opponent_type'] - 1],
+                     game_type: json['game_type'],
+                     recorded_at: parse_datetime_from_json(json),
+                     recorded_at_text: json['date_time'],
+                     rec: rec)
+    end
+
     def parse_datetime_from_json(json)
       json['date_time'].to_datetime
     rescue StandardError
       nil
-    end
-
-    def replay_params(json, user, rec)
-      {
-        user_id: user,
-        version: json['version'],
-        length: json['duration'],
-        map: json['map']['name'],
-        rng_seed: json['rng_seed'],
-        opponent_type: OPPONENT_TYPES[json['opponent_type'] - 1],
-        game_type: json['game_type'],
-        recorded_at: parse_datetime_from_json(json),
-        recorded_at_text: json['date_time'],
-        rec: rec
-      }
     end
   end
 end
