@@ -28,10 +28,13 @@ gem 'sucker_punch', '~> 2.0' # async workers
 group :development, :test do
   gem 'awesome_print' # pretty printing
   gem 'byebug', platform: :mri # debugging
+  gem 'factory_bot_rails', '~> 4.0' # factories
+  gem 'faker', :git => 'https://github.com/stympy/faker.git', :branch => 'master' # fake data
   gem 'rspec-rails', '~> 3.7' # testing
 end
 
 group :development do
+  gem 'annotate' # annotate model schema in file
   gem 'better_errors' # better in-browser error UI
   gem 'binding_of_caller' # irb in better_errors
   gem 'bullet' # N+1 queries
