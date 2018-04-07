@@ -1,0 +1,46 @@
+version: 2
+jobs:
+  build:
+    working_directory: ~/cohdb
+    docker:
+      - image: circleci/ruby:2.5-node
+        environment:
+          BUNDLE_JOBS: 3
+          BUNDLE_RETRY: 3
+          BUNDLE_PATH: vendor/bundle
+          PGHOST: 127.0.0.1
+          PGUSER: cohdb
+          RAILS_ENV: test
+      - image: circleci/postgres:10.3-alpine
+        environment:
+          POSTGRES_USER: cohdb
+          POSTGRES_DB: cohdb_test
+          POSTGRES_PASSWORD: ""
+    steps:
+      - checkout
+
+      - restore_cache:
+          keys:
+            - cohdb-bundle-{{ checksum "Gemfile.lock" }}
+            - cohdb-bundle-
+
+      - run:
+          name: Bundle Install
+          command: bundle install --path vendor/bundle
+
+      - save_cache:
+          key: cohdb-bundle-{{ checksum "Gemfile.lock" }}
+          paths:
+            - vendor/bundle
+
+      - run:
+          name: Wait for db
+          command: dockerize -wait tcp://localhost:5432 -timeout 1m
+
+      - run:
+          name: Database setup
+          command: bin/rails db:create db:migrate --trace
+
+      - run:
+          name: Tests
+          command: bundle exec rspec spec
