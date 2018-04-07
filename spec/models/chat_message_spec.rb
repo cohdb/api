@@ -16,7 +16,7 @@
 
 require 'rails_helper'
 
-RSpec.describe ChatMessage do
+RSpec.describe ChatMessage, type: :model do
   describe 'validations' do
     subject { build(:chat_message) }
 

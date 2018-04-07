@@ -21,7 +21,7 @@
 
 require 'rails_helper'
 
-RSpec.describe Command do
+RSpec.describe Command, type: :model do
   describe 'validations' do
     subject { build(:command) }
 

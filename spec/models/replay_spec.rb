@@ -25,7 +25,7 @@
 
 require 'rails_helper'
 
-RSpec.describe Replay do
+RSpec.describe Replay, type: :model do
   describe 'validations' do
     subject { build(:replay) }
 

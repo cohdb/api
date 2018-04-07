@@ -21,7 +21,7 @@
 
 require 'rails_helper'
 
-RSpec.describe Player do
+RSpec.describe Player, type: :model do
   describe 'validations' do
     subject { build(:player) }
 

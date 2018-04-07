@@ -1,6 +1,6 @@
 require 'rails_helper'
 
-RSpec.describe CommandsController do
+RSpec.describe CommandsController, type: :controller do
   describe '#index' do
     it 'returns ok' do
       get :index

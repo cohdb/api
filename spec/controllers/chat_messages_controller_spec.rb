@@ -1,6 +1,6 @@
 require 'rails_helper'
 
-RSpec.describe ChatMessagesController do
+RSpec.describe ChatMessagesController, type: :controller do
   describe '#index' do
     it 'returns ok' do
       get :index
