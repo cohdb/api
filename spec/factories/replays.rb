@@ -25,7 +25,7 @@
 
 FactoryBot.define do
   factory :replay do
-    rec { File.new(File.join(Rails.root, '/spec/support/fixtures', 'test_replay.rec')) }
+    rec { Rack::Test::UploadedFile.new(File.join(Rails.root, '/spec/support/fixtures', 'test_replay.rec')) }
 
     opponent_type { Replay::OPPONENT_TYPES.sample }
     game_type { Replay::GAME_TYPES.sample }
