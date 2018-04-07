@@ -1,6 +1,6 @@
 require 'rails_helper'
 
-RSpec.describe ReplaysController do
+RSpec.describe ReplaysController, type: :controller do
   describe '#index' do
     it 'returns ok' do
       get :index
@@ -53,7 +53,19 @@ RSpec.describe ReplaysController do
     end
 
     context 'logged in user' do
-      # TODO
+      let!(:user) { create(:user) }
+      let!(:token) { create(:access_token, resource_owner_id: user.id) }
+
+      it 'creates a replay linked to the user' do
+        expect do
+          request.headers['Authorization'] = "Bearer #{token.token}"
+          expect(ReplaySerializer).to receive(:new).and_call_original
+
+          post :create, params: { replay: attributes_for(:replay, user_id: user.id) }
+          expect(response).to be_ok
+          expect(assigns[:replay].user).to eq(user)
+        end.to change { Replay.count }.by(1)
+      end
     end
   end
 end
