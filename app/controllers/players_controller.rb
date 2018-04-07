@@ -1,3 +1,4 @@
+# frozen_string_literal: true
 class PlayersController < ApplicationController
   def index
     @players = policy_scope(Player).for_replay(params[:replay_id])

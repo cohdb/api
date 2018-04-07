@@ -1,3 +1,4 @@
+# frozen_string_literal: true
 class ChatMessagesController < ApplicationController
   def index
     @chat_messages = policy_scope(ChatMessage).for_player(params[:player_id])

@@ -1,56 +1,57 @@
+# frozen_string_literal: true
 module CommandTypes
   # Movement
-  SCMD_MOVE = 'SCMD_Move'.freeze
-  CMD_MOVE = 'CMD_Move'.freeze
-  SCMD_ATTACKMOVE = 'SCMD_AttackMove'.freeze
-  SCMD_CAPTURE = 'SCMD_Capture'.freeze
-  SCMD_STOP = 'SCMD_Stop'.freeze
-  CMD_RALLYPOINT = 'CMD_RallyPoint'.freeze
-  SCMD_LOAD = 'SCMD_Load'.freeze
-  CMD_UNLOADSQUADS = 'CMD_UnloadSquads'.freeze
-  SCMD_UNLOADSQUADS = 'SCMD_UnloadSquads'.freeze
-  SCMD_UNLOAD = 'SCMD_Unload'.freeze
-  SCMD_ATTACK = 'SCMD_Attack'.freeze
-  CMD_ATTACKFROMHOLD = 'CMD_AttackFromHold'.freeze
-  SCMD_FACE = 'SCMD_Face'.freeze
-  SCMD_PICKUPSLOTITEM = 'SCMD_PickUpSlotItem'.freeze
-  SCMD_CAPTURETEAMWEAPON = 'SCMD_CaptureTeamWeapon'.freeze
-  SCMD_RECREW = 'SCMD_Recrew'.freeze
+  SCMD_MOVE = 'SCMD_Move'
+  CMD_MOVE = 'CMD_Move'
+  SCMD_ATTACKMOVE = 'SCMD_AttackMove'
+  SCMD_CAPTURE = 'SCMD_Capture'
+  SCMD_STOP = 'SCMD_Stop'
+  CMD_RALLYPOINT = 'CMD_RallyPoint'
+  SCMD_LOAD = 'SCMD_Load'
+  CMD_UNLOADSQUADS = 'CMD_UnloadSquads'
+  SCMD_UNLOADSQUADS = 'SCMD_UnloadSquads'
+  SCMD_UNLOAD = 'SCMD_Unload'
+  SCMD_ATTACK = 'SCMD_Attack'
+  CMD_ATTACKFROMHOLD = 'CMD_AttackFromHold'
+  SCMD_FACE = 'SCMD_Face'
+  SCMD_PICKUPSLOTITEM = 'SCMD_PickUpSlotItem'
+  SCMD_CAPTURETEAMWEAPON = 'SCMD_CaptureTeamWeapon'
+  SCMD_RECREW = 'SCMD_Recrew'
 
   # Retreat
-  SCMD_RETREAT = 'SCMD_Retreat'.freeze
+  SCMD_RETREAT = 'SCMD_Retreat'
 
   # Reinforce
-  SCMD_REINFORCEUNIT = 'SCMD_ReinforceUnit'.freeze
+  SCMD_REINFORCEUNIT = 'SCMD_ReinforceUnit'
 
   # Units
-  CMD_BUILDSQUAD = 'CMD_BuildSquad'.freeze
+  CMD_BUILDSQUAD = 'CMD_BuildSquad'
 
   # Structures
-  PCMD_CONSTRUCTSTRUCTURE = 'PCMD_ConstructStructure'.freeze
-  PCMD_CONSTRUCTFENCE = 'PCMD_ConstructFence'.freeze
-  PCMD_CONSTRUCTFIELD = 'PCMD_ConstructField'.freeze
-  SCMD_BUILDSTRUCTURE = 'SCMD_BuildStructure'.freeze
+  PCMD_CONSTRUCTSTRUCTURE = 'PCMD_ConstructStructure'
+  PCMD_CONSTRUCTFENCE = 'PCMD_ConstructFence'
+  PCMD_CONSTRUCTFIELD = 'PCMD_ConstructField'
+  SCMD_BUILDSTRUCTURE = 'SCMD_BuildStructure'
 
   # Abilities
-  SCMD_ABILITY = 'SCMD_Ability'.freeze
-  PCMD_ABILITY = 'PCMD_Ability'.freeze
-  CMD_ABILITY = 'CMD_Ability'.freeze
+  SCMD_ABILITY = 'SCMD_Ability'
+  PCMD_ABILITY = 'PCMD_Ability'
+  CMD_ABILITY = 'CMD_Ability'
 
   # Upgrades
-  CMD_UPGRADE = 'CMD_Upgrade'.freeze
-  SCMD_UPGRADE = 'SCMD_Upgrade'.freeze
+  CMD_UPGRADE = 'CMD_Upgrade'
+  SCMD_UPGRADE = 'SCMD_Upgrade'
 
   # Commander
-  PCMD_SETCOMMANDER = 'PCMD_SetCommander'.freeze
+  PCMD_SETCOMMANDER = 'PCMD_SetCommander'
 
   # Misc
-  CMD_CANCELPRODUCTION = 'CMD_CancelProduction'.freeze
-  SCMD_CANCELPRODUCTION = 'SCMD_CancelProduction'.freeze
-  PCMD_AIPLAYER = 'PCMD_AIPlayer'.freeze
-  PCMD_SURRENDER = 'PCMD_Surrender'.freeze
-  CMD_DESTROY = 'CMD_Destroy'.freeze
-  SCMD_DESTROY = 'SCMD_Destroy'.freeze
+  CMD_CANCELPRODUCTION = 'CMD_CancelProduction'
+  SCMD_CANCELPRODUCTION = 'SCMD_CancelProduction'
+  PCMD_AIPLAYER = 'PCMD_AIPlayer'
+  PCMD_SURRENDER = 'PCMD_Surrender'
+  CMD_DESTROY = 'CMD_Destroy'
+  SCMD_DESTROY = 'SCMD_Destroy'
 
   MOVEMENT_COMMAND_TYPES = Set[SCMD_MOVE,
                                CMD_MOVE,
@@ -80,14 +81,14 @@ module CommandTypes
   RETREAT_COMMAND_TYPES = [SCMD_RETREAT].freeze
   REINFORCE_COMMAND_TYPES = [SCMD_REINFORCEUNIT].freeze
 
-  MOVEMENT = 'Movement'.freeze
-  UNITS = 'Units'.freeze
-  STRUCTURES = 'Structures'.freeze
-  UPGRADES = 'Upgrades'.freeze
-  ABILITIES = 'Abilities'.freeze
-  COMMANDER = 'Commander'.freeze
-  RETREAT = 'Retreat'.freeze
-  REINFORCE = 'Reinforce'.freeze
+  MOVEMENT = 'Movement'
+  UNITS = 'Units'
+  STRUCTURES = 'Structures'
+  UPGRADES = 'Upgrades'
+  ABILITIES = 'Abilities'
+  COMMANDER = 'Commander'
+  RETREAT = 'Retreat'
+  REINFORCE = 'Reinforce'
 
   def self.entity_name_functions
     unit_entity_name = proc { |entity_id| Relic::Attributes::Sbps.to_localized_string(entity_id, :english) }

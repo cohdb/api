@@ -1,3 +1,4 @@
+# frozen_string_literal: true
 module Relic
   module Attributes
     class Faceplates < Relic::Attributes::Collection
@@ -5,12 +6,12 @@ module Relic
         protected
 
         def permitted_attributes
-          [
-            :server_id,
-            :pbgid,
-            :name,
-            :icon,
-            :rarity,
+          %i[
+            server_id
+            pbgid
+            name
+            icon
+            rarity
           ]
         end
 

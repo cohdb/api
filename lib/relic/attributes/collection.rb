@@ -1,3 +1,4 @@
+# frozen_string_literal: true
 module Relic
   module Attributes
     class Collection < Relic::Attributes::Base
@@ -24,7 +25,7 @@ module Relic
         private
 
         def attributes
-          @attributes ||= YAML.load(File.read(config_file_name))
+          @attributes ||= YAML.safe_load(File.read(config_file_name))
         end
 
         def parse_directory(directory)
@@ -41,7 +42,7 @@ module Relic
             xml = File.open(file) do |f|
               Nokogiri::XML(f)
             end
-          rescue
+          rescue StandardError
             return
           end
 

@@ -1,3 +1,4 @@
+# frozen_string_literal: true
 module Relic
   module Attributes
     class SkinPacks < Relic::Attributes::Collection
@@ -5,16 +6,16 @@ module Relic
         protected
 
         def permitted_attributes
-          [
-            :server_id,
-            :pbgid,
-            :skin_name,
-            :name,
-            :description,
-            :icon,
-            :icon_secondary,
-            :season,
-            :rarity,
+          %i[
+            server_id
+            pbgid
+            skin_name
+            name
+            description
+            icon
+            icon_secondary
+            season
+            rarity
           ]
         end
 

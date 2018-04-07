@@ -1,3 +1,4 @@
+# frozen_string_literal: true
 module Attributes
   class AttributeCollection
     class << self
@@ -14,14 +15,14 @@ module Attributes
         collection = {}
 
         parse_directory("/Users/ryantaylor/Downloads/assets/data/attributes/instances/#{attribute_directory_name}")
-        
+
         File.open(config_file_name, 'w') do |f|
           f.write(@collection.to_yaml)
         end
       end
 
       def load_from_config
-        @collection = YAML.load(File.read(config_file_name))
+        @collection = YAML.safe_load(File.read(config_file_name))
       end
 
       protected
@@ -66,7 +67,7 @@ module Attributes
           xml = File.open(file) do |f|
             Nokogiri::XML(f)
           end
-        rescue
+        rescue StandardError
           return
         end
 

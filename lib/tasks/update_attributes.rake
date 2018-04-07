@@ -1,3 +1,4 @@
+# frozen_string_literal: true
 namespace :update_attributes do
   desc 'TODO'
   task all: :environment do

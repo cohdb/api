@@ -1,3 +1,4 @@
+# frozen_string_literal: true
 # == Schema Information
 #
 # Table name: replays
@@ -27,8 +28,8 @@
 class Replay < ApplicationRecord
   include Vault
 
-  OPPONENT_TYPES = %w(human cpu).freeze
-  GAME_TYPES = %w(COH2_REC).freeze
+  OPPONENT_TYPES = %w[human cpu].freeze
+  GAME_TYPES = %w[COH2_REC].freeze
 
   belongs_to :user, optional: true
 
@@ -75,7 +76,7 @@ class Replay < ApplicationRecord
     ActiveRecord::Base.transaction do
       recorded_at = begin
                       json['date_time'].to_datetime
-                    rescue
+                    rescue StandardError
                       nil
                     end
 

@@ -1,3 +1,4 @@
+# frozen_string_literal: true
 # == Schema Information
 #
 # Table name: players
@@ -21,7 +22,7 @@
 
 class Player < ApplicationRecord
   MAX_ENTITY_ID = 2_147_483_647
-  FACTIONS = %w(soviet aef british german west_german).freeze
+  FACTIONS = %w[soviet aef british german west_german].freeze
 
   belongs_to :replay
   has_many :commands, -> { order(:tick) }
@@ -47,7 +48,7 @@ class Player < ApplicationRecord
     Rails.cache.fetch(steam_avatar_url_cache_key) do
       Steam::User.summary(steam_id)['avatar']
     end
-  rescue
+  rescue StandardError
     nil
   end
 
@@ -99,7 +100,7 @@ class Player < ApplicationRecord
       Steam::User.summaries(unloaded_ids).each do |summary|
         Rails.cache.write(steam_avatar_url_cache_key(summary['steamid']), summary['avatar'])
       end
-    rescue
+    rescue StandardError
       nil
     end
   end

@@ -1,3 +1,4 @@
+# frozen_string_literal: true
 # == Schema Information
 #
 # Table name: replays
@@ -31,6 +32,6 @@ class ReplaySerializer < ApplicationSerializer
   belongs_to :user
 
   def include
-    [:players, :user]
+    %i[players user]
   end
 end

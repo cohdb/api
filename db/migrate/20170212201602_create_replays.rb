@@ -1,3 +1,4 @@
+# frozen_string_literal: true
 class CreateReplays < ActiveRecord::Migration[5.0]
   def change
     create_table :replays do |t|
