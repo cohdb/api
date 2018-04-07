@@ -3,11 +3,12 @@ jobs:
   build:
     working_directory: ~/cohdb
     docker:
-      - image: circleci/ruby:2.5-node
+      - image: cohdb/circleci:latest
         environment:
           BUNDLE_JOBS: 3
           BUNDLE_RETRY: 3
           BUNDLE_PATH: vendor/bundle
+          VAULT_PATH: /lib/vault/target/release/libvault.so
           PGHOST: 127.0.0.1
           PGUSER: cohdb
           RAILS_ENV: test
