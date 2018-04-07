@@ -14,7 +14,11 @@
 #  index_chat_messages_on_player_id  (player_id)
 #
 
-class ChatMessageSerializer < ApplicationSerializer
-  set_type :chat_message
-  attributes :id, :player_id, :tick, :message
+FactoryBot.define do
+  factory :chat_message do
+    association :player, factory: :player, strategy: :build
+
+    tick { Faker::Number.number(5) }
+    message { Faker::StarWars.quote }
+  end
 end

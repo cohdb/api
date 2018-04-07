@@ -24,13 +24,24 @@
 #  index_replays_on_user_id  (user_id)
 #
 
-class ReplaySerializer < ApplicationSerializer
-  set_type :replay
-  attributes :id, :user_id, :version, :length, :map_name, :url, :recorded_at, :created_at
-  has_many :players
-  belongs_to :user
+FactoryBot.define do
+  factory :replay do
+    rec { Rack::Test::UploadedFile.new(File.join(Rails.root, '/spec/support/fixtures', 'test_replay.rec')) }
 
-  def include
-    [:players, :user]
+    opponent_type { Replay::OPPONENT_TYPES.sample }
+    game_type { Replay::GAME_TYPES.sample }
+    map { "$#{Faker::Number.between(10000000, 99999999)}" }
+    recorded_at { Faker::Time.between(1.day.ago, 1.day.from_now, :all) }
+    recorded_at_text { Faker::Time.between(1.day.ago, 1.day.from_now, :all).to_s }
+    version { Faker::Number.between(1, 10000) }
+    length { Faker::Number.number(5) }
+
+    trait :with_user do
+      association :user, factory: :user, strategy: :build
+    end
+
+    trait :with_players do
+      players { build_list(:player, 2) }
+    end
   end
 end

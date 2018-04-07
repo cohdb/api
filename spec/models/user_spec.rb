@@ -25,7 +25,24 @@
 #  index_users_on_uid  (uid) UNIQUE
 #
 
-class UserSerializer < ApplicationSerializer
-  set_type :user
-  attributes :id, :provider, :uid, :name, :nickname, :location, :image
+require 'rails_helper'
+
+RSpec.describe User, type: :model do
+  describe 'validations' do
+    subject { build(:user) }
+
+    it 'has a valid factory' do
+      should be_valid
+    end
+
+    it 'is invalid without a provider' do
+      subject.provider = nil
+      should be_invalid
+    end
+
+    it 'is invalid without a uid' do
+      subject.uid = nil
+      should be_invalid
+    end
+  end
 end

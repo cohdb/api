@@ -1,19 +1,53 @@
+# == Schema Information
+#
+# Table name: replays
+#
+#  id               :integer          not null, primary key
+#  user_id          :integer
+#  version          :integer          not null
+#  length           :integer          not null
+#  map              :string           not null
+#  rng_seed         :integer
+#  opponent_type    :string
+#  game_type        :string
+#  recorded_at      :datetime
+#  rec_file_name    :string
+#  rec_content_type :string
+#  rec_file_size    :integer
+#  rec_updated_at   :datetime
+#  created_at       :datetime         not null
+#  updated_at       :datetime         not null
+#  recorded_at_text :string           default(""), not null
+#
+# Indexes
+#
+#  index_replays_on_user_id  (user_id)
+#
+
 class Replay < ApplicationRecord
   include Vault
 
   OPPONENT_TYPES = %w(human cpu).freeze
+  GAME_TYPES = %w(COH2_REC).freeze
 
   belongs_to :user, optional: true
+
   has_many :players
   has_many :commands, through: :players
   has_many :chat_messages, through: :players
 
   has_attached_file :rec
 
-  validates_attachment :rec, content_type: { content_type: ['application/octet-stream'] },
+  validates_attachment :rec, presence: true,
+                             content_type: { content_type: ['application/octet-stream'] },
                              size: { less_than: 25.megabytes }
 
-  validates :game_type, inclusion: { in: ['COH2_REC'] }
+  validates :opponent_type, presence: true, inclusion: { in: OPPONENT_TYPES }
+  validates :game_type, presence: true, inclusion: { in: GAME_TYPES }
+  validates :map, presence: true
+  validates :recorded_at_text, presence: true
+  validates :version, numericality: { only_integer: true, greater_than: 0 }
+  validates :length, numericality: { only_integer: true, greater_than_or_equal_to: 0 }
 
   def map_resource_id
     map.delete('$')
@@ -53,6 +87,7 @@ class Replay < ApplicationRecord
                               opponent_type: OPPONENT_TYPES[json['opponent_type'] - 1],
                               game_type: json['game_type'],
                               recorded_at: recorded_at,
+                              recorded_at_text: json['date_time'],
                               rec: rec)
 
       players = Player.create_from_json(replay, json)
