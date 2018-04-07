@@ -1,4 +1,3 @@
-# frozen_string_literal: true
 # == Schema Information
 #
 # Table name: players
@@ -153,7 +152,7 @@ RSpec.describe Player, type: :model do
       let(:commander) { '1' }
 
       it 'returns Unknown placeholder' do
-        expect(subject).to eq('UNKNOWN')
+        expect(subject).to eq('UNKNOWN2')
       end
     end
   end
