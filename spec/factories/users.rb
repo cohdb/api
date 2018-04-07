@@ -25,24 +25,10 @@
 #  index_users_on_uid  (uid) UNIQUE
 #
 
-require 'rails_helper'
-
-RSpec.describe User do
-  describe 'validations' do
-    subject { build(:user) }
-
-    it 'has a valid factory' do
-      should be_valid
-    end
-
-    it 'is invalid without a provider' do
-      subject.provider = nil
-      should be_invalid
-    end
-
-    it 'is invalid without a uid' do
-      subject.uid = nil
-      should be_invalid
-    end
+FactoryBot.define do
+  factory :user do
+    provider 'steam'
+    uid Faker::Number.number(17).to_s
+    name Faker::ParksAndRec.character
   end
 end
