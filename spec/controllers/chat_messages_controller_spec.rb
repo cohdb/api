@@ -12,6 +12,11 @@ RSpec.describe ChatMessagesController do
       get :index
     end
 
+    it 'uses policy scope' do
+      expect_any_instance_of(ChatMessagePolicy::Scope).to receive(:resolve).and_call_original
+      get :index
+    end
+
     context 'params' do
       before do
         allow_any_instance_of(ChatMessagePolicy::Scope).to receive(:resolve).and_call_original
