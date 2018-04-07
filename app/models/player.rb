@@ -35,6 +35,7 @@ class Player < ApplicationRecord
   scope :for_replay, ->(replay) { replay.nil? ? all : where(replay: replay) }
 
   def commander_name
+    return 'Not Chosen' if commander.to_i.zero?
     Relic::Attributes::Commanders.to_localized_string(commander, :english)
   end
 

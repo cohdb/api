@@ -1,33 +1,159 @@
 ---
-'390039':
-  :server_id: '390039'
-  :pbgid: '18715'
-  :name: '11080228'
-  :icon: _Faceplate_AA_Bronze_Icon
+'347819':
+  :server_id: '347819'
+  :pbgid: '17576'
+  :name: '11075089'
+  :icon: Icons_faceplate_frames_faceplate_frame_default_gold_icon
+  :rarity: common
+'402119':
+  :server_id: '402119'
+  :pbgid: '85902'
+  :name: '11077346'
+  :icon: _WarEffort_Silver_Icon
+  :rarity: event
+'346847':
+  :server_id: '346847'
+  :pbgid: '17180'
+  :name: '11074525'
+  :icon: Icons_faceplate_frames_faceplate_frame_preorder_us_icon
+  :rarity: epic
+'451773':
+  :server_id: '451773'
+  :pbgid: '133599'
+  :name: '11145278'
+  :icon: Icons_faceplate_frames_faceplate_frame_soviet_aow_icon
   :rarity: reward
+'450003':
+  :server_id: '450003'
+  :pbgid: '89084'
+  :name: '11083942'
+  :icon: Icons_faceplate_frames_faceplate_frame_remembrance_icon
+  :rarity: epic
+'402118':
+  :server_id: '402118'
+  :pbgid: '85901'
+  :name: '11077347'
+  :icon: _WarEffort_Gold_Icon
+  :rarity: event
+'404726':
+  :server_id: '404726'
+  :pbgid: '87324'
+  :name: '11081654'
+  :icon: _Faceplate_AA_Gold_Icon
+  :rarity: reward
+'346849':
+  :server_id: '346849'
+  :pbgid: '17182'
+  :name: '11074524'
+  :icon: Icons_faceplate_frames_faceplate_frame_preorder_obk_icon
+  :rarity: epic
 '390041':
   :server_id: '390041'
   :pbgid: '18717'
   :name: '11080229'
   :icon: _Faceplate_AA_Gold_Icon
   :rarity: reward
-'390040':
-  :server_id: '390040'
-  :pbgid: '18716'
-  :name: '11080230'
-  :icon: _Faceplate_AA_Silver_Icon
+'451479':
+  :server_id: '451479'
+  :pbgid: '114222'
+  :name: '11130581'
+  :icon: Icons_faceplate_frames_faceplate_frame_stormless_icon
   :rarity: reward
+'348129':
+  :server_id: '348129'
+  :pbgid: '17587'
+  :name: '11075362'
+  :icon: Icons_faceplate_frames_faceplate_frame_preorder_obkmedal_icon
+  :rarity: uncommon
+'404722':
+  :server_id: '404722'
+  :pbgid: '87320'
+  :name: '11081650'
+  :icon: _Faceplate_AA_Bronze_Icon
+  :rarity: reward
+'451771':
+  :server_id: '451771'
+  :pbgid: '133597'
+  :name: '11145278'
+  :icon: Icons_faceplate_frames_faceplate_frame_german_aow_icon
+  :rarity: reward
+'346851':
+  :server_id: '346851'
+  :pbgid: '17184'
+  :name: '11074527'
+  :icon: Icons_faceplate_frames_faceplate_frame_relic_icon
+  :rarity: epic
+'450410':
+  :server_id: '450410'
+  :pbgid: '95574'
+  :name: '11096385'
+  :icon: Icons_faceplate_frames_faceplate_frame_relic_alphatester_ukf_icon
+  :rarity: rare
 '404719':
   :server_id: '404719'
   :pbgid: '87317'
   :name: '11081647'
   :icon: _Faceplate_AA_Bronze_Icon
   :rarity: reward
-'404720':
-  :server_id: '404720'
-  :pbgid: '87318'
-  :name: '11081648'
-  :icon: _Faceplate_AA_Gold_Icon
+'451001':
+  :server_id: '451001'
+  :pbgid: '108798'
+  :name: '11127835'
+  :icon: Icons_faceplate_frames_faceplate_frame_wpc_silver_icon
+  :rarity: reward
+'390039':
+  :server_id: '390039'
+  :pbgid: '18715'
+  :name: '11080228'
+  :icon: _Faceplate_AA_Bronze_Icon
+  :rarity: reward
+'390062':
+  :server_id: '390062'
+  :pbgid: '18718'
+  :name: '11077354'
+  :icon: _WarEffort_All_Icon
+  :rarity: event
+'7326':
+  :server_id: '7326'
+  :pbgid: '6'
+  :name: '11052413'
+  :icon: Icons_faceplate_frames_faceplate_frame_free_a_icon
+  :rarity: common
+'404727':
+  :server_id: '404727'
+  :pbgid: '87325'
+  :name: '11081655'
+  :icon: _Faceplate_AA_Silver_Icon
+  :rarity: reward
+'451781':
+  :server_id: '451781'
+  :pbgid: '133607'
+  :name: '11145280'
+  :icon: Icons_faceplate_frames_faceplate_frame_gcs_icon
+  :rarity: reward
+'7327':
+  :server_id: '7327'
+  :pbgid: '7'
+  :name: '11052414'
+  :icon: Icons_faceplate_frames_faceplate_frame_free_b_icon
+  :rarity: common
+'451002':
+  :server_id: '451002'
+  :pbgid: '108799'
+  :name: '11127834'
+  :icon: Icons_faceplate_frames_faceplate_frame_wpc_bronze_icon
+  :rarity: reward
+'349927':
+  :server_id: '349927'
+  :pbgid: '17772'
+  :name: '11075654'
+  :icon: Icons_faceplate_frames_faceplate_frame_relic_alphatester_icon
+  :rarity: rare
+'451775':
+  :server_id: '451775'
+  :pbgid: '133601'
+  :name: '11145278'
+  :icon: Icons_faceplate_frames_faceplate_frame_usf_aow_icon
   :rarity: reward
 '404721':
   :server_id: '404721'
@@ -35,23 +161,29 @@
   :name: '11081649'
   :icon: _Faceplate_AA_Silver_Icon
   :rarity: reward
-'404722':
-  :server_id: '404722'
-  :pbgid: '87320'
-  :name: '11081650'
-  :icon: _Faceplate_AA_Bronze_Icon
-  :rarity: reward
-'404723':
-  :server_id: '404723'
-  :pbgid: '87321'
-  :name: '11081651'
-  :icon: _Faceplate_AA_Gold_Icon
-  :rarity: reward
 '404724':
   :server_id: '404724'
   :pbgid: '87322'
   :name: '11081652'
   :icon: _Faceplate_AA_Silver_Icon
+  :rarity: reward
+'348130':
+  :server_id: '348130'
+  :pbgid: '17588'
+  :name: '11075363'
+  :icon: Icons_faceplate_frames_faceplate_frame_preorder_usmedal_icon
+  :rarity: uncommon
+'451778':
+  :server_id: '451778'
+  :pbgid: '133604'
+  :name: '11145279'
+  :icon: Icons_faceplate_frames_faceplate_frame_soviet_faction_support_icon
+  :rarity: reward
+'404720':
+  :server_id: '404720'
+  :pbgid: '87318'
+  :name: '11081648'
+  :icon: _Faceplate_AA_Gold_Icon
   :rarity: reward
 '404725':
   :server_id: '404725'
@@ -59,41 +191,125 @@
   :name: '11081653'
   :icon: _Faceplate_AA_Bronze_Icon
   :rarity: reward
-'404726':
-  :server_id: '404726'
-  :pbgid: '87324'
-  :name: '11081654'
-  :icon: _Faceplate_AA_Gold_Icon
+'451774':
+  :server_id: '451774'
+  :pbgid: '133600'
+  :name: '11145278'
+  :icon: Icons_faceplate_frames_faceplate_frame_ukf_aow_icon
   :rarity: reward
-'404727':
-  :server_id: '404727'
-  :pbgid: '87325'
-  :name: '11081655'
-  :icon: _Faceplate_AA_Silver_Icon
+'451777':
+  :server_id: '451777'
+  :pbgid: '133603'
+  :name: '11145279'
+  :icon: Icons_faceplate_frames_faceplate_frame_west_german_koth_icon
   :rarity: reward
-'69276':
-  :server_id: '69276'
-  :pbgid: '14197'
-  :name: '11055069'
-  :icon: Icons_faceplate_frames_faceplate_frame_champion_icon
-  :rarity: epic
+'451452':
+  :server_id: '451452'
+  :pbgid: '113690'
+  :name: '11129814'
+  :icon: Icons_faceplate_frames_faceplate_frame_okw_faction_support_icon
+  :rarity: reward
 '7274':
   :server_id: '7274'
   :pbgid: '0'
   :name: '11051619'
   :icon: Icons_faceplate_frames_faceplate_frame_collector_nobg_icon
   :rarity: epic
+'69276':
+  :server_id: '69276'
+  :pbgid: '14197'
+  :name: '11055069'
+  :icon: Icons_faceplate_frames_faceplate_frame_champion_icon
+  :rarity: epic
+'451000':
+  :server_id: '451000'
+  :pbgid: '108797'
+  :name: '11127832'
+  :icon: Icons_faceplate_frames_faceplate_frame_wpc_gold_icon
+  :rarity: reward
+'451454':
+  :server_id: '451454'
+  :pbgid: '113692'
+  :name: '11129815'
+  :icon: Icons_faceplate_frames_faceplate_frame_soviet_koth_icon
+  :rarity: reward
+'346845':
+  :server_id: '346845'
+  :pbgid: '17177'
+  :name: '11075133'
+  :icon: Icons_faceplate_frames_faceplate_frame_mom_icon
+  :rarity: epic
+'390040':
+  :server_id: '390040'
+  :pbgid: '18716'
+  :name: '11080230'
+  :icon: _Faceplate_AA_Silver_Icon
+  :rarity: reward
+'451776':
+  :server_id: '451776'
+  :pbgid: '133602'
+  :name: '11145279'
+  :icon: Icons_faceplate_frames_faceplate_frame_german_koth_icon
+  :rarity: reward
+'349753':
+  :server_id: '349753'
+  :pbgid: '17758'
+  :name: '11075610'
+  :icon: Icons_faceplate_frames_faceplate_frame_paratrooper_icon
+  :rarity: rare
+'450999':
+  :server_id: '450999'
+  :pbgid: '108796'
+  :name: '11127833'
+  :icon: Icons_faceplate_frames_faceplate_frame_wpc_contributor_icon
+  :rarity: reward
+'402117':
+  :server_id: '402117'
+  :pbgid: '85900'
+  :name: '11077345'
+  :icon: _WarEffort_Bronze_Icon
+  :rarity: event
+'451772':
+  :server_id: '451772'
+  :pbgid: '133598'
+  :name: '11145278'
+  :icon: Icons_faceplate_frames_faceplate_frame_west_german_aow_icon
+  :rarity: reward
+'451779':
+  :server_id: '451779'
+  :pbgid: '133605'
+  :name: '11145279'
+  :icon: Icons_faceplate_frames_faceplate_frame_ukf_faction_support_icon
+  :rarity: reward
+'451455':
+  :server_id: '451455'
+  :pbgid: '113693'
+  :name: '11129816'
+  :icon: Icons_faceplate_frames_faceplate_frame_ukf_koth_icon
+  :rarity: reward
+'7331':
+  :server_id: '7331'
+  :pbgid: '5'
+  :name: '11052412'
+  :icon: Icons_faceplate_frames_faceplate_frame_dlc_d_icon
+  :rarity: uncommon
+'451453':
+  :server_id: '451453'
+  :pbgid: '113691'
+  :name: '11129813'
+  :icon: Icons_faceplate_frames_faceplate_frame_german_faction_support_icon
+  :rarity: reward
+'404723':
+  :server_id: '404723'
+  :pbgid: '87321'
+  :name: '11081651'
+  :icon: _Faceplate_AA_Gold_Icon
+  :rarity: reward
 '7272':
   :server_id: '7272'
   :pbgid: '1'
   :name: '11051620'
   :icon: Icons_faceplate_frames_faceplate_frame_prestige_nobg_icon
-  :rarity: common
-'347819':
-  :server_id: '347819'
-  :pbgid: '17576'
-  :name: '11075089'
-  :icon: Icons_faceplate_frames_faceplate_frame_default_gold_icon
   :rarity: common
 '7328':
   :server_id: '7328'
@@ -101,141 +317,27 @@
   :name: '11052409'
   :icon: Icons_faceplate_frames_faceplate_frame_dlc_a_icon
   :rarity: uncommon
-'7329':
-  :server_id: '7329'
-  :pbgid: '3'
-  :name: '11052410'
-  :icon: Icons_faceplate_frames_faceplate_frame_dlc_b_icon
-  :rarity: uncommon
 '7330':
   :server_id: '7330'
   :pbgid: '4'
   :name: '11052411'
   :icon: Icons_faceplate_frames_faceplate_frame_dlc_c_icon
   :rarity: rare
-'7331':
-  :server_id: '7331'
-  :pbgid: '5'
-  :name: '11052412'
-  :icon: Icons_faceplate_frames_faceplate_frame_dlc_d_icon
+'451456':
+  :server_id: '451456'
+  :pbgid: '113694'
+  :name: '11129817'
+  :icon: Icons_faceplate_frames_faceplate_frame_usf_koth_icon
+  :rarity: reward
+'451780':
+  :server_id: '451780'
+  :pbgid: '133606'
+  :name: '11145279'
+  :icon: Icons_faceplate_frames_faceplate_frame_usf_faction_support_icon
+  :rarity: reward
+'7329':
+  :server_id: '7329'
+  :pbgid: '3'
+  :name: '11052410'
+  :icon: Icons_faceplate_frames_faceplate_frame_dlc_b_icon
   :rarity: uncommon
-'7326':
-  :server_id: '7326'
-  :pbgid: '6'
-  :name: '11052413'
-  :icon: Icons_faceplate_frames_faceplate_frame_free_a_icon
-  :rarity: common
-'7327':
-  :server_id: '7327'
-  :pbgid: '7'
-  :name: '11052414'
-  :icon: Icons_faceplate_frames_faceplate_frame_free_b_icon
-  :rarity: common
-'346845':
-  :server_id: '346845'
-  :pbgid: '17177'
-  :name: '11075133'
-  :icon: Icons_faceplate_frames_faceplate_frame_mom_icon
-  :rarity: epic
-'349753':
-  :server_id: '349753'
-  :pbgid: '17758'
-  :name: '11075610'
-  :icon: Icons_faceplate_frames_faceplate_frame_paratrooper_icon
-  :rarity: rare
-'346851':
-  :server_id: '346851'
-  :pbgid: '17184'
-  :name: '11074527'
-  :icon: Icons_faceplate_frames_faceplate_frame_relic_icon
-  :rarity: epic
-'349927':
-  :server_id: '349927'
-  :pbgid: '17772'
-  :name: '11075654'
-  :icon: Icons_faceplate_frames_faceplate_frame_relic_alphatester_icon
-  :rarity: rare
-'450410':
-  :server_id: '450410'
-  :pbgid: '95574'
-  :name: '11096385'
-  :icon: Icons_faceplate_frames_faceplate_frame_relic_alphatester_ukf_icon
-  :rarity: rare
-'450003':
-  :server_id: '450003'
-  :pbgid: '89084'
-  :name: '11083942'
-  :icon: Icons_faceplate_frames_faceplate_frame_remembrance_icon
-  :rarity: epic
-'390062':
-  :server_id: '390062'
-  :pbgid: '18718'
-  :name: '11077354'
-  :icon: _WarEffort_All_Icon
-  :rarity: event
-'402117':
-  :server_id: '402117'
-  :pbgid: '85900'
-  :name: '11077345'
-  :icon: _WarEffort_Bronze_Icon
-  :rarity: event
-'402118':
-  :server_id: '402118'
-  :pbgid: '85901'
-  :name: '11077347'
-  :icon: _WarEffort_Gold_Icon
-  :rarity: event
-'402119':
-  :server_id: '402119'
-  :pbgid: '85902'
-  :name: '11077346'
-  :icon: _WarEffort_Silver_Icon
-  :rarity: event
-'348129':
-  :server_id: '348129'
-  :pbgid: '17587'
-  :name: '11075362'
-  :icon: Icons_faceplate_frames_faceplate_frame_preorder_obkmedal_icon
-  :rarity: uncommon
-'348130':
-  :server_id: '348130'
-  :pbgid: '17588'
-  :name: '11075363'
-  :icon: Icons_faceplate_frames_faceplate_frame_preorder_usmedal_icon
-  :rarity: uncommon
-'346849':
-  :server_id: '346849'
-  :pbgid: '17182'
-  :name: '11074524'
-  :icon: Icons_faceplate_frames_faceplate_frame_preorder_obk_icon
-  :rarity: epic
-'346847':
-  :server_id: '346847'
-  :pbgid: '17180'
-  :name: '11074525'
-  :icon: Icons_faceplate_frames_faceplate_frame_preorder_us_icon
-  :rarity: epic
-'451002':
-  :server_id: '451002'
-  :pbgid: '108799'
-  :name: '0'
-  :icon: Icons_faceplate_frames_faceplate_frame_wpc_bronze_icon
-  :rarity: reward
-'450999':
-  :server_id: '450999'
-  :pbgid: '108796'
-  :name: '0'
-  :icon: Icons_faceplate_frames_faceplate_frame_wpc_contributor_icon
-  :rarity: reward
-'451000':
-  :server_id: '451000'
-  :pbgid: '108797'
-  :name: '0'
-  :icon: Icons_faceplate_frames_faceplate_frame_wpc_gold_icon
-  :rarity: reward
-'451001':
-  :server_id: '451001'
-  :pbgid: '108798'
-  :name: '0'
-  :icon: Icons_faceplate_frames_faceplate_frame_wpc_silver_icon
-  :rarity: reward
