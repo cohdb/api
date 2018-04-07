@@ -2,6 +2,7 @@ class ApplicationController < ActionController::API
   include Pundit
 
   rescue_from Pundit::NotAuthorizedError, with: :not_authorized
+  rescue_from ActiveRecord::RecordNotFound, with: :not_found
 
   def doorkeeper_unauthorized_render_options(error)
     response = [
@@ -45,5 +46,17 @@ class ApplicationController < ActionController::API
     ]
 
     render json: { errors: response }, status: :forbidden
+  end
+
+  def not_found(exception)
+    response = [
+      {
+        code: :not_found,
+        title: 'Not Found',
+        detail: exception.message
+      }
+    ]
+
+    render json: { errors: response }, status: :not_found
   end
 end
