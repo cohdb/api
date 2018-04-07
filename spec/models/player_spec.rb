@@ -119,8 +119,24 @@ RSpec.describe Player, type: :model do
     let(:player) { build(:player, commander: commander) }
     subject { player.commander_name }
 
+    context 'nil commander ID' do
+      let(:commander) { nil }
+
+      it 'returns not chosen placeholder' do
+        expect(subject).to eq('Not Chosen')
+      end
+    end
+
+    context 'commander ID of zero (unselected)' do
+      let(:commander) { '0' }
+
+      it 'returns not chosen placeholder' do
+        expect(subject).to eq('Not Chosen')
+      end
+    end
+
     context 'known commander ID' do
-      let(:commander) { 'known' }
+      let(:commander) { '1' }
 
       before do
         allow(Relic::Attributes::Commanders).to receive(:to_localized_string).with(commander, :english).and_return('Known Commander')
@@ -132,7 +148,7 @@ RSpec.describe Player, type: :model do
     end
 
     context 'unknown commander ID' do
-      let(:commander) { 'unknown' }
+      let(:commander) { '1' }
 
       it 'returns Unknown placeholder' do
         expect(subject).to eq('UNKNOWN')
