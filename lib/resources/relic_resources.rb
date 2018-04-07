@@ -8,7 +8,7 @@ module Resources
       def parse_resources(language)
         collection = {}
 
-        File.open('/Users/ryantaylor/Downloads/RelicCoH2.English.ucs', 'rb:UTF-16LE') do |file|
+        File.open('/Users/ryantaylor/Downloads/assets/RelicCoH2.English.ucs', 'rb:UTF-16LE') do |file|
           file.each_line do |line|
             resource_id, resource_text = line.strip.split("\t")
             collection[resource_id] = resource_text
