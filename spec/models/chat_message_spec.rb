@@ -54,4 +54,72 @@ RSpec.describe ChatMessage do
       should be_valid
     end
   end
+
+  describe 'scopes' do
+    describe 'for_player' do
+      let!(:chat_message) { create(:chat_message) }
+      subject { described_class.for_player(player) }
+
+      before do
+        create(:chat_message)
+      end
+
+      context 'nil input' do
+        let(:player) { nil }
+
+        it 'returns all players' do
+          expect(subject.count).to eq(2)
+        end
+      end
+
+      context 'player input' do
+        let(:player) { chat_message.player }
+
+        it 'returns all players for that player' do
+          expect(subject).to contain_exactly(chat_message)
+        end
+      end
+
+      context 'player ID input' do
+        let(:player) { chat_message.player_id }
+
+        it 'returns all players for that player' do
+          expect(subject).to contain_exactly(chat_message)
+        end
+      end
+    end
+
+    describe 'for_replay' do
+      let!(:chat_message) { create(:chat_message) }
+      subject { described_class.for_replay(replay) }
+
+      before do
+        create(:chat_message)
+      end
+
+      context 'nil input' do
+        let(:replay) { nil }
+
+        it 'returns all chat messages' do
+          expect(subject.count).to eq(2)
+        end
+      end
+
+      context 'replay input' do
+        let(:replay) { chat_message.player.replay }
+
+        it 'returns all chat messages for that replay' do
+          expect(subject).to contain_exactly(chat_message)
+        end
+      end
+
+      context 'replay ID input' do
+        let(:replay) { chat_message.player.replay_id }
+
+        it 'returns all chat messages for that replay' do
+          expect(subject).to contain_exactly(chat_message)
+        end
+      end
+    end
+  end
 end
