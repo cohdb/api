@@ -79,4 +79,64 @@ RSpec.describe Player do
       should be_invalid
     end
   end
+
+  describe 'scopes' do
+    describe 'for_replay' do
+      let!(:player) { create(:player) }
+      subject { described_class.for_replay(replay) }
+
+      before do
+        create(:player)
+      end
+
+      context 'nil input' do
+        let(:replay) { nil }
+
+        it 'returns all players' do
+          expect(subject.count).to eq(2)
+        end
+      end
+
+      context 'replay input' do
+        let(:replay) { player.replay }
+
+        it 'returns all players for that replay' do
+          expect(subject).to contain_exactly(player)
+        end
+      end
+
+      context 'replay ID input' do
+        let(:replay) { player.replay_id }
+
+        it 'returns all players for that replay' do
+          expect(subject).to contain_exactly(player)
+        end
+      end
+    end
+  end
+
+  describe '.commander_name' do
+    let(:player) { build(:player, commander: commander) }
+    subject { player.commander_name }
+
+    context 'known commander ID' do
+      let(:commander) { 'known' }
+
+      before do
+        allow(Relic::Attributes::Commanders).to receive(:to_localized_string).with(commander, :english).and_return('Known Commander')
+      end
+
+      it 'returns English localized string for that commander' do
+        expect(subject).to eq('Known Commander')
+      end
+    end
+
+    context 'unknown commander ID' do
+      let(:commander) { 'unknown' }
+
+      it 'returns Unknown placeholder' do
+        expect(subject).to eq('UNKNOWN')
+      end
+    end
+  end
 end
