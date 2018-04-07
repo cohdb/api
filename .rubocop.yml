@@ -1,8 +1,22 @@
+AllCops:
+  DefaultFormatter: progress
+  DisplayCopNames: true
+  ExtraDetails: true
+  TargetRubyVersion: 2.5
+
+  Exclude:
+    - 'bin/**/*'
+    - 'db/schema.rb'
+    - 'vendor/**/*'
+
 Rails:
   Enabled: true
 
 Layout/EmptyLineAfterMagicComment:
   Enabled: false
+
+Metrics/AbcSize:
+  Max: 25
 
 Metrics/BlockLength:
   Exclude:
@@ -11,11 +25,19 @@ Metrics/BlockLength:
     - 'spec/**/*.rb'
     - 'lib/tasks/**/*.rake'
 
+Metrics/LineLength:
+  Max: 120
+  IgnoredPatterns:
+    - '^# [^\n]+'
+
 Metrics/MethodLength:
   CountComments: false
   Max: 20
   Exclude:
     - 'db/migrate/**/*.rb'
+
+Style/ClassAndModuleChildren:
+  Enabled: false
 
 Style/Documentation:
   Enabled: false
