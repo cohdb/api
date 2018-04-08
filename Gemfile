@@ -12,6 +12,7 @@ gem 'doorkeeper' # token auth
 gem 'dotenv-rails' # environment variable loading
 gem 'fast_jsonapi' # JSON serialization
 gem 'ffi' # foreign function interface for Rust parser
+gem 'graphql', git: 'https://github.com/rmosolgo/graphql-ruby.git' # fancy querying
 gem 'omniauth' # OAuth
 gem 'omniauth-steam', git: 'https://github.com/cohdb/omniauth-steam.git' # Steam authentication
 gem 'paperclip' # file attachments
@@ -45,8 +46,12 @@ group :development do
   gem 'capistrano-passenger' # Restart passenger on deploy
   gem 'capistrano-rails', '~> 1.3' # Migrate/compile assets on deploy
   gem 'capistrano-rbenv', '~> 2.0' # rbenv with deploy
+  gem 'coffee-rails'
+  gem 'graphiql-rails' # gql testing
   gem 'listen', '~> 3.0.5'
   gem 'redis-rails-instrumentation' # redis logging
   gem 'rubocop' # linting
+  gem 'sass-rails'
   gem 'seedbank' # db seeding
+  gem 'uglifier'
 end
