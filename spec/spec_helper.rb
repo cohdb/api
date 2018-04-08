@@ -91,6 +91,19 @@ RSpec.configure do |config|
   # as the one that triggered the failure.
   Kernel.srand config.seed
 
+  config.before :suite do
+    DatabaseCleaner.clean_with :truncation
+  end
+
+  config.before do
+    DatabaseCleaner.strategy = :transaction
+    DatabaseCleaner.start
+  end
+
+  config.after do
+    DatabaseCleaner.clean
+  end
+
   # Clear paperclip test files
   config.after(:suite) do
     FileUtils.rm_rf(Dir[Rails.root.join('public', 'system')])

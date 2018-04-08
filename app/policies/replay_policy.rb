@@ -10,6 +10,10 @@ class ReplayPolicy < ApplicationPolicy
     record.user_id == user&.id
   end
 
+  def permitted_attributes
+    %i[user_id]
+  end
+
   def permitted_attributes_for_create
     %i[user_id rec]
   end

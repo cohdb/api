@@ -2,6 +2,90 @@
 require 'rails_helper'
 
 RSpec.describe ReplaysController, type: :controller do
+  describe 'pagination' do
+    context 'without cursor' do
+      context 'empty params' do
+        it 'returns first entry sorted by descending id' do
+
+        end
+      end
+
+      context 'limit provided' do
+        it 'returns appropriate number of entries sorted by descending id' do
+
+        end
+      end
+
+      context 'filter provided' do
+        it 'filters correctly' do
+
+        end
+      end
+
+      context 'order_by provided' do
+        it 'orders by provided and then descending id' do
+
+        end
+      end
+
+      context 'order_by overrides id order' do
+        it 'orders by provided id order' do
+
+        end
+      end
+    end
+
+    context 'with cursor' do
+      context 'basic id cursor' do
+        it 'returns next dataset' do
+
+        end
+      end
+
+      context 'basic id cursor with filter' do
+        it 'returns next dataset properly filtered' do
+
+        end
+      end
+
+      context 'basic id cursor with multiple filters' do
+        it 'returns next dataset properly filtered' do
+
+        end
+      end
+
+      context 'basic id cursor with limit' do
+        it 'returns next dataset with limit' do
+
+        end
+      end
+
+      context 'cursor with limit and limit param' do
+        it 'returns next dataset overriding cursor limit with limit param' do
+
+        end
+      end
+
+      context 'multiple cursors' do
+        it 'returns next dataset' do
+
+        end
+      end
+
+      context 'cursor with filter params' do
+        it 'raises 400 error' do
+
+        end
+      end
+
+      context 'cursor with order_by params' do
+        it 'raises 400 error' do
+
+        end
+      end
+    end
+  end
+
   describe '#index' do
     it 'returns ok' do
       get :index

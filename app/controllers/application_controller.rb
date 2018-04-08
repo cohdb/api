@@ -24,7 +24,7 @@ class ApplicationController < ActionController::API
     unless subject.is_a?(Hash) || subject.is_a?(Array)
       model = subject.is_a?(ActiveRecord::Relation) ? subject.model : subject.class
       serializer = "#{model.name}Serializer".constantize
-      options[:json] = serializer.new(subject).serialized_json
+      options[:json] = serializer.new(subject, options).serialized_json
     end
 
     args << options
