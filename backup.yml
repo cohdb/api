@@ -1,0 +1,20 @@
+# Used with the coverme Python script to automate db backups
+---
+defaults:
+    tmpdir: /tmp
+    cleanup: yes
+    format: gztar
+
+backups:
+  - type: database
+    url: postgres://cohdb@127.0.0.1:5432/cohdb_production
+    options: -F c -v -b -c -x -C -O
+    to: [backup]
+    name: cohdb_production-{yyyy}-{mm}-{dd}--{HH}--{MM}
+    tags: cohdb, postgres, db, production
+
+vaults:
+  backup:
+    service: s3
+    region: us-east-1
+    name: cohdb-backups
