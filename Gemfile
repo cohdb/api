@@ -47,11 +47,8 @@ group :development do
   gem 'capistrano-rails', '~> 1.3' # Migrate/compile assets on deploy
   gem 'capistrano-rbenv', '~> 2.0' # rbenv with deploy
   gem 'coffee-rails'
-  gem 'graphiql-rails' # gql testing
   gem 'listen', '~> 3.0.5'
   gem 'redis-rails-instrumentation' # redis logging
   gem 'rubocop' # linting
-  gem 'sass-rails'
   gem 'seedbank' # db seeding
-  gem 'uglifier'
 end
