@@ -73,13 +73,12 @@ class Replay < ApplicationRecord
 
     def create_from_json(json, user, rec)
       replay = nil
-      players = []
       ActiveRecord::Base.transaction do
         replay = json_replay_create(json, user, rec)
-        players = Player.create_from_json(replay, json)
+        Player.create_from_json(replay, json)
       end
 
-      [replay, players]
+      replay
     end
 
     private
