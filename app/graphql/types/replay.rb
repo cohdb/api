@@ -1,7 +1,7 @@
 # frozen_string_literal: true
 class Types::Replay < Types::BaseObject
   field :id, ID, null: false
-  field :user_id, ID, null: true
+  field :user, Types::User, null: true
   field :version, Int, null: false
   field :length, Int, null: false
   field :map_name, String, null: false
