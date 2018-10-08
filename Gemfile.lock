@@ -8,9 +8,9 @@ GIT
 
 GIT
   remote: https://github.com/rmosolgo/graphql-ruby.git
-  revision: bb0f0aaf10b2d385b27105d8c15da0834c5af7cc
+  revision: b10f7929f86390efb607e6bfd862eba08caaa92e
   specs:
-    graphql (1.8.0.pre10)
+    graphql (1.8.10)
 
 GIT
   remote: https://github.com/stympy/faker.git
