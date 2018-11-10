@@ -1,4 +1,5 @@
+# frozen_string_literal: true
 class ApiSchema < GraphQL::Schema
-  query Types::Query
-  mutation Types::Mutation
+  query Types::QueryType
+  mutation Types::MutationType
 end
