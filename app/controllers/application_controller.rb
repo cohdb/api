@@ -17,19 +17,19 @@ class ApplicationController < ActionController::API
     { json: { errors: response } }
   end
 
-  def render(*args)
-    options = args.extract_options!
-    subject = options[:json]
-
-    unless subject.is_a?(Hash) || subject.is_a?(Array)
-      model = subject.is_a?(ActiveRecord::Relation) ? subject.model : subject.class
-      serializer = "#{model.name}Serializer".constantize
-      options[:json] = serializer.new(subject).serialized_json
-    end
-
-    args << options
-    super(*args)
-  end
+  # def render(*args)
+  #   options = args.extract_options!
+  #   subject = options[:json]
+  #
+  #   unless subject.is_a?(Hash) || subject.is_a?(Array)
+  #     model = subject.is_a?(ActiveRecord::Relation) ? subject.model : subject.class
+  #     serializer = "#{model.name}Serializer".constantize
+  #     options[:json] = serializer.new(subject).serialized_json
+  #   end
+  #
+  #   args << options
+  #   super(*args)
+  # end
 
   private
 

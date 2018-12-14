@@ -12,6 +12,7 @@ gem 'doorkeeper' # token auth
 gem 'dotenv-rails' # environment variable loading
 gem 'fast_jsonapi' # JSON serialization
 gem 'ffi' # foreign function interface for Rust parser
+gem 'graphql', git: 'https://github.com/rmosolgo/graphql-ruby.git' # fancy querying
 gem 'omniauth' # OAuth
 gem 'omniauth-steam', git: 'https://github.com/cohdb/omniauth-steam.git' # Steam authentication
 gem 'paperclip' # file attachments

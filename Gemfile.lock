@@ -7,6 +7,12 @@ GIT
       omniauth-openid
 
 GIT
+  remote: https://github.com/rmosolgo/graphql-ruby.git
+  revision: b10f7929f86390efb607e6bfd862eba08caaa92e
+  specs:
+    graphql (1.8.10)
+
+GIT
   remote: https://github.com/stympy/faker.git
   revision: f8e1b81f8da82ea9eb88c4939a3a6801f97e5ac1
   branch: master
@@ -864,6 +870,7 @@ DEPENDENCIES
   faker!
   fast_jsonapi
   ffi
+  graphql!
   listen (~> 3.0.5)
   omniauth
   omniauth-steam!
