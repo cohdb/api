@@ -39,9 +39,8 @@ class Replay < ApplicationRecord
 
   has_attached_file :rec
 
-  validates_attachment :rec, presence: true,
-                             content_type: { content_type: ['application/octet-stream'] },
-                             size: { less_than: 25.megabytes }
+  validates_attachment :rec, presence: true, size: { less_than: 25.megabytes }
+  do_not_validate_attachment_file_type :rec
 
   validates :opponent_type, presence: true, inclusion: { in: OPPONENT_TYPES }
   validates :game_type, presence: true, inclusion: { in: GAME_TYPES }
