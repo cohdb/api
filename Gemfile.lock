@@ -681,7 +681,9 @@ GEM
     mime-types (3.1)
       mime-types-data (~> 3.2015)
     mime-types-data (3.2016.0521)
-    mimemagic (0.3.2)
+    mimemagic (0.3.10)
+      nokogiri (~> 1)
+      rake
     mini_mime (1.0.0)
     mini_portile2 (2.3.0)
     minitest (5.11.3)
@@ -712,7 +714,8 @@ GEM
       ast (~> 2.4.0)
     pg (0.21.0)
     powerpack (0.1.1)
-    puma (3.11.3)
+    puma (4.3.9)
+      nio4r (~> 2.0)
     rack (2.0.4)
     rack-cors (1.0.2)
     rack-openid (1.3.1)
@@ -869,7 +872,7 @@ DEPENDENCIES
   omniauth-steam!
   paperclip
   pg (~> 0.18)
-  puma (~> 3.0)
+  puma (~> 4.3)
   pundit!
   rack-cors
   rails (~> 5.0.6)
