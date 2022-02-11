@@ -16,7 +16,7 @@ gem 'omniauth' # OAuth
 gem 'omniauth-steam', git: 'https://github.com/cohdb/omniauth-steam.git' # Steam authentication
 gem 'paperclip' # file attachments
 gem 'pg', '~> 0.18' # postgres
-gem 'puma', '~> 3.0' # web server
+gem 'puma', '~> 4.3' # web server
 gem 'pundit', git: 'https://github.com/varvet/pundit.git' # authorization
 gem 'rack-cors' # CORS handling
 gem 'rails', '~> 5.0.6'
